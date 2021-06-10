@@ -1,0 +1,1083 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -122.4199061,37.7790262 ]
+     },
+     "properties": {
+     "partyear":1999,
+     "partname":"FuelPump/InjectorPump",
+     "partmake":"Mitsubishi",
+     "partmodel":"Eclipse",
+     "partgrade":"A",
+     "partnum":"AL0510",
+     "partprice":132,
+     "partdealer":"ABCAutoPartsInc-SCADA",
+     "partcountry":"USA",
+     "partstate":"CA",
+     "partcity":"San-Francisco",
+     "phonea":"1-415-826-8676",
+     "phoneb":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -72.341581249226,41.579503 ]
+     },
+     "properties": {
+     "partyear":1999,
+     "partname":"FuelPump/InjectorPump",
+     "partmake":"Mitsubishi",
+     "partmodel":"Eclipse",
+     "partgrade":"A",
+     "partnum":"M0252J",
+     "partprice":75,
+     "partdealer":"MandJAutoRecycling",
+     "partcountry":"USA",
+     "partstate":"CT",
+     "partcity":"Colchester",
+     "phonea":"1-800-962-0281",
+     "phoneb":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -85.3094883,35.0457219 ]
+     },
+     "properties": {
+     "partyear":1999,
+     "partname":"FuelPump/InjectorPump",
+     "partmake":"Mitsubishi",
+     "partmodel":"Eclipse",
+     "partgrade":"A",
+     "partnum":"R42",
+     "partprice":100,
+     "partdealer":"MandJAutoSalvage",
+     "partcountry":"USA",
+     "partstate":"TN",
+     "partcity":"Chattanooga",
+     "phonea":"1-423-867-8009",
+     "phoneb":"1-888-558-8009"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -76.2466798,36.7183708 ]
+     },
+     "properties": {
+     "partyear":1999,
+     "partname":"FuelPump/InjectorPump",
+     "partmake":"Mitsubishi",
+     "partmodel":"Eclipse",
+     "partgrade":"A",
+     "partnum":"1093",
+     "partprice":125,
+     "partdealer":"MetroUsedAutoPartsVARA",
+     "partcountry":"USA",
+     "partstate":"VA",
+     "partcity":"Chesapeake",
+     "phonea":"757-465-0914",
+     "phoneb":"757-428-2520"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -92.6637835,37.6806669 ]
+     },
+     "properties": {
+     "partyear":1999,
+     "partname":"FuelPump/InjectorPump",
+     "partmake":"Mitsubishi",
+     "partmodel":"Eclipse",
+     "partgrade":"A",
+     "partnum":"422699",
+     "partprice":75,
+     "partdealer":"Roger'sAutoWreckingandSalvage",
+     "partcountry":"USA",
+     "partstate":"MO",
+     "partcity":"Lebanon",
+     "phonea":"1-800-798-0105",
+     "phoneb":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -97.3327459,32.753177 ]
+     },
+     "properties": {
+     "partyear":1999,
+     "partname":"FuelPump/InjectorPump",
+     "partmake":"Mitsubishi",
+     "partmodel":"Eclipse",
+     "partgrade":"",
+     "partnum":"2992",
+     "partprice":100,
+     "partdealer":"EagleMountainAutoSalvage",
+     "partcountry":"USA",
+     "partstate":"TX",
+     "partcity":"Ft.-Worth",
+     "phonea":"817-237-3350",
+     "phoneb":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -97.3327459,32.753177 ]
+     },
+     "properties": {
+     "partyear":1999,
+     "partname":"FuelPump/InjectorPump",
+     "partmake":"Mitsubishi",
+     "partmodel":"Eclipse",
+     "partgrade":"",
+     "partnum":"4509",
+     "partprice":100,
+     "partdealer":"EagleMountainAutoSalvage",
+     "partcountry":"USA",
+     "partstate":"TX",
+     "partcity":"Ft.-Worth",
+     "phonea":"817-237-3350",
+     "phoneb":""
+     }
+   },
+   {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2590388,45.0838291 ]
+    },
+    "properties": {
+    "partyear":"2003",
+    "partname":"Alternator",
+    "partmake":"Acura",
+    "partmodel":"TL",
+    "partgrade":"A",
+    "partnum":"43052",
+    "partprice":"69.99",
+    "partdealer":"AbcoFridleyAutoParts",
+    "partcountry":"USA",
+    "partstate":"MN",
+    "partcity":"Fridley",
+    "phonea":"763-784-8890",
+    "phoneb":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9054145,40.7453798 ]
+    },
+    "properties": {
+    "partyear":"2003",
+    "partname":"Alternator",
+    "partmake":"Acura",
+    "partmodel":"TL",
+    "partgrade":"A",
+    "partnum":"M80551",
+    "partprice":96.5,
+    "partdealer":"AllianceAutoParts",
+    "partcountry":"USA",
+    "partstate":"NY",
+    "partcity":"Woodside",
+    "phonea":"718-672-3800",
+    "phoneb":"800-323-4500"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.7850022,40.9417272 ]
+    },
+    "properties": {
+    "partyear":"2001",
+    "partname":"Alternator",
+    "partmake":"Oldsmobile",
+    "partmodel":"Alero",
+    "partgrade":"A",
+    "partnum":"68300",
+    "partprice":"185",
+    "partdealer":"ARichnerAutoParts",
+    "partcountry":"USA",
+    "partstate":"PA",
+    "partcity":"Milesburg",
+    "phonea":"814-355-3851",
+    "phoneb":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.0741417,33.4484367 ]
+    },
+    "properties": {
+    "partyear":"2008",
+    "partname":"Alternator",
+    "partmake":"Honda",
+    "partmodel":"Pilot",
+    "partgrade":"A",
+    "partnum":"171450",
+    "partprice":"65",
+    "partdealer":"BestAutoWrecking",
+    "partcountry":"USA",
+    "partstate":"AZ",
+    "partcity":"Phoenix",
+    "phonea":"602-243-8499",
+    "phoneb":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.6741908,39.3900323 ]
+    },
+    "properties": {
+    "partyear":"2000",
+    "partname":"Alternator",
+    "partmake":"GMC",
+    "partmodel":"Savana3500Van",
+    "partgrade":"A",
+    "partnum":"W06633",
+    "partprice":"72.5",
+    "partdealer":"Bishop'sUsedAutoParts",
+    "partcountry":"USA",
+    "partstate":"CT",
+    "partcity":"Midletown",
+    "phonea":"860-346-2336",
+    "phoneb":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.33343531171823,36.533767 ]
+    },
+    "properties": {
+    "partyear":"2000",
+    "partname":"Alternator",
+    "partmake":"Chevy",
+    "partmodel":"Express2500Van",
+    "partgrade":"A",
+    "partnum":"17120601",
+    "partprice":"45",
+    "partdealer":"BlountvilleAutoSalvage",
+    "partcountry":"USA",
+    "partstate":"TN",
+    "partcity":"Blountville",
+    "phonea":"1-423-323-5940",
+    "phoneb":"1-800-443-9182"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.74947,41.7167229 ]
+    },
+    "properties": {
+    "partyear":"1998",
+    "partname":"Alternator",
+    "partmake":"Chevy",
+    "partmodel":"1500series",
+    "partgrade":"A",
+    "partnum":"BA7157",
+    "partprice":"50",
+    "partdealer":"BudgetAutoPartsInc",
+    "partcountry":"USA",
+    "partstate":"OH",
+    "partcity":"Ashtabula",
+    "phonea":"1-440-992-1111",
+    "phoneb":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.8556476,33.4918203 ]
+    },
+    "properties": {
+    "partyear":"1998",
+    "partname":"Alternator",
+    "partmake":"Chevy",
+    "partmodel":"1500series",
+    "partgrade":"A",
+    "partnum":"SIL7199",
+    "partprice":"50",
+    "partdealer":"CandRAutoSalvage",
+    "partcountry":"USA",
+    "partstate":"SC",
+    "partcity":"Orangeburg",
+    "phonea":"1-803-536-2211",
+    "phoneb":"1-800-922-1935"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.5705509,35.1520267 ]
+    },
+    "properties": {
+    "partyear":"2000",
+    "partname":"Alternator",
+    "partmake":"Chevy",
+    "partmodel":"TruckC3500",
+    "partgrade":"A",
+    "partnum":"993",
+    "partprice":"50",
+    "partdealer":"CarShoppe",
+    "partcountry":"USA",
+    "partstate":"TN",
+    "partcity":"Fayetteville",
+    "phonea":"931-433-9297",
+    "phoneb":"800-438-8086"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.727392,39.962398 ]
+    },
+    "properties": {
+    "partyear":"2003",
+    "partname":"Alternator",
+    "partmake":"Acura",
+    "partmodel":"TL",
+    "partgrade":"A",
+    "partnum":"M80551",
+    "partprice":"100",
+    "partdealer":"ChucksAutoSalvage#2",
+    "partcountry":"USA",
+    "partstate":"PA",
+    "partcity":"York",
+    "phonea":"717-356-0506",
+    "phoneb":"443-963-9800"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8465114,43.1284071 ]
+    },
+    "properties": {
+    "partyear":"2003",
+    "partname":"Alternator",
+    "partmake":"Acura",
+    "partmodel":"TL",
+    "partgrade":"A",
+    "partnum":"M80551",
+    "partprice":"90",
+    "partdealer":"Cornell'sUsedAutoParts-PRP-NEARAURGARANY",
+    "partcountry":"USA",
+    "partstate":"NY",
+    "partcity":"Greenfield-Center",
+    "phonea":"518-893-0151",
+    "phoneb":"518-310-2737"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.152335,45.140245 ]
+    },
+    "properties": {
+    "partyear":1998,
+    "partname":"Alternator",
+    "partmake":"Chevy",
+    "partmodel":"1500series",
+    "partgrade":"A",
+    "partnum":"S298",
+    "partprice":45,
+    "partdealer":"CousineauRecycling",
+    "partcountry":"USA",
+    "partstate":"WI",
+    "partcity":"Antigo",
+    "phonea":"1-866-330-3730",
+    "phoneb":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.9618216,38.4912207 ]
+    },
+    "properties": {
+    "partyear":2000,
+    "partname":"Alternator",
+    "partmake":"Chevy",
+    "partmodel":"Truck3500",
+    "partgrade":"A",
+    "partnum":"21726",
+    "partprice":55,
+    "partdealer":"CulpeperSalvageVARA",
+    "partcountry":"USA",
+    "partstate":"VA",
+    "partcity":"Culpeper",
+    "phonea":"1-888-825-8870",
+    "phoneb":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.2810994,42.03726 ]
+    },
+    "properties": {
+    "partyear":2008,
+    "partname":"Alternator",
+    "partmake":"Honda",
+    "partmodel":"Pilot",
+    "partgrade":"A",
+    "partnum":"CC5535",
+    "partprice":65,
+    "partdealer":"ElginSuperAutoParts-ARAPro",
+    "partcountry":"USA",
+    "partstate":"IL",
+    "partcity":"Elgin",
+    "phonea":"1-800-232-5564",
+    "phoneb":"847-695-4000"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2590388,45.0838291 ]
+    },
+    "properties": {
+    "partyear":2003,
+    "partname":"Alternator",
+    "partmake":"Acura",
+    "partmodel":"TL",
+    "partgrade":"A",
+    "partnum":"43052",
+    "partprice":69.99,
+    "partdealer":"AbcoFridleyAutoParts",
+    "partcountry":"USA",
+    "partstate":"MN",
+    "partcity":"Fridley",
+    "phonea":"763-784-8890",
+    "phoneb":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9054145,40.7453798 ]
+    },
+    "properties": {
+    "partyear":2003,
+    "partname":"Alternator",
+    "partmake":"Acura",
+    "partmodel":"TL",
+    "partgrade":"A",
+    "partnum":"M80551",
+    "partprice":96.5,
+    "partdealer":"AllianceAutoParts",
+    "partcountry":"USA",
+    "partstate":"NY",
+    "partcity":"Woodside",
+    "phonea":"718-672-3800",
+    "phoneb":"800-323-4500"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.7850022,40.9417272 ]
+    },
+    "properties": {
+    "partyear":2001,
+    "partname":"Alternator",
+    "partmake":"Oldsmobile",
+    "partmodel":"Alero",
+    "partgrade":"A",
+    "partnum":"68300",
+    "partprice":185,
+    "partdealer":"ARichnerAutoParts",
+    "partcountry":"USA",
+    "partstate":"PA",
+    "partcity":"Milesburg",
+    "phonea":"814-355-3851",
+    "phoneb":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.0741417,33.4484367 ]
+    },
+    "properties": {
+    "partyear":2008,
+    "partname":"Alternator",
+    "partmake":"Honda",
+    "partmodel":"Pilot",
+    "partgrade":"A",
+    "partnum":"171450",
+    "partprice":65,
+    "partdealer":"BestAutoWrecking",
+    "partcountry":"USA",
+    "partstate":"AZ",
+    "partcity":"Phoenix",
+    "phonea":"602-243-8499",
+    "phoneb":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.6741908,39.3900323 ]
+    },
+    "properties": {
+    "partyear":2000,
+    "partname":"Alternator",
+    "partmake":"GMC",
+    "partmodel":"Savana3500Van",
+    "partgrade":"A",
+    "partnum":"W06633",
+    "partprice":72.5,
+    "partdealer":"Bishop'sUsedAutoParts",
+    "partcountry":"USA",
+    "partstate":"CT",
+    "partcity":"Midletown",
+    "phonea":"860-346-2336",
+    "phoneb":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.33343531171823,36.533767 ]
+    },
+    "properties": {
+    "partyear":2000,
+    "partname":"Alternator",
+    "partmake":"Chevy",
+    "partmodel":"Express2500Van",
+    "partgrade":"A",
+    "partnum":"17120601",
+    "partprice":45,
+    "partdealer":"BlountvilleAutoSalvage",
+    "partcountry":"USA",
+    "partstate":"TN",
+    "partcity":"Blountville",
+    "phonea":"1-423-323-5940",
+    "phoneb":"1-800-443-9182"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.74947,41.7167229 ]
+    },
+    "properties": {
+    "partyear":1998,
+    "partname":"Alternator",
+    "partmake":"Chevy",
+    "partmodel":"1500series",
+    "partgrade":"A",
+    "partnum":"BA7157",
+    "partprice":50,
+    "partdealer":"BudgetAutoPartsInc",
+    "partcountry":"USA",
+    "partstate":"OH",
+    "partcity":"Ashtabula",
+    "phonea":"1-440-992-1111",
+    "phoneb":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.8556476,33.4918203 ]
+    },
+    "properties": {
+    "partyear":1998,
+    "partname":"Alternator",
+    "partmake":"Chevy",
+    "partmodel":"1500series",
+    "partgrade":"A",
+    "partnum":"SIL7199",
+    "partprice":50,
+    "partdealer":"CandRAutoSalvage",
+    "partcountry":"USA",
+    "partstate":"SC",
+    "partcity":"Orangeburg",
+    "phonea":"1-803-536-2211",
+    "phoneb":"1-800-922-1935"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.5705509,35.1520267 ]
+    },
+    "properties": {
+    "partyear":2000,
+    "partname":"Alternator",
+    "partmake":"Chevy",
+    "partmodel":"TruckC3500",
+    "partgrade":"A",
+    "partnum":"993",
+    "partprice":50,
+    "partdealer":"CarShoppe",
+    "partcountry":"USA",
+    "partstate":"TN",
+    "partcity":"Fayetteville",
+    "phonea":"931-433-9297",
+    "phoneb":"800-438-8086"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.727392,39.962398 ]
+    },
+    "properties": {
+    "partyear":2003,
+    "partname":"Alternator",
+    "partmake":"Acura",
+    "partmodel":"TL",
+    "partgrade":"A",
+    "partnum":"M80551",
+    "partprice":100,
+    "partdealer":"ChucksAutoSalvage#2",
+    "partcountry":"USA",
+    "partstate":"PA",
+    "partcity":"York",
+    "phonea":"717-356-0506",
+    "phoneb":"443-963-9800"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8465114,43.1284071 ]
+    },
+    "properties": {
+    "partyear":2003,
+    "partname":"Alternator",
+    "partmake":"Acura",
+    "partmodel":"TL",
+    "partgrade":"A",
+    "partnum":"M80551",
+    "partprice":90,
+    "partdealer":"Cornell'sUsedAutoParts-PRP-NEARAURGARANY",
+    "partcountry":"USA",
+    "partstate":"NY",
+    "partcity":"Greenfield-Center",
+    "phonea":"518-893-0151",
+    "phoneb":"518-310-2737"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.152335,45.140245 ]
+    },
+    "properties": {
+    "partyear":1998,
+    "partname":"Alternator",
+    "partmake":"Chevy",
+    "partmodel":"1500series",
+    "partgrade":"A",
+    "partnum":"S298",
+    "partprice":45,
+    "partdealer":"CousineauRecycling",
+    "partcountry":"USA",
+    "partstate":"WI",
+    "partcity":"Antigo",
+    "phonea":"1-866-330-3730",
+    "phoneb":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.9618216,38.4912207 ]
+    },
+    "properties": {
+    "partyear":2000,
+    "partname":"Alternator",
+    "partmake":"Chevy",
+    "partmodel":"Truck3500",
+    "partgrade":"A",
+    "partnum":"21726",
+    "partprice":55,
+    "partdealer":"CulpeperSalvageVARA",
+    "partcountry":"USA",
+    "partstate":"VA",
+    "partcity":"Culpeper",
+    "phonea":"1-888-825-8870",
+    "phoneb":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.2810994,42.03726 ]
+    },
+    "properties": {
+    "partyear":2008,
+    "partname":"Alternator",
+    "partmake":"Honda",
+    "partmodel":"Pilot",
+    "partgrade":"A",
+    "partnum":"CC5535",
+    "partprice":65,
+    "partdealer":"ElginSuperAutoParts-ARAPro",
+    "partcountry":"USA",
+    "partstate":"IL",
+    "partcity":"Elgin",
+    "phonea":"1-800-232-5564",
+    "phoneb":"847-695-4000"
+    }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -93.2590388,45.0838291 ]
+   },
+   "properties": {
+   "partyear":2003,
+   "partname":"Alternator",
+   "partmake":"Acura",
+   "partmodel":"TL",
+   "partgrade":"A",
+   "partnum":"43052",
+   "partprice":69.99,
+   "partdealer":"AbcoFridleyAutoParts",
+   "partcountry":"USA",
+   "partstate":"MN",
+   "partcity":"Fridley",
+   "phonea":"763-784-8890",
+   "phoneb":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -73.9054145,40.7453798 ]
+   },
+   "properties": {
+   "partyear":2003,
+   "partname":"Alternator",
+   "partmake":"Acura",
+   "partmodel":"TL",
+   "partgrade":"A",
+   "partnum":"M80551",
+   "partprice":96.5,
+   "partdealer":"AllianceAutoParts",
+   "partcountry":"USA",
+   "partstate":"NY",
+   "partcity":"Woodside",
+   "phonea":"718-672-3800",
+   "phoneb":"800-323-4500"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -77.7850022,40.9417272 ]
+   },
+   "properties": {
+   "partyear":2001,
+   "partname":"Alternator",
+   "partmake":"Oldsmobile",
+   "partmodel":"Alero",
+   "partgrade":"A",
+   "partnum":"68300",
+   "partprice":185,
+   "partdealer":"ARichnerAutoParts",
+   "partcountry":"USA",
+   "partstate":"PA",
+   "partcity":"Milesburg",
+   "phonea":"814-355-3851",
+   "phoneb":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -112.0741417,33.4484367 ]
+   },
+   "properties": {
+   "partyear":2008,
+   "partname":"Alternator",
+   "partmake":"Honda",
+   "partmodel":"Pilot",
+   "partgrade":"A",
+   "partnum":"171450",
+   "partprice":65,
+   "partdealer":"BestAutoWrecking",
+   "partcountry":"USA",
+   "partstate":"AZ",
+   "partcity":"Phoenix",
+   "phonea":"602-243-8499",
+   "phoneb":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -75.6741908,39.3900323 ]
+   },
+   "properties": {
+   "partyear":2000,
+   "partname":"Alternator",
+   "partmake":"GMC",
+   "partmodel":"Savana3500Van",
+   "partgrade":"A",
+   "partnum":"W06633",
+   "partprice":72.5,
+   "partdealer":"Bishop'sUsedAutoParts",
+   "partcountry":"USA",
+   "partstate":"CT",
+   "partcity":"Midletown",
+   "phonea":"860-346-2336",
+   "phoneb":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -82.33343531171823,36.533767 ]
+   },
+   "properties": {
+   "partyear":2000,
+   "partname":"Alternator",
+   "partmake":"Chevy",
+   "partmodel":"Express2500Van",
+   "partgrade":"A",
+   "partnum":"17120601",
+   "partprice":45,
+   "partdealer":"BlountvilleAutoSalvage",
+   "partcountry":"USA",
+   "partstate":"TN",
+   "partcity":"Blountville",
+   "phonea":"1-423-323-5940",
+   "phoneb":"1-800-443-9182"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -80.74947,41.7167229 ]
+   },
+   "properties": {
+   "partyear":1998,
+   "partname":"Alternator",
+   "partmake":"Chevy",
+   "partmodel":"1500series",
+   "partgrade":"A",
+   "partnum":"BA7157",
+   "partprice":50,
+   "partdealer":"BudgetAutoPartsInc",
+   "partcountry":"USA",
+   "partstate":"OH",
+   "partcity":"Ashtabula",
+   "phonea":"1-440-992-1111",
+   "phoneb":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -80.8556476,33.4918203 ]
+   },
+   "properties": {
+   "partyear":1998,
+   "partname":"Alternator",
+   "partmake":"Chevy",
+   "partmodel":"1500series",
+   "partgrade":"A",
+   "partnum":"SIL7199",
+   "partprice":50,
+   "partdealer":"CandRAutoSalvage",
+   "partcountry":"USA",
+   "partstate":"SC",
+   "partcity":"Orangeburg",
+   "phonea":"1-803-536-2211",
+   "phoneb":"1-800-922-1935"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -86.5705509,35.1520267 ]
+   },
+   "properties": {
+   "partyear":2000,
+   "partname":"Alternator",
+   "partmake":"Chevy",
+   "partmodel":"TruckC3500",
+   "partgrade":"A",
+   "partnum":"993",
+   "partprice":50,
+   "partdealer":"CarShoppe",
+   "partcountry":"USA",
+   "partstate":"TN",
+   "partcity":"Fayetteville",
+   "phonea":"931-433-9297",
+   "phoneb":"800-438-8086"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -76.727392,39.962398 ]
+   },
+   "properties": {
+   "partyear":2003,
+   "partname":"Alternator",
+   "partmake":"Acura",
+   "partmodel":"TL",
+   "partgrade":"A",
+   "partnum":"M80551",
+   "partprice":100,
+   "partdealer":"ChucksAutoSalvage#2",
+   "partcountry":"USA",
+   "partstate":"PA",
+   "partcity":"York",
+   "phonea":"717-356-0506",
+   "phoneb":"443-963-9800"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -73.8465114,43.1284071 ]
+   },
+   "properties": {
+   "partyear":2003,
+   "partname":"Alternator",
+   "partmake":"Acura",
+   "partmodel":"TL",
+   "partgrade":"A",
+   "partnum":"M80551",
+   "partprice":90,
+   "partdealer":"Cornell'sUsedAutoParts-PRP-NEARAURGARANY",
+   "partcountry":"USA",
+   "partstate":"NY",
+   "partcity":"Greenfield-Center",
+   "phonea":"518-893-0151",
+   "phoneb":"518-310-2737"
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -89.152335,45.140245 ]
+   },
+   "properties": {
+   "partyear":1998,
+   "partname":"Alternator",
+   "partmake":"Chevy",
+   "partmodel":"1500series",
+   "partgrade":"A",
+   "partnum":"S298",
+   "partprice":45,
+   "partdealer":"CousineauRecycling",
+   "partcountry":"USA",
+   "partstate":"WI",
+   "partcity":"Antigo",
+   "phonea":"1-866-330-3730",
+   "phoneb":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -77.9618216,38.4912207 ]
+   },
+   "properties": {
+   "partyear":2000,
+   "partname":"Alternator",
+   "partmake":"Chevy",
+   "partmodel":"Truck3500",
+   "partgrade":"A",
+   "partnum":"21726",
+   "partprice":55,
+   "partdealer":"CulpeperSalvageVARA",
+   "partcountry":"USA",
+   "partstate":"VA",
+   "partcity":"Culpeper",
+   "phonea":"1-888-825-8870",
+   "phoneb":""
+   }
+ },
+ {
+   "type": "Feature",
+   "geometry": {
+      "type": "Point",
+      "coordinates":  [ -88.2810994,42.03726 ]
+   },
+   "properties": {
+   "partyear":"2008",
+   "partname":"Alternator",
+   "partmake":"Honda",
+   "partmodel":"Pilot",
+   "partgrade":"A",
+   "partnum":"CC5535",
+   "partprice":65,
+   "partdealer":"ElginSuperAutoParts-ARAPro",
+   "partcountry":"USA",
+   "partstate":"IL",
+   "partcity":"Elgin",
+   "phonea":"1-800-232-5564",
+   "phoneb":"847-695-4000"
+   }
+ }
+]
+}
