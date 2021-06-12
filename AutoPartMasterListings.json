@@ -1,16 +1,18 @@
-  {
-    "partindex": "AC",
-    "partyear": 1997,
-    "partname": "A/C Compressor Assembly",
-    "partmake": "Acura",
-    "partmodel": "CL",
-    "partnum": 1395,
-    "partgrade": "",
-    "partprice": 150,
-    "partdealer": "Kennedy Auto Co.",
-    "partcity": "Stockton",
-    "partstate": "CA",
-    "partcountry": "USA",
-    "phonea": "800-984-4410",
-    "phoneb": "209-466-4987"
-  }
+[  
+{
+ "partindex": "AC",
+ "partyear": 1997,
+ "partname": "A/C Compressor Assembly",
+ "partmake": "Acura",
+ "partmodel": "CL",
+ "partnum": 1395,
+ "partgrade": "",
+ "partprice": 150,
+ "partdealer": "Kennedy Auto Co.",
+ "partcity": "Stockton",
+ "partstate": "CA",
+ "partcountry": "USA",
+ "phonea": "800-984-4410",
+ "phoneb": "209-466-4987"
+}
+]
