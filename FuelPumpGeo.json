@@ -1,0 +1,156 @@
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -122.4199061,37.7790262 ]
+     },
+     "properties": {
+     "partyear":1999,
+     "partname":"FuelPump/InjectorPump",
+     "partmake":"Mitsubishi",
+     "partmodel":"Eclipse",
+     "partgrade":"A",
+     "partnum":"AL0510",
+     "partprice":132,
+     "partdealer":"ABCAutoPartsInc-SCADA",
+     "partcountry":"USA",
+     "partstate":"CA",
+     "partcity":"San-Francisco",
+     "phonea":"1-415-826-8676",
+     "phoneb":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -72.341581249226,41.579503 ]
+     },
+     "properties": {
+     "partyear":1999,
+     "partname":"FuelPump/InjectorPump",
+     "partmake":"Mitsubishi",
+     "partmodel":"Eclipse",
+     "partgrade":"A",
+     "partnum":"M0252J",
+     "partprice":75,
+     "partdealer":"MandJAutoRecycling",
+     "partcountry":"USA",
+     "partstate":"CT",
+     "partcity":"Colchester",
+     "phonea":"1-800-962-0281",
+     "phoneb":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -85.3094883,35.0457219 ]
+     },
+     "properties": {
+     "partyear":1999,
+     "partname":"FuelPump/InjectorPump",
+     "partmake":"Mitsubishi",
+     "partmodel":"Eclipse",
+     "partgrade":"A",
+     "partnum":"R42",
+     "partprice":100,
+     "partdealer":"MandJAutoSalvage",
+     "partcountry":"USA",
+     "partstate":"TN",
+     "partcity":"Chattanooga",
+     "phonea":"1-423-867-8009",
+     "phoneb":"1-888-558-8009"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -76.2466798,36.7183708 ]
+     },
+     "properties": {
+     "partyear":1999,
+     "partname":"FuelPump/InjectorPump",
+     "partmake":"Mitsubishi",
+     "partmodel":"Eclipse",
+     "partgrade":"A",
+     "partnum":"1093",
+     "partprice":125,
+     "partdealer":"MetroUsedAutoPartsVARA",
+     "partcountry":"USA",
+     "partstate":"VA",
+     "partcity":"Chesapeake",
+     "phonea":"757-465-0914",
+     "phoneb":"757-428-2520"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -92.6637835,37.6806669 ]
+     },
+     "properties": {
+     "partyear":1999,
+     "partname":"FuelPump/InjectorPump",
+     "partmake":"Mitsubishi",
+     "partmodel":"Eclipse",
+     "partgrade":"A",
+     "partnum":"422699",
+     "partprice":75,
+     "partdealer":"Roger'sAutoWreckingandSalvage",
+     "partcountry":"USA",
+     "partstate":"MO",
+     "partcity":"Lebanon",
+     "phonea":"1-800-798-0105",
+     "phoneb":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -97.3327459,32.753177 ]
+     },
+     "properties": {
+     "partyear":1999,
+     "partname":"FuelPump/InjectorPump",
+     "partmake":"Mitsubishi",
+     "partmodel":"Eclipse",
+     "partgrade":"",
+     "partnum":"2992",
+     "partprice":100,
+     "partdealer":"EagleMountainAutoSalvage",
+     "partcountry":"USA",
+     "partstate":"TX",
+     "partcity":"Ft.-Worth",
+     "phonea":"817-237-3350",
+     "phoneb":""
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -97.3327459,32.753177 ]
+     },
+     "properties": {
+     "partyear":1999,
+     "partname":"FuelPump/InjectorPump",
+     "partmake":"Mitsubishi",
+     "partmodel":"Eclipse",
+     "partgrade":"",
+     "partnum":"4509",
+     "partprice":100,
+     "partdealer":"EagleMountainAutoSalvage",
+     "partcountry":"USA",
+     "partstate":"TX",
+     "partcity":"Ft.-Worth",
+     "phonea":"817-237-3350",
+     "phoneb":""
+     }
+   }
+  ]
+}
