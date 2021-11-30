@@ -1078,6 +1078,396 @@
      "phonea":"817-237-3350",
      "phoneb":""
      }
-   }
+   },
+   {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Engine",
+        "partyear": "1999",
+        "partname": "Short Block Only",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "X",
+        "partnum": "6082",
+        "partprice": "$300",
+        "partdealer": "Kingstown Auto Recycling",
+        "partcountry": " USA",
+        "partstate": "RI",
+        "partcity": "North-Kingstown  ",
+        "phonea": "1-401-295-9400",
+        "phoneb": "1-401-295-9400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4693875,
+          41.5514283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Engine",
+        "partyear": "1998",
+        "partname": "Engine Block",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "A",
+        "partnum": "AC2441",
+        "partprice": "$300",
+        "partdealer": "Black Diamond Auto Wrecking",
+        "partcountry": " USA",
+        "partstate": "WA",
+        "partcity": "Black-Diamond  ",
+        "phonea": "1-877-809-8809",
+        "phoneb": "1-877-809-8809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0037583,
+          47.3083078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Engine",
+        "partyear": "1998",
+        "partname": "Short Block Only",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "A",
+        "partnum": "200195",
+        "partprice": "$200",
+        "partdealer": "A and B Auto Salvage",
+        "partcountry": " USA",
+        "partstate": "GA",
+        "partcity": "Griffin  ",
+        "phonea": "770-229-9122",
+        "phoneb": "770-229-9122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2640904,
+          33.2467807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Engine",
+        "partyear": "2001",
+        "partname": "Engine Block",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "C",
+        "partnum": "191118",
+        "partprice": "$200",
+        "partdealer": "Miller Import Parts",
+        "partcountry": " USA",
+        "partstate": "NC",
+        "partcity": "Kannapolis  ",
+        "phonea": "704-932-0425",
+        "phoneb": "704-932-0425"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.621438,
+          35.4874708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Engine",
+        "partyear": "2001",
+        "partname": "Engine Block",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "A",
+        "partnum": "200926",
+        "partprice": "$200",
+        "partdealer": "Miller Import Parts",
+        "partcountry": " USA",
+        "partstate": "NC",
+        "partcity": "Kannapolis  ",
+        "phonea": "704-932-0425",
+        "phoneb": "704-932-0425"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.621438,
+          35.4874708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Engine",
+        "partyear": "2001",
+        "partname": "Engine Block",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "X",
+        "partnum": "224",
+        "partprice": "$10",
+        "partdealer": "Chepy Station Auto Parts",
+        "partcountry": " USA",
+        "partstate": "NY",
+        "partcity": "Corona  ",
+        "phonea": "718-533-8275",
+        "phoneb": "718-533-8275"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8601456,
+          40.7469593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Engine",
+        "partyear": "2001",
+        "partname": "Engine Block",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "X",
+        "partnum": "3Y0010",
+        "partprice": "$Call",
+        "partdealer": "Pick A Part, Turner - PAR Member",
+        "partcountry": " USA",
+        "partstate": "OR",
+        "partcity": "Turner  ",
+        "phonea": "1-888-877-6080",
+        "phoneb": "1-888-877-6080"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9528708,
+          44.8431766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Engine",
+        "partyear": "2001",
+        "partname": "Engine Block",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "X",
+        "partnum": "190627",
+        "partprice": "$Call",
+        "partdealer": "M'Boro Auto Parts",
+        "partcountry": " USA",
+        "partstate": "TN",
+        "partcity": "Murfreesboro  ",
+        "phonea": "1-866-831-9868",
+        "phoneb": "1-615-895-9868"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3921096,
+          35.8460396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Engine",
+        "partyear": "1999",
+        "partname": "Engine Block",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "X",
+        "partnum": "11F081",
+        "partprice": "$Call",
+        "partdealer": "G & R Auto Parts LLC",
+        "partcountry": " USA",
+        "partstate": "CA",
+        "partcity": "Red-Bluff  ",
+        "phonea": "1-888-283-7770",
+        "phoneb": "1-888-283-7770"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.235923,
+          40.1784279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Engine",
+        "partyear": "2002",
+        "partname": "Engine Block",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "X",
+        "partnum": "LSPCORE",
+        "partprice": "$Call",
+        "partdealer": "Sierra's #3",
+        "partcountry": " USA",
+        "partstate": "CA",
+        "partcity": "Hesperia  ",
+        "phonea": "1-760-244-9333",
+        "phoneb": "1-760-244-9333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3008784,
+          34.4263886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Engine",
+        "partyear": "1997",
+        "partname": "Engine Block",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "A",
+        "partnum": "230574",
+        "partprice": "$Call",
+        "partdealer": "Black Diamond Auto Wrecking",
+        "partcountry": " USA",
+        "partstate": "WA",
+        "partcity": "Black-Diamond  ",
+        "phonea": "1-877-809-8809",
+        "phoneb": "1-877-809-8809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0037583,
+          47.3083078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Engine",
+        "partyear": "1999",
+        "partname": "Engine Block",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "A",
+        "partnum": "06783",
+        "partprice": "$Call",
+        "partdealer": "Brooks Auto Salvage",
+        "partcountry": " USA",
+        "partstate": "GA",
+        "partcity": "Cartersville  ",
+        "phonea": "1-800-735-8450",
+        "phoneb": "1-770-974-6699"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7999383,
+          34.1650972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Engine",
+        "partyear": "1997",
+        "partname": "Engine Block",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "X",
+        "partnum": "170163",
+        "partprice": "$Call",
+        "partdealer": "Lost Mountain Auto Parts",
+        "partcountry": " USA",
+        "partstate": "GA",
+        "partcity": "Dallas  ",
+        "phonea": "1-770-445-4441",
+        "phoneb": "1-770-445-4441"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8407732,
+          33.9237141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Engine",
+        "partyear": "1998",
+        "partname": "Engine Block",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "X",
+        "partnum": "FEWH65",
+        "partprice": "$Call",
+        "partdealer": "Best Auto and Used Parts",
+        "partcountry": " USA",
+        "partstate": "GA",
+        "partcity": "Palmetto  ",
+        "phonea": "770-306-9000",
+        "phoneb": "770-306-9000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6696549,
+          33.5178907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Engine",
+        "partyear": "1998",
+        "partname": "Engine Block",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "A",
+        "partnum": "721047",
+        "partprice": "$Call",
+        "partdealer": "Sanford Auto Salvage",
+        "partcountry": " USA",
+        "partstate": "FL",
+        "partcity": "Sanford  ",
+        "phonea": "800-334-2841",
+        "phoneb": "407-321-3371"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2680223,
+          28.8117345
+        ]
+      }
+    }
   ]
 }
