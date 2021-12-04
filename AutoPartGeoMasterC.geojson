@@ -1468,6 +1468,1282 @@
           28.8117345
         ]
       }
-    }
+    },
+       "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "1992",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "C1500",
+                "partgrade": "C",
+                "partnum": "XH0053",
+                "partprice": "$2500",
+                "partdealer": "Spilman Auto Parts,Inc. - PRP, QRP Central, URG, ARA, RTN",
+                "partcountry": " USA",
+                "partstate": "IA",
+                "partcity": "Bloomfield  ",
+                "phonea": "1-800-477-1367",
+                "phoneb": "1-800-477-1367"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.4149074,
+                    40.7516884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "1995",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "C2500",
+                "partgrade": "A",
+                "partnum": "YA0026",
+                "partprice": "$2500",
+                "partdealer": "Spilman Auto Parts,Inc. - PRP, QRP Central, URG, ARA, RTN",
+                "partcountry": " USA",
+                "partstate": "IA",
+                "partcity": "Bloomfield  ",
+                "phonea": "1-800-477-1367",
+                "phoneb": "1-800-477-1367"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.4149074,
+                    40.7516884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "2000",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "Series",
+                "partgrade": "X",
+                "partnum": "6687",
+                "partprice": "$700",
+                "partdealer": "Action Auto Recycling",
+                "partcountry": " USA",
+                "partstate": "TX",
+                "partcity": "Ft.-Worth  ",
+                "phonea": "1-888-535-0063",
+                "phoneb": "1-888-535-0063"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.3327459,
+                    32.753177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "2005",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "2500",
+                "partgrade": "C",
+                "partnum": "DVY7",
+                "partprice": "$700",
+                "partdealer": "Spalding Auto Parts",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Spokane  ",
+                "phonea": "1-800-366-2070",
+                "phoneb": "1-800-366-2070"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.4235106,
+                    47.6571934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "2000",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "C1500",
+                "partgrade": "A",
+                "partnum": "W1-D2",
+                "partprice": "$600",
+                "partdealer": "Select Parts, Inc.",
+                "partcountry": " USA",
+                "partstate": "DE",
+                "partcity": "Claymont ",
+                "phonea": "1-215-423-6522",
+                "phoneb": "1-866-570-6522"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4596404,
+                    39.8006685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "2003",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "3500",
+                "partgrade": "A",
+                "partnum": "N48469",
+                "partprice": "$600",
+                "partdealer": "Eagle Auto Dismantling, Inc.",
+                "partcountry": " USA",
+                "partstate": "CA",
+                "partcity": "Bakersfield  ",
+                "phonea": "661-363-7807",
+                "phoneb": "661-363-7807"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.0194639,
+                    35.3738712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "1998",
+                "partname": "Short Block Only",
+                "partmake": "Chevy",
+                "partmodel": "1500",
+                "partgrade": "C",
+                "partnum": "N",
+                "partprice": "$550",
+                "partdealer": "McKee Wrecker & Salvage Inc",
+                "partcountry": " USA",
+                "partstate": "FL",
+                "partcity": "Middleburg  ",
+                "phonea": "904-282-5170",
+                "phoneb": "904-282-5170"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.90363744258859,
+                    30.055702500000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "1998",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "Series",
+                "partgrade": "C",
+                "partnum": "00004243",
+                "partprice": "$525",
+                "partdealer": "B and B Auto Parts",
+                "partcountry": " USA",
+                "partstate": "TX",
+                "partcity": "Waco  ",
+                "phonea": "1-866-477-3969",
+                "phoneb": "1-866-477-3969"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.1466695,
+                    31.549333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "1985",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "Series",
+                "partgrade": "X",
+                "partnum": "NOF",
+                "partprice": "$500",
+                "partdealer": "Smith Auto, Inc.",
+                "partcountry": " USA",
+                "partstate": "NE",
+                "partcity": "Pawnee-City  ",
+                "phonea": "800-873-6057",
+                "phoneb": "402-852-2190"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.154451,
+                    40.108334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "1982",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "Series",
+                "partgrade": "X",
+                "partnum": "061200",
+                "partprice": "$500",
+                "partdealer": "Route 65 Auto, Inc",
+                "partcountry": " USA",
+                "partstate": "PA",
+                "partcity": "New-Castle  ",
+                "phonea": "1-800-245-2226",
+                "phoneb": "1-724-652-7733"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.3471856,
+                    40.9999202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "1985",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "1500",
+                "partgrade": "X",
+                "partnum": "65118",
+                "partprice": "$500",
+                "partdealer": "Whitewater Auto",
+                "partcountry": " USA",
+                "partstate": "CO",
+                "partcity": "Grand-Junction  ",
+                "phonea": "970-245-2880",
+                "phoneb": "970-245-2880"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -108.5507317,
+                    39.063956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "2001",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "2500",
+                "partgrade": "C",
+                "partnum": "198805",
+                "partprice": "$500",
+                "partdealer": "Griffin Auto Salvage LLC",
+                "partcountry": " USA",
+                "partstate": "MO",
+                "partcity": "Grovespring  ",
+                "phonea": "417-462-3928",
+                "phoneb": "800-280-1219"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.6096144,
+                    37.3997694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "2000",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "1500",
+                "partgrade": "X",
+                "partnum": "395B1",
+                "partprice": "$500",
+                "partdealer": "Quality Used Auto Parts",
+                "partcountry": " USA",
+                "partstate": "GA",
+                "partcity": "Fayetteville  ",
+                "phonea": "800-303-4440",
+                "phoneb": "770-461-8600"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4549262,
+                    33.4487257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "2004",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "Truck",
+                "partgrade": "A",
+                "partnum": "D20007",
+                "partprice": "$485",
+                "partdealer": "Spalding Auto Parts",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Spokane  ",
+                "phonea": "1-800-366-2070",
+                "phoneb": "1-800-366-2070"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.4235106,
+                    47.6571934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "2002",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "2500",
+                "partgrade": "X",
+                "partnum": "704402",
+                "partprice": "$475",
+                "partdealer": "Payless Auto",
+                "partcountry": " USA",
+                "partstate": "KS",
+                "partcity": "Soldier  ",
+                "phonea": "785-924-3600",
+                "phoneb": "888-899-0907"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.96416,
+                    39.536106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "1995",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "C2500",
+                "partgrade": "X",
+                "partnum": "AA8564",
+                "partprice": "$450",
+                "partdealer": "Twin Lakes Auto Salvage",
+                "partcountry": " USA",
+                "partstate": "TX",
+                "partcity": "Dallas  ",
+                "phonea": "1-800-891-4536",
+                "phoneb": "1-972-225-4536"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.7968559,
+                    32.7762719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "1991",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "C3500",
+                "partgrade": "X",
+                "partnum": "030370",
+                "partprice": "$450",
+                "partdealer": "Bud's Salvage",
+                "partcountry": " USA",
+                "partstate": "OK",
+                "partcity": "Aline ",
+                "phonea": "1-800-375-28371-580-463-2424",
+                "phoneb": "1-800-375-28371-580-463-2424"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.4489659,
+                    36.5097552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "1994",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "C3500",
+                "partgrade": "X",
+                "partnum": "\u00a0",
+                "partprice": "$450",
+                "partdealer": "Action  Auto  Parts",
+                "partcountry": " USA",
+                "partstate": "NM",
+                "partcity": "Las-Cruces  ",
+                "phonea": "877-526-5883",
+                "phoneb": "575-526-5883"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.7798078,
+                    32.3140354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "1995",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "Series",
+                "partgrade": "A",
+                "partnum": "TS18266",
+                "partprice": "$431",
+                "partdealer": "Elmers Auto Salvage",
+                "partcountry": " USA",
+                "partstate": "WI",
+                "partcity": "Fountain-City  ",
+                "phonea": "1-800-362-5004",
+                "phoneb": "1-800-362-5004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.7187628,
+                    44.1319078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "1994",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "C3500",
+                "partgrade": "C",
+                "partnum": "J13009",
+                "partprice": "$400",
+                "partdealer": "Tri City Auto Parts",
+                "partcountry": " USA",
+                "partstate": "NE",
+                "partcity": "Holdrege  ",
+                "phonea": "1-800-445-9117",
+                "phoneb": "1-800-445-9117"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.3698995,
+                    40.4379956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "1994",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "C3500",
+                "partgrade": "A",
+                "partnum": "L14014",
+                "partprice": "$400",
+                "partdealer": "Tri City Auto Parts",
+                "partcountry": " USA",
+                "partstate": "NE",
+                "partcity": "Holdrege  ",
+                "phonea": "1-800-445-9117",
+                "phoneb": "1-800-445-9117"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.3698995,
+                    40.4379956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "1989",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "Control",
+                "partgrade": "A",
+                "partnum": "YJ1148",
+                "partprice": "$400",
+                "partdealer": "Patterson Auto Wrecking-RTN, MIDW, ARA",
+                "partcountry": " USA",
+                "partstate": "PA",
+                "partcity": "Cochranton  ",
+                "phonea": "814-425-7415",
+                "phoneb": "800-822-2028"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0483929,
+                    41.5200534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "1990",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "1500",
+                "partgrade": "C",
+                "partnum": "BH0951",
+                "partprice": "$400",
+                "partdealer": "Patterson Auto Wrecking-RTN, MIDW, ARA",
+                "partcountry": " USA",
+                "partstate": "PA",
+                "partcity": "Cochranton  ",
+                "phonea": "814-425-7415",
+                "phoneb": "800-822-2028"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0483929,
+                    41.5200534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "1994",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "1500",
+                "partgrade": "A",
+                "partnum": "CP0871",
+                "partprice": "$400",
+                "partdealer": "Patterson Auto Wrecking-RTN, MIDW, ARA",
+                "partcountry": " USA",
+                "partstate": "PA",
+                "partcity": "Cochranton  ",
+                "phonea": "814-425-7415",
+                "phoneb": "800-822-2028"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0483929,
+                    41.5200534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "1999",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "1500",
+                "partgrade": "X",
+                "partnum": "5274x",
+                "partprice": "$400",
+                "partdealer": "Standard Auto  Recycling",
+                "partcountry": " USA",
+                "partstate": "CA",
+                "partcity": "Chula-Vista  ",
+                "phonea": "619-426-9476",
+                "phoneb": "619-426-9476"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.0841955,
+                    32.6400541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "1999",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "C2500",
+                "partgrade": "X",
+                "partnum": "\u00a0",
+                "partprice": "$400",
+                "partdealer": "Twin Lakes Auto Salvage",
+                "partcountry": " USA",
+                "partstate": "TX",
+                "partcity": "Dallas  ",
+                "phonea": "1-800-891-4536",
+                "phoneb": "1-972-225-4536"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.7968559,
+                    32.7762719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "1986",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "C30",
+                "partgrade": "X",
+                "partnum": "13618",
+                "partprice": "$400",
+                "partdealer": "Twisted Metal Recycling LLC",
+                "partcountry": " USA",
+                "partstate": "FL",
+                "partcity": "Palmetto  ",
+                "phonea": "1-941-722-6279",
+                "phoneb": "1-941-722-6279"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5723193,
+                    27.5214269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "1991",
+                "partname": "Short Block Only",
+                "partmake": "Chevy",
+                "partmodel": "3500",
+                "partgrade": "X",
+                "partnum": "0921201908",
+                "partprice": "$400",
+                "partdealer": "Sal's Exports",
+                "partcountry": " USA",
+                "partstate": "IL",
+                "partcity": "Leland  ",
+                "phonea": "815-495-9600",
+                "phoneb": "815-495-9660815-495-9600"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.7995237,
+                    41.6125307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "1990",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "3500",
+                "partgrade": "X",
+                "partnum": "17A0001",
+                "partprice": "$385",
+                "partdealer": "Viking Truck and Auto",
+                "partcountry": " USA",
+                "partstate": "CA",
+                "partcity": "Redding  ",
+                "phonea": "1-800-338-7474",
+                "phoneb": "1-800-338-7474"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.391675,
+                    40.5863563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "1998",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "Series",
+                "partgrade": "X",
+                "partnum": "00002628",
+                "partprice": "$385",
+                "partdealer": "B and B Auto Parts",
+                "partcountry": " USA",
+                "partstate": "TX",
+                "partcity": "Waco  ",
+                "phonea": "1-866-477-3969",
+                "phoneb": "1-866-477-3969"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.1466695,
+                    31.549333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "2002",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "2500",
+                "partgrade": "X",
+                "partnum": "02SILVER25",
+                "partprice": "$350",
+                "partdealer": "Devore Cooke's Auto Parts Co. Inc.",
+                "partcountry": " USA",
+                "partstate": "NC",
+                "partcity": "Fayetteville  ",
+                "phonea": "1-800-682-4313",
+                "phoneb": "1-800-682-4313"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.878292,
+                    35.0525759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "2003",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "2500",
+                "partgrade": "C",
+                "partnum": "FM4404",
+                "partprice": "$350",
+                "partdealer": "Northern Neck Auto Parts",
+                "partcountry": " USA",
+                "partstate": "VA",
+                "partcity": "King-George  ",
+                "phonea": "1-800-847-4547",
+                "phoneb": "1-800-847-4547"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.1844222,
+                    38.2681837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "1993",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "3500",
+                "partgrade": "A",
+                "partnum": "107220",
+                "partprice": "$350",
+                "partdealer": "Hon's Automotive",
+                "partcountry": " USA",
+                "partstate": "GA",
+                "partcity": "Cochran  ",
+                "phonea": "1-800-852-1526",
+                "phoneb": "1-800-852-1526"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.3546098,
+                    32.3868278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "1995",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "2500",
+                "partgrade": "X",
+                "partnum": "K60167",
+                "partprice": "$350",
+                "partdealer": "A and B Auto Salvage",
+                "partcountry": " USA",
+                "partstate": "GA",
+                "partcity": "Griffin  ",
+                "phonea": "770-229-9122",
+                "phoneb": "770-229-9122"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.2640904,
+                    33.2467807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "2002",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "2500",
+                "partgrade": "A",
+                "partnum": "C703",
+                "partprice": "$350",
+                "partdealer": "Parts Unlimited",
+                "partcountry": " USA",
+                "partstate": "MT",
+                "partcity": "Victor  ",
+                "phonea": "1-406-642-3403",
+                "phoneb": "1-800-642-3405"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.14939974999999,
+                    46.4148155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "2002",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "2500",
+                "partgrade": "C",
+                "partnum": "C815",
+                "partprice": "$350",
+                "partdealer": "Parts Unlimited",
+                "partcountry": " USA",
+                "partstate": "MT",
+                "partcity": "Victor  ",
+                "phonea": "1-406-642-3403",
+                "phoneb": "1-800-642-3405"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.14939974999999,
+                    46.4148155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "2003",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "2500",
+                "partgrade": "A",
+                "partnum": "C759",
+                "partprice": "$350",
+                "partdealer": "Parts Unlimited",
+                "partcountry": " USA",
+                "partstate": "MT",
+                "partcity": "Victor  ",
+                "phonea": "1-406-642-3403",
+                "phoneb": "1-800-642-3405"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.14939974999999,
+                    46.4148155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "2005",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "2500",
+                "partgrade": "A",
+                "partnum": "C899",
+                "partprice": "$350",
+                "partdealer": "Parts Unlimited",
+                "partcountry": " USA",
+                "partstate": "MT",
+                "partcity": "Victor  ",
+                "phonea": "1-406-642-3403",
+                "phoneb": "1-800-642-3405"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.14939974999999,
+                    46.4148155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "1995",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "C3500",
+                "partgrade": "X",
+                "partnum": "I70881",
+                "partprice": "$350",
+                "partdealer": "S & J Motor Company, Inc. of Yadkin",
+                "partcountry": " USA",
+                "partstate": "NC",
+                "partcity": "Yadkinville  ",
+                "phonea": "336-961-2482",
+                "phoneb": "336-961-2228336-961-2482"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.6595079,
+                    36.1345807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "1990",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "1500",
+                "partgrade": "X",
+                "partnum": "93164",
+                "partprice": "$350",
+                "partdealer": "M & M Body LLC",
+                "partcountry": " USA",
+                "partstate": "NM",
+                "partcity": "Albuquerque  ",
+                "phonea": "505-345-7300",
+                "phoneb": "505-345-7300"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.650985,
+                    35.0841034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "2000",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "1500",
+                "partgrade": "X",
+                "partnum": "210052",
+                "partprice": "$350",
+                "partdealer": "E-Z Auto Wrecking",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "East-Wenatchee  ",
+                "phonea": "1-509-884-5000",
+                "phoneb": "1-888-558-6767"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.2931263,
+                    47.4156824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "2002",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "2500",
+                "partgrade": "X",
+                "partnum": "\u00a0",
+                "partprice": "$350",
+                "partdealer": "Eagle Auto Dismantling, Inc.",
+                "partcountry": " USA",
+                "partstate": "CA",
+                "partcity": "Bakersfield  ",
+                "phonea": "661-363-7807",
+                "phoneb": "661-363-7807"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.0194639,
+                    35.3738712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "1994",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "C3500",
+                "partgrade": "A",
+                "partnum": "AJ7175",
+                "partprice": "$350",
+                "partdealer": "Piland Auto Dismantling LLC",
+                "partcountry": " USA",
+                "partstate": "KS",
+                "partcity": "Garden-City ",
+                "phonea": "800-886-5506",
+                "phoneb": "620-275-5506"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.8726618,
+                    37.9716898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "1986",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "Series",
+                "partgrade": "X",
+                "partnum": "0199",
+                "partprice": "$317",
+                "partdealer": "D and D Engines, Inc.",
+                "partcountry": " USA",
+                "partstate": "AL",
+                "partcity": "Hazelgreen ",
+                "phonea": "800-782-4790",
+                "phoneb": "800-782-4790"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.4273935,
+                    37.7675406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "1987",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "Series",
+                "partgrade": "X",
+                "partnum": "0202",
+                "partprice": "$317",
+                "partdealer": "D and D Engines, Inc.",
+                "partcountry": " USA",
+                "partstate": "AL",
+                "partcity": "Hazelgreen ",
+                "phonea": "800-782-4790",
+                "phoneb": "800-782-4790"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.4273935,
+                    37.7675406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "1987",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "Series",
+                "partgrade": "X",
+                "partnum": "D1497",
+                "partprice": "$317",
+                "partdealer": "D and D Engines, Inc.",
+                "partcountry": " USA",
+                "partstate": "AL",
+                "partcity": "Hazelgreen ",
+                "phonea": "800-782-4790",
+                "phoneb": "800-782-4790"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.4273935,
+                    37.7675406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "1995",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "Series",
+                "partgrade": "C",
+                "partnum": "SS17860",
+                "partprice": "$316",
+                "partdealer": "Elmers Auto Salvage",
+                "partcountry": " USA",
+                "partstate": "WI",
+                "partcity": "Fountain-City  ",
+                "phonea": "1-800-362-5004",
+                "phoneb": "1-800-362-5004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.7187628,
+                    44.1319078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "1995",
+                "partname": "Engine Block",
+                "partmake": "Chevy",
+                "partmodel": "3500",
+                "partgrade": "X",
+                "partnum": "110402",
+                "partprice": "$300",
+                "partdealer": "Route 65 Auto, Inc",
+                "partcountry": " USA",
+                "partstate": "PA",
+                "partcity": "New-Castle  ",
+                "phonea": "1-800-245-2226",
+                "phoneb": "1-724-652-7733"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.3471856,
+                    40.9999202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partindex": "Engine",
+                "partyear": "1984",
+                "partname": "Short Block Only",
+                "partmake": "Chevy",
+                "partmodel": "Control",
+                "partgrade": "A",
+                "partnum": "200175",
+                "partprice": "$300",
+                "partdealer": "A and B Auto Salvage",
+                "partcountry": " USA",
+                "partstate": "GA",
+                "partcity": "Griffin  ",
+                "phonea": "770-229-9122",
+                "phoneb": "770-229-9122"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.2640904,
+                    33.2467807
+                ]
+            }
+        }
   ]
 }
