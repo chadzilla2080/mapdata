@@ -2742,6 +2742,1329 @@
                     33.2467807
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1997",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "C2500",
+                "partdes": "chrome, plain, nice",
+                "partdamage": "000",
+                "partgrade": "A",
+                "partnum": "JC1268",
+                "partprice": "$6050",
+                "partdealer": "Beehive Auto, LLC",
+                "partcountry": " USA",
+                "partstate": "NY",
+                "partcity": "Oneida  ",
+                "phonea": "315-363-2240",
+                "phoneb": "315-363-2240"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4039155,
+                    43.2144051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2002",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "2500",
+                "partdes": "IQ, OEM ASSY W-NEW OE PADS, W-FOGS",
+                "partdamage": "000",
+                "partgrade": "A",
+                "partnum": "0088",
+                "partprice": "$750",
+                "partdealer": "Big Leroy's Auto Parts - KOLT",
+                "partcountry": " USA",
+                "partstate": "TX",
+                "partcity": "Houston  ",
+                "phonea": "1-800-288-6725",
+                "phoneb": "1-800-288-6725"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3676974,
+                    29.7589382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2000",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "1500",
+                "partdes": "chrome, fog lamps,000",
+                "partdamage": "000",
+                "partgrade": "A",
+                "partnum": "6502",
+                "partprice": "$750",
+                "partdealer": "Walker 400 Auto Dismantling",
+                "partcountry": " USA",
+                "partstate": "CA",
+                "partcity": "Ranch-Cucamonga  ",
+                "phonea": "909-463-6396",
+                "phoneb": "909-463-6396"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.588260548898,
+                    34.0790144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2000",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "2500",
+                "partdes": "chrome, w/o fog lamps,000",
+                "partdamage": "000",
+                "partgrade": "A",
+                "partnum": "6248",
+                "partprice": "$750",
+                "partdealer": "Walker 400 Auto Dismantling",
+                "partcountry": " USA",
+                "partstate": "CA",
+                "partcity": "Ranch-Cucamonga  ",
+                "phonea": "909-463-6396",
+                "phoneb": "909-463-6396"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.588260548898,
+                    34.0790144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2002",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "2500",
+                "partdes": "2500 HD, w/o fog lamps,000",
+                "partdamage": "000",
+                "partgrade": "A",
+                "partnum": "6656",
+                "partprice": "$750",
+                "partdealer": "Walker 400 Auto Dismantling",
+                "partcountry": " USA",
+                "partstate": "CA",
+                "partcity": "Ranch-Cucamonga  ",
+                "phonea": "909-463-6396",
+                "phoneb": "909-463-6396"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.588260548898,
+                    34.0790144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2002",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "2500",
+                "partdes": "2500 HD, w/o fog lamps,000",
+                "partdamage": "000",
+                "partgrade": "A",
+                "partnum": "6739",
+                "partprice": "$750",
+                "partdealer": "Walker 400 Auto Dismantling",
+                "partcountry": " USA",
+                "partstate": "CA",
+                "partcity": "Ranch-Cucamonga  ",
+                "phonea": "909-463-6396",
+                "phoneb": "909-463-6396"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.588260548898,
+                    34.0790144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2001",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "2500",
+                "partdes": "CHROME,BLK.-FOGS",
+                "partdamage": "000",
+                "partgrade": "A",
+                "partnum": "K21004",
+                "partprice": "$650",
+                "partdealer": "Tri City Auto Parts",
+                "partcountry": " USA",
+                "partstate": "NE",
+                "partcity": "Holdrege  ",
+                "phonea": "1-800-445-9117",
+                "phoneb": "1-800-445-9117"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.3698995,
+                    40.4379956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1999",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "1500",
+                "partdes": "pnted, fog lmps",
+                "partdamage": "000",
+                "partgrade": "A",
+                "partnum": "Q091",
+                "partprice": "$650",
+                "partdealer": "A-1 Wrecking Yard",
+                "partcountry": " USA",
+                "partstate": "CA",
+                "partcity": "Rialto  ",
+                "phonea": "909-822-6288",
+                "phoneb": "909-822-6288"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.3703235,
+                    34.1064001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2002",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "1500",
+                "partdes": "IQ,ASSY W/FOG'S",
+                "partdamage": "000",
+                "partgrade": "A",
+                "partnum": "105R",
+                "partprice": "$650",
+                "partdealer": "Houston Auto and Truck Parts",
+                "partcountry": " USA",
+                "partstate": "TX",
+                "partcity": "Houston  ",
+                "phonea": "888-265-1942",
+                "phoneb": "281-448-3000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3676974,
+                    29.7589382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1999",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "Truck",
+                "partdes": "1999 GMC WORKHORSE P42 BUMPER FRONT PAINTED BLACK W/ BRACKETS OEM FREE SHIPPING LOWER 48 STATES",
+                "partdamage": "000",
+                "partgrade": "A",
+                "partnum": "074702",
+                "partprice": "$650",
+                "partdealer": "J&V Auto SALVAGE-ELITE",
+                "partcountry": " USA",
+                "partstate": "NY",
+                "partcity": "Westhampton-Beach  ",
+                "phonea": "631-288-2620",
+                "phoneb": "631-288-2620"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.64023545400929,
+                    40.80823905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2002",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "2500",
+                "partdes": "SMALL CUT BEHINF LICENSE PLATE",
+                "partdamage": " \u00a0 ",
+                "partgrade": "X",
+                "partnum": "AM8348",
+                "partprice": "$650",
+                "partdealer": "Piland Auto Dismantling LLC",
+                "partcountry": " USA",
+                "partstate": "KS",
+                "partcity": "Garden-City ",
+                "phonea": "800-886-5506",
+                "phoneb": "620-275-5506"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.8726618,
+                    37.9716898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2002",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "2500",
+                "partdes": "IQ, OEM ASSY W-NEW OE PADS, LESS FOG",
+                "partdamage": "000",
+                "partgrade": "A",
+                "partnum": "0088",
+                "partprice": "$625",
+                "partdealer": "Big Leroy's Auto Parts - KOLT",
+                "partcountry": " USA",
+                "partstate": "TX",
+                "partcity": "Houston  ",
+                "phonea": "1-800-288-6725",
+                "phoneb": "1-800-288-6725"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3676974,
+                    29.7589382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2002",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "2500",
+                "partdes": "IQ, OEM ASSY W-NEW OE PADS",
+                "partdamage": "000",
+                "partgrade": "A",
+                "partnum": "0088",
+                "partprice": "$625",
+                "partdealer": "Big Leroy's Auto Parts - KOLT",
+                "partcountry": " USA",
+                "partstate": "TX",
+                "partcity": "Houston  ",
+                "phonea": "1-800-288-6725",
+                "phoneb": "1-800-288-6725"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3676974,
+                    29.7589382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2001",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "3500",
+                "partdes": "CHRM, W/O FOG LMPS.",
+                "partdamage": "000",
+                "partgrade": "A",
+                "partnum": "C2717",
+                "partprice": "$600",
+                "partdealer": "BeBe's LS3 Trucks & Auto Dismantler",
+                "partcountry": " USA",
+                "partstate": "CA",
+                "partcity": "Fontana  ",
+                "phonea": "909-356-1111",
+                "phoneb": "909-356-1111"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.435048,
+                    34.0922335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2001",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "1500",
+                "partdes": "chrm, w/o fog lmps",
+                "partdamage": "000",
+                "partgrade": "A",
+                "partnum": "149",
+                "partprice": "$600",
+                "partdealer": "Smartparts Auto & Truck Dismantling",
+                "partcountry": " USA",
+                "partstate": "CA",
+                "partcity": "Fontana  ",
+                "phonea": "626-498-3932",
+                "phoneb": "909-429-4604626-456-4583626-498-3932"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.435048,
+                    34.0922335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1997",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "3500",
+                "partdes": "Chrm w/strip & brkts (complete)",
+                "partdamage": "000",
+                "partgrade": "A",
+                "partnum": "8851",
+                "partprice": "$575.38",
+                "partdealer": "Al's Lynnwood Truck Parts",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Everett  ",
+                "phonea": "1-425-743-9191",
+                "phoneb": "1-800-334-3622"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2013998,
+                    47.9673056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2002",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "1500",
+                "partdes": "IQ, W-NEW OE PADS,W-4 BRACKETS",
+                "partdamage": "000",
+                "partgrade": "A",
+                "partnum": "0088",
+                "partprice": "$550",
+                "partdealer": "Big Leroy's Auto Parts - KOLT",
+                "partcountry": " USA",
+                "partstate": "TX",
+                "partcity": "Houston  ",
+                "phonea": "1-800-288-6725",
+                "phoneb": "1-800-288-6725"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3676974,
+                    29.7589382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2000",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "1500",
+                "partdes": "\u00a0",
+                "partdamage": "000",
+                "partgrade": "A",
+                "partnum": "19090",
+                "partprice": "$550",
+                "partdealer": "West Coast Auto Wrecking",
+                "partcountry": " USA",
+                "partstate": "CA",
+                "partcity": "Montclair  ",
+                "phonea": "909-620-1961",
+                "phoneb": "866-887-5014"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.6897776,
+                    34.0775104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2002",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "1500",
+                "partdes": "IQ, W-NEW OE PADS,W-2 BRACKETS",
+                "partdamage": "000",
+                "partgrade": "A",
+                "partnum": "0088",
+                "partprice": "$525",
+                "partdealer": "Big Leroy's Auto Parts - KOLT",
+                "partcountry": " USA",
+                "partstate": "TX",
+                "partcity": "Houston  ",
+                "phonea": "1-800-288-6725",
+                "phoneb": "1-800-288-6725"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3676974,
+                    29.7589382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2002",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "1500",
+                "partdes": "(OEM COVER) REBAR 2PCS",
+                "partdamage": "000",
+                "partgrade": "A",
+                "partnum": "\u00a0",
+                "partprice": "$505",
+                "partdealer": "H F Auto Parts",
+                "partcountry": " USA",
+                "partstate": "CA",
+                "partcity": "Sun-Valley  ",
+                "phonea": "1-818-834-2000",
+                "phoneb": "1-818-834-2000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.3878945,
+                    34.2204227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1999",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "1500",
+                "partdes": "chrm, w/o fog lmps",
+                "partdamage": "000",
+                "partgrade": "A",
+                "partnum": "Q091",
+                "partprice": "$500",
+                "partdealer": "A-1 Wrecking Yard",
+                "partcountry": " USA",
+                "partstate": "CA",
+                "partcity": "Rialto  ",
+                "phonea": "909-822-6288",
+                "phoneb": "909-822-6288"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.3703235,
+                    34.1064001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1999",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "1500",
+                "partdes": "pnted, w/o fog lmps",
+                "partdamage": "000",
+                "partgrade": "A",
+                "partnum": "Q091",
+                "partprice": "$500",
+                "partdealer": "A-1 Wrecking Yard",
+                "partcountry": " USA",
+                "partstate": "CA",
+                "partcity": "Rialto  ",
+                "phonea": "909-822-6288",
+                "phoneb": "909-822-6288"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.3703235,
+                    34.1064001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1999",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "1500",
+                "partdes": "chrome, w/o fog lamps,0P3.5,25% RESTOCK FEE",
+                "partdamage": "0P3.5",
+                "partgrade": "C",
+                "partnum": "H120497-PS",
+                "partprice": "$500",
+                "partdealer": "Betos Truck/Auto Dismantlers BTA Parts",
+                "partcountry": " USA",
+                "partstate": "CA",
+                "partcity": "Hesperia  ",
+                "phonea": "760-947-2342",
+                "phoneb": "760-947-2342"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.3008784,
+                    34.4263886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2002",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "1500",
+                "partdes": "\u00a0",
+                "partdamage": "3S1",
+                "partgrade": "A",
+                "partnum": "13B016",
+                "partprice": "$500",
+                "partdealer": "El Paso Auto Salvage",
+                "partcountry": " USA",
+                "partstate": "TX",
+                "partcity": "El-Paso  ",
+                "phonea": "1-915-877-5555",
+                "phoneb": "1-915-877-5555"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.464634,
+                    31.7754152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1998",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "Series",
+                "partdes": "2DR PU RED",
+                "partdamage": "000",
+                "partgrade": "A",
+                "partnum": "KX22074",
+                "partprice": "$500",
+                "partdealer": "Cocoa Auto Salvage",
+                "partcountry": " USA",
+                "partstate": "FL",
+                "partcity": "Cocoa ",
+                "phonea": "321-636-7130",
+                "phoneb": "800-347-0928"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.7318827,
+                    28.3553873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2002",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "1500",
+                "partdes": "IQ,ASSY",
+                "partdamage": "000",
+                "partgrade": "A",
+                "partnum": "105R",
+                "partprice": "$500",
+                "partdealer": "Houston Auto and Truck Parts",
+                "partcountry": " USA",
+                "partstate": "TX",
+                "partcity": "Houston  ",
+                "phonea": "888-265-1942",
+                "phoneb": "281-448-3000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3676974,
+                    29.7589382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2002",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "1500",
+                "partdes": "COVER NEEDS RECON",
+                "partdamage": "000",
+                "partgrade": "A",
+                "partnum": "1472",
+                "partprice": "$500",
+                "partdealer": "Rex Used Auto Parts",
+                "partcountry": " USA",
+                "partstate": "CA",
+                "partcity": "Gardena  ",
+                "phonea": "310-532-5544",
+                "phoneb": "310-532-5544"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.3053037,
+                    33.8963593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2002",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "2500",
+                "partdes": "FRONT BUMPER, W/O Fog Lamps, 2500 HD",
+                "partdamage": "000",
+                "partgrade": "A",
+                "partnum": "84639",
+                "partprice": "$500",
+                "partdealer": "A & B Auto Salvage",
+                "partcountry": " USA",
+                "partstate": "CA",
+                "partcity": "Los-Angeles  ",
+                "phonea": "323-221-2400",
+                "phoneb": "323-221-2400"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.242766,
+                    34.0536909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1999",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "1500",
+                "partdes": "2DR CHROME, W/O FOG LAMPS",
+                "partdamage": "**3",
+                "partgrade": "C",
+                "partnum": "$K08802",
+                "partprice": "$485",
+                "partdealer": "LKQ-Keystone- Stockton",
+                "partcountry": " USA",
+                "partstate": "CA",
+                "partcity": "Stockton  ",
+                "phonea": "1-800-424-2002",
+                "phoneb": "1-800-424-2002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.2907796,
+                    37.9577016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2002",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "2500",
+                "partdes": "6.0L,2DR EXC. 2500 HD; CHROME, W/O FOG LAMPS",
+                "partdamage": "6D1",
+                "partgrade": "A",
+                "partnum": "$RC0513",
+                "partprice": "$485",
+                "partdealer": "LKQ-Keystone- Stockton",
+                "partcountry": " USA",
+                "partstate": "CA",
+                "partcity": "Stockton  ",
+                "phonea": "1-800-424-2002",
+                "phoneb": "1-800-424-2002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.2907796,
+                    37.9577016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2001",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "1500",
+                "partdes": "SILVERADO ,4DR CHROME, W/O FOG LAMPS",
+                "partdamage": "3D3",
+                "partgrade": "C",
+                "partnum": "$Y14596",
+                "partprice": "$477",
+                "partdealer": "LKQ-Keystone- Adelanto",
+                "partcountry": " USA",
+                "partstate": "CA",
+                "partcity": "Adelanto ",
+                "phonea": "800-525-3667",
+                "phoneb": "800-525-3667"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.409215,
+                    34.5827699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2000",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "1500",
+                "partdes": "1500,3DR PAINTED, W/O FOG LAMPS",
+                "partdamage": "000",
+                "partgrade": "A",
+                "partnum": "$RA9388",
+                "partprice": "$452",
+                "partdealer": "LKQ-Keystone- Stockton",
+                "partcountry": " USA",
+                "partstate": "CA",
+                "partcity": "Stockton  ",
+                "phonea": "1-800-424-2002",
+                "phoneb": "1-800-424-2002"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.2907796,
+                    37.9577016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1999",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "1500",
+                "partdes": "000,BEIGE,LT",
+                "partdamage": "\u00a0",
+                "partgrade": "A",
+                "partnum": "211832",
+                "partprice": "$450",
+                "partdealer": "Brothers Auto Parts",
+                "partcountry": " USA",
+                "partstate": "TX",
+                "partcity": "San-Antonio  ",
+                "phonea": "1-800-926-8591",
+                "phoneb": "1-800-926-8591"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.4951405,
+                    29.4246002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2001",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "1500",
+                "partdes": "COMP AFTERMARKET",
+                "partdamage": " \u00a0 ",
+                "partgrade": "X",
+                "partnum": "NEW",
+                "partprice": "$450",
+                "partdealer": "Andrews Auto Salvage",
+                "partcountry": " USA",
+                "partstate": "GA",
+                "partcity": "Griffin  ",
+                "phonea": "770-233-3881",
+                "phoneb": "770-233-3881"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.2640904,
+                    33.2467807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2000",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "1500",
+                "partdes": "chrome, fog lamps",
+                "partdamage": "000",
+                "partgrade": "A",
+                "partnum": "AA400",
+                "partprice": "$450",
+                "partdealer": "Central Valley Auto Dismantlers and Towing",
+                "partcountry": " USA",
+                "partstate": "CA",
+                "partcity": "Lompoc  ",
+                "phonea": "(805)736-6719",
+                "phoneb": "(805)736-6719"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.4579409,
+                    34.6391501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1994",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "2500",
+                "partdes": "\u00a0",
+                "partdamage": "000",
+                "partgrade": "A",
+                "partnum": "13674",
+                "partprice": "$450",
+                "partdealer": "West Coast Auto Wrecking",
+                "partcountry": " USA",
+                "partstate": "CA",
+                "partcity": "Montclair  ",
+                "phonea": "909-620-1961",
+                "phoneb": "866-887-5014"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.6897776,
+                    34.0775104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1998",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "C1500",
+                "partdes": "IQ,ASSY",
+                "partdamage": "000",
+                "partgrade": "A",
+                "partnum": "B7E008",
+                "partprice": "$450",
+                "partdealer": "Houston Auto and Truck Parts",
+                "partcountry": " USA",
+                "partstate": "TX",
+                "partcity": "Houston  ",
+                "phonea": "888-265-1942",
+                "phoneb": "281-448-3000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3676974,
+                    29.7589382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1999",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "1500",
+                "partdes": "NEEDS LWR COVER INDV ONLY",
+                "partdamage": "000",
+                "partgrade": "A",
+                "partnum": "20200098",
+                "partprice": "$450",
+                "partdealer": "Highland Auto Parts",
+                "partcountry": " USA",
+                "partstate": "MO",
+                "partcity": "Nevada  ",
+                "phonea": "417-667-7000",
+                "phoneb": "888-457-2657417-667-7000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.3596185,
+                    37.8381108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2000",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "1500",
+                "partdes": "INDV -LWT VALANCE",
+                "partdamage": "000",
+                "partgrade": "A",
+                "partnum": "20210072",
+                "partprice": "$450",
+                "partdealer": "Highland Auto Parts",
+                "partcountry": " USA",
+                "partstate": "MO",
+                "partcity": "Nevada  ",
+                "phonea": "417-667-7000",
+                "phoneb": "888-457-2657417-667-7000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.3596185,
+                    37.8381108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2002",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "2500",
+                "partdes": "CHROME NO FOG",
+                "partdamage": " \u00a0 ",
+                "partgrade": "X",
+                "partnum": "H001",
+                "partprice": "$450",
+                "partdealer": "Indiana Truck Salvage",
+                "partcountry": " USA",
+                "partstate": "CA",
+                "partcity": "Corona  ",
+                "phonea": "951-737-7753",
+                "phoneb": "951-737-7753"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.5664449,
+                    33.8752945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2000",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "2500",
+                "partdes": "CHRM,LS,000",
+                "partdamage": "000",
+                "partgrade": "A",
+                "partnum": "DPK4",
+                "partprice": "$443",
+                "partdealer": "Spalding Auto Parts",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Spokane  ",
+                "phonea": "1-800-366-2070",
+                "phoneb": "1-800-366-2070"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.4235106,
+                    47.6571934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2001",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "1500",
+                "partdes": "LT,4DR CHROME, W/O FOG LAMPS",
+                "partdamage": "3D3",
+                "partgrade": "C",
+                "partnum": "$R30028",
+                "partprice": "$440",
+                "partdealer": "LKQ-Keystone- Salisbury",
+                "partcountry": " USA",
+                "partstate": "NC",
+                "partcity": "Salisbury ",
+                "phonea": "1-800-422-0348",
+                "phoneb": "1-800-422-0348"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.4742261,
+                    35.6709727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2001",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "2500",
+                "partdes": "95%",
+                "partdamage": "000",
+                "partgrade": "A",
+                "partnum": "ZN08101",
+                "partprice": "$440",
+                "partdealer": "Sharp Auto Parts - URG, ARM MN, ARA Gold Seal",
+                "partcountry": " USA",
+                "partstate": "MN",
+                "partcity": "Stillwater ",
+                "phonea": "651-439-2604",
+                "phoneb": "651-439-2604"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.8134982,
+                    45.0564041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2002",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "1500",
+                "partdes": "BASE,4DR X BOTTOM SPOILER",
+                "partdamage": "4D1",
+                "partgrade": "A",
+                "partnum": "$Y15988",
+                "partprice": "$440",
+                "partdealer": "LKQ-Keystone- Adelanto",
+                "partcountry": " USA",
+                "partstate": "CA",
+                "partcity": "Adelanto ",
+                "phonea": "800-525-3667",
+                "phoneb": "800-525-3667"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.409215,
+                    34.5827699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2002",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "1500",
+                "partdes": "3P0.5    A FEW SCUFFS IN PLASTIC    CHROME   BLK TEXTURED UPPER   W/FOG LAMPS",
+                "partdamage": "**1",
+                "partgrade": "A",
+                "partnum": "P0811",
+                "partprice": "$439.5",
+                "partdealer": "Knox  Auto Parts-PRP Midwest",
+                "partcountry": " USA",
+                "partstate": "TN",
+                "partcity": "Knoxville ",
+                "phonea": "615-610-4771",
+                "phoneb": "615-610-4771"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.9210261,
+                    35.9603948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2002",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "1500",
+                "partdes": "LS,4DR LITE SCRATCHES, LITE DING, X-FRL-R, X-LWR MLDG",
+                "partdamage": "0P2",
+                "partgrade": "C",
+                "partnum": "$E06769",
+                "partprice": "$427",
+                "partdealer": "LKQ-Keystone- Venice Auto Parts",
+                "partcountry": " USA",
+                "partstate": "PA",
+                "partcity": "Philadelphia  ",
+                "phonea": "1-800-523-1600",
+                "phoneb": "1-800-523-1600"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.1635262,
+                    39.9527237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2002",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "1500",
+                "partdes": "CHRM,LS,000",
+                "partdamage": "000",
+                "partgrade": "A",
+                "partnum": "DLX7",
+                "partprice": "$426",
+                "partdealer": "Spalding Auto Parts",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Spokane  ",
+                "phonea": "1-800-366-2070",
+                "phoneb": "1-800-366-2070"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.4235106,
+                    47.6571934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1998",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "Series",
+                "partdes": "2DR PU RED",
+                "partdamage": "000",
+                "partgrade": "A",
+                "partnum": "KX22074",
+                "partprice": "$425",
+                "partdealer": "Modern Auto Parts, Inc -  RTN, PRP Midwest",
+                "partcountry": " USA",
+                "partstate": "MO",
+                "partcity": "St.-Louis ",
+                "phonea": "314-696-2935",
+                "phoneb": "314-696-2935"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.24111656024635,
+                    38.6529545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1998",
+                "partname": "Front Bumper Assembly",
+                "partmake": "Chevy",
+                "partmodel": "Series",
+                "partdes": "2DR PU RED",
+                "partdamage": "000",
+                "partgrade": "A",
+                "partnum": "KX22074",
+                "partprice": "$420",
+                "partdealer": "Lambert Auto Salvage",
+                "partcountry": " USA",
+                "partstate": "MS",
+                "partcity": "Booneville ",
+                "phonea": "877-728-0409",
+                "phoneb": "877-728-0409"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.5666451,
+                    34.6580327
+                ]
+            }
         }
     ]
 }
