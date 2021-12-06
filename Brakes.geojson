@@ -1,0 +1,5005 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2011",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "DD1061",
+                "partprice": "$168.75",
+                "partdealer": "Toms Foreign Auto Parts-QRP Partner",
+                "partcountry": " USA",
+                "partstate": "CT",
+                "partcity": "Waterbury ",
+                "phonea": "800-255-6656",
+                "phoneb": "203-753-6656800-255-6656"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.0438362,
+                    41.5538091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2007",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "TO9271",
+                "partprice": "$160",
+                "partdealer": "Late Model Auto Salvage / Fenix Parts Inc.",
+                "partcountry": " USA",
+                "partstate": "TX",
+                "partcity": "Haltom-City ",
+                "phonea": "817-916-5325",
+                "phoneb": "817-916-5325"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.2691817,
+                    32.7995738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2009",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "TO6203",
+                "partprice": "$160",
+                "partdealer": "Late Model Auto Salvage / Fenix Parts Inc.",
+                "partcountry": " USA",
+                "partstate": "TX",
+                "partcity": "Haltom-City ",
+                "phonea": "817-916-5325",
+                "phoneb": "817-916-5325"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.2691817,
+                    32.7995738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2009",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "TO7731",
+                "partprice": "$160",
+                "partdealer": "Late Model Auto Salvage / Fenix Parts Inc.",
+                "partcountry": " USA",
+                "partstate": "TX",
+                "partcity": "Haltom-City ",
+                "phonea": "817-916-5325",
+                "phoneb": "817-916-5325"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.2691817,
+                    32.7995738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2014",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "B",
+                "partnum": "TO7771",
+                "partprice": "$160",
+                "partdealer": "Late Model Auto Salvage / Fenix Parts Inc.",
+                "partcountry": " USA",
+                "partstate": "TX",
+                "partcity": "Haltom-City ",
+                "phonea": "817-916-5325",
+                "phoneb": "817-916-5325"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.2691817,
+                    32.7995738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2012",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "B",
+                "partnum": "TO9927",
+                "partprice": "$160",
+                "partdealer": "Late Model Auto Salvage / Fenix Parts Inc.",
+                "partcountry": " USA",
+                "partstate": "TX",
+                "partcity": "Haltom-City ",
+                "phonea": "817-916-5325",
+                "phoneb": "817-916-5325"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.2691817,
+                    32.7995738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2011",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "TO5993",
+                "partprice": "$160",
+                "partdealer": "Late Model Auto Salvage / Fenix Parts Inc.",
+                "partcountry": " USA",
+                "partstate": "TX",
+                "partcity": "Haltom-City ",
+                "phonea": "817-916-5325",
+                "phoneb": "817-916-5325"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.2691817,
+                    32.7995738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2009",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "G8H389",
+                "partprice": "$154",
+                "partdealer": "ABC Auto Parts - RTN, PRP, ARA Gold Seal Certified",
+                "partcountry": " USA",
+                "partstate": "IL",
+                "partcity": "Riverdale ",
+                "phonea": "800-458-7838",
+                "phoneb": "708-389-1456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6331021,
+                    41.6333678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2014",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "B",
+                "partnum": "G21F229",
+                "partprice": "$154",
+                "partdealer": "ABC Auto Parts - RTN, PRP, ARA Gold Seal Certified",
+                "partcountry": " USA",
+                "partstate": "IL",
+                "partcity": "Riverdale ",
+                "phonea": "800-458-7838",
+                "phoneb": "708-389-1456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6331021,
+                    41.6333678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2014",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "B",
+                "partnum": "G8C143",
+                "partprice": "$154",
+                "partdealer": "ABC Auto Parts - RTN, PRP, ARA Gold Seal Certified",
+                "partcountry": " USA",
+                "partstate": "IL",
+                "partcity": "Riverdale ",
+                "phonea": "800-458-7838",
+                "phoneb": "708-389-1456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6331021,
+                    41.6333678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2007",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "G8K498",
+                "partprice": "$154",
+                "partdealer": "ABC Auto Parts - RTN, PRP, ARA Gold Seal Certified",
+                "partcountry": " USA",
+                "partstate": "IL",
+                "partcity": "Riverdale ",
+                "phonea": "800-458-7838",
+                "phoneb": "708-389-1456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6331021,
+                    41.6333678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2016",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "B",
+                "partnum": "G20J524",
+                "partprice": "$154",
+                "partdealer": "ABC Auto Parts - RTN, PRP, ARA Gold Seal Certified",
+                "partcountry": " USA",
+                "partstate": "IL",
+                "partcity": "Riverdale ",
+                "phonea": "800-458-7838",
+                "phoneb": "708-389-1456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6331021,
+                    41.6333678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2011",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "G9H390",
+                "partprice": "$154",
+                "partdealer": "ABC Auto Parts - RTN, PRP, ARA Gold Seal Certified",
+                "partcountry": " USA",
+                "partstate": "IL",
+                "partcity": "Riverdale ",
+                "phonea": "800-458-7838",
+                "phoneb": "708-389-1456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6331021,
+                    41.6333678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2014",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "B",
+                "partnum": "G20B114",
+                "partprice": "$154",
+                "partdealer": "ABC Auto Parts - RTN, PRP, ARA Gold Seal Certified",
+                "partcountry": " USA",
+                "partstate": "IL",
+                "partcity": "Riverdale ",
+                "phonea": "800-458-7838",
+                "phoneb": "708-389-1456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6331021,
+                    41.6333678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2010",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "G8C122",
+                "partprice": "$154",
+                "partdealer": "ABC Auto Parts - RTN, PRP, ARA Gold Seal Certified",
+                "partcountry": " USA",
+                "partstate": "IL",
+                "partcity": "Riverdale ",
+                "phonea": "800-458-7838",
+                "phoneb": "708-389-1456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6331021,
+                    41.6333678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2007",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "G9E219",
+                "partprice": "$154",
+                "partdealer": "ABC Auto Parts - RTN, PRP, ARA Gold Seal Certified",
+                "partcountry": " USA",
+                "partstate": "IL",
+                "partcity": "Riverdale ",
+                "phonea": "800-458-7838",
+                "phoneb": "708-389-1456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6331021,
+                    41.6333678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2011",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "G20E263",
+                "partprice": "$154",
+                "partdealer": "ABC Auto Parts - RTN, PRP, ARA Gold Seal Certified",
+                "partcountry": " USA",
+                "partstate": "IL",
+                "partcity": "Riverdale ",
+                "phonea": "800-458-7838",
+                "phoneb": "708-389-1456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6331021,
+                    41.6333678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2009",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "G20L666",
+                "partprice": "$154",
+                "partdealer": "ABC Auto Parts - RTN, PRP, ARA Gold Seal Certified",
+                "partcountry": " USA",
+                "partstate": "IL",
+                "partcity": "Riverdale ",
+                "phonea": "800-458-7838",
+                "phoneb": "708-389-1456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6331021,
+                    41.6333678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2009",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "G9A053",
+                "partprice": "$154",
+                "partdealer": "ABC Auto Parts - RTN, PRP, ARA Gold Seal Certified",
+                "partcountry": " USA",
+                "partstate": "IL",
+                "partcity": "Riverdale ",
+                "phonea": "800-458-7838",
+                "phoneb": "708-389-1456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6331021,
+                    41.6333678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2010",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "G6A028",
+                "partprice": "$154",
+                "partdealer": "ABC Auto Parts - RTN, PRP, ARA Gold Seal Certified",
+                "partcountry": " USA",
+                "partstate": "IL",
+                "partcity": "Riverdale ",
+                "phonea": "800-458-7838",
+                "phoneb": "708-389-1456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6331021,
+                    41.6333678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2007",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "G9L602",
+                "partprice": "$154",
+                "partdealer": "ABC Auto Parts - RTN, PRP, ARA Gold Seal Certified",
+                "partcountry": " USA",
+                "partstate": "IL",
+                "partcity": "Riverdale ",
+                "phonea": "800-458-7838",
+                "phoneb": "708-389-1456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6331021,
+                    41.6333678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2016",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "G8F297",
+                "partprice": "$154",
+                "partdealer": "ABC Auto Parts - RTN, PRP, ARA Gold Seal Certified",
+                "partcountry": " USA",
+                "partstate": "IL",
+                "partcity": "Riverdale ",
+                "phonea": "800-458-7838",
+                "phoneb": "708-389-1456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6331021,
+                    41.6333678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2011",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "G6L521",
+                "partprice": "$154",
+                "partdealer": "ABC Auto Parts - RTN, PRP, ARA Gold Seal Certified",
+                "partcountry": " USA",
+                "partstate": "IL",
+                "partcity": "Riverdale ",
+                "phonea": "800-458-7838",
+                "phoneb": "708-389-1456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6331021,
+                    41.6333678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2011",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "G7B059",
+                "partprice": "$154",
+                "partdealer": "ABC Auto Parts - RTN, PRP, ARA Gold Seal Certified",
+                "partcountry": " USA",
+                "partstate": "IL",
+                "partcity": "Riverdale ",
+                "phonea": "800-458-7838",
+                "phoneb": "708-389-1456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6331021,
+                    41.6333678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2014",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "G9D198",
+                "partprice": "$154",
+                "partdealer": "ABC Auto Parts - RTN, PRP, ARA Gold Seal Certified",
+                "partcountry": " USA",
+                "partstate": "IL",
+                "partcity": "Riverdale ",
+                "phonea": "800-458-7838",
+                "phoneb": "708-389-1456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6331021,
+                    41.6333678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2015",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "G9J503",
+                "partprice": "$154",
+                "partdealer": "ABC Auto Parts - RTN, PRP, ARA Gold Seal Certified",
+                "partcountry": " USA",
+                "partstate": "IL",
+                "partcity": "Riverdale ",
+                "phonea": "800-458-7838",
+                "phoneb": "708-389-1456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6331021,
+                    41.6333678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2014",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "G7K410",
+                "partprice": "$154",
+                "partdealer": "ABC Auto Parts - RTN, PRP, ARA Gold Seal Certified",
+                "partcountry": " USA",
+                "partstate": "IL",
+                "partcity": "Riverdale ",
+                "phonea": "800-458-7838",
+                "phoneb": "708-389-1456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6331021,
+                    41.6333678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2010",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "G9B104",
+                "partprice": "$154",
+                "partdealer": "ABC Auto Parts - RTN, PRP, ARA Gold Seal Certified",
+                "partcountry": " USA",
+                "partstate": "IL",
+                "partcity": "Riverdale ",
+                "phonea": "800-458-7838",
+                "phoneb": "708-389-1456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6331021,
+                    41.6333678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2007",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "G8K539",
+                "partprice": "$154",
+                "partdealer": "ABC Auto Parts - RTN, PRP, ARA Gold Seal Certified",
+                "partcountry": " USA",
+                "partstate": "IL",
+                "partcity": "Riverdale ",
+                "phonea": "800-458-7838",
+                "phoneb": "708-389-1456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6331021,
+                    41.6333678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2010",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "G6J392",
+                "partprice": "$154",
+                "partdealer": "ABC Auto Parts - RTN, PRP, ARA Gold Seal Certified",
+                "partcountry": " USA",
+                "partstate": "IL",
+                "partcity": "Riverdale ",
+                "phonea": "800-458-7838",
+                "phoneb": "708-389-1456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6331021,
+                    41.6333678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2007",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "G8J451",
+                "partprice": "$154",
+                "partdealer": "ABC Auto Parts - RTN, PRP, ARA Gold Seal Certified",
+                "partcountry": " USA",
+                "partstate": "IL",
+                "partcity": "Riverdale ",
+                "phonea": "800-458-7838",
+                "phoneb": "708-389-1456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6331021,
+                    41.6333678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1995",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "G20L700",
+                "partprice": "$154",
+                "partdealer": "ABC Auto Parts - RTN, PRP, ARA Gold Seal Certified",
+                "partcountry": " USA",
+                "partstate": "IL",
+                "partcity": "Riverdale ",
+                "phonea": "800-458-7838",
+                "phoneb": "708-389-1456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6331021,
+                    41.6333678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1995",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "S8F410",
+                "partprice": "$154",
+                "partdealer": "ABC Auto Parts - RTN, PRP, ARA Gold Seal Certified",
+                "partcountry": " USA",
+                "partstate": "IL",
+                "partcity": "Riverdale ",
+                "phonea": "800-458-7838",
+                "phoneb": "708-389-1456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6331021,
+                    41.6333678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2005",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "G21H316",
+                "partprice": "$154",
+                "partdealer": "ABC Auto Parts - RTN, PRP, ARA Gold Seal Certified",
+                "partcountry": " USA",
+                "partstate": "IL",
+                "partcity": "Riverdale ",
+                "phonea": "800-458-7838",
+                "phoneb": "708-389-1456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6331021,
+                    41.6333678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2005",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "G9H404",
+                "partprice": "$154",
+                "partdealer": "ABC Auto Parts - RTN, PRP, ARA Gold Seal Certified",
+                "partcountry": " USA",
+                "partstate": "IL",
+                "partcity": "Riverdale ",
+                "phonea": "800-458-7838",
+                "phoneb": "708-389-1456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6331021,
+                    41.6333678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2005",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "G7G243",
+                "partprice": "$154",
+                "partdealer": "ABC Auto Parts - RTN, PRP, ARA Gold Seal Certified",
+                "partcountry": " USA",
+                "partstate": "IL",
+                "partcity": "Riverdale ",
+                "phonea": "800-458-7838",
+                "phoneb": "708-389-1456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6331021,
+                    41.6333678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2018",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "G20J539",
+                "partprice": "$148",
+                "partdealer": "ABC Auto Parts - RTN, PRP, ARA Gold Seal Certified",
+                "partcountry": " USA",
+                "partstate": "IL",
+                "partcity": "Riverdale ",
+                "phonea": "800-458-7838",
+                "phoneb": "708-389-1456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6331021,
+                    41.6333678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2002",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "YARD",
+                "partprice": "$145",
+                "partdealer": "Parsons Auto Parts",
+                "partcountry": " USA",
+                "partstate": "OH",
+                "partcity": "Columbus  ",
+                "phonea": "1-614-443-7452",
+                "phoneb": "1-614-443-7451"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.0007065,
+                    39.9622601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1997",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "G20J597",
+                "partprice": "$142",
+                "partdealer": "ABC Auto Parts - RTN, PRP, ARA Gold Seal Certified",
+                "partcountry": " USA",
+                "partstate": "IL",
+                "partcity": "Riverdale ",
+                "phonea": "800-458-7838",
+                "phoneb": "708-389-1456"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6331021,
+                    41.6333678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1999",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "AS1515",
+                "partprice": "$125",
+                "partdealer": "Jack's Used Cars and Parts",
+                "partcountry": " USA",
+                "partstate": "MA",
+                "partcity": "North-Billerica  ",
+                "phonea": "1-888-873-5225",
+                "phoneb": "1-888-873-5225"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.2845035,
+                    42.5834258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1999",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "AS1515",
+                "partprice": "$125",
+                "partdealer": "Jack's Used Cars and Parts",
+                "partcountry": " USA",
+                "partstate": "MA",
+                "partcity": "North-Billerica  ",
+                "phonea": "1-888-873-5225",
+                "phoneb": "1-888-873-5225"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.2845035,
+                    42.5834258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2010",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "C",
+                "partnum": "200021",
+                "partprice": "$100",
+                "partdealer": "Rancho Cordova Auto Dismantling",
+                "partcountry": " USA",
+                "partstate": "CA",
+                "partcity": "Rancho-Cordova  ",
+                "phonea": "916-298-4469",
+                "phoneb": "916-298-4469"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.302728,
+                    38.5890723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2011",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "18019",
+                "partprice": "$98",
+                "partdealer": "R. Stroud's, Inc. - RTN, MIDW",
+                "partcountry": " USA",
+                "partstate": "NC",
+                "partcity": "Youngsville ",
+                "phonea": "919-989-4836",
+                "phoneb": "919-989-4836"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.4767034,
+                    36.0247769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2014",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "19164",
+                "partprice": "$98",
+                "partdealer": "R. Stroud's, Inc. - RTN, MIDW",
+                "partcountry": " USA",
+                "partstate": "NC",
+                "partcity": "Youngsville ",
+                "phonea": "919-989-4836",
+                "phoneb": "919-989-4836"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.4767034,
+                    36.0247769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2011",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "B",
+                "partnum": "20049",
+                "partprice": "$98",
+                "partdealer": "R. Stroud's, Inc. - RTN, MIDW",
+                "partcountry": " USA",
+                "partstate": "NC",
+                "partcity": "Youngsville ",
+                "phonea": "919-989-4836",
+                "phoneb": "919-989-4836"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.4767034,
+                    36.0247769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2011",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "20136",
+                "partprice": "$98",
+                "partdealer": "R. Stroud's, Inc. - RTN, MIDW",
+                "partcountry": " USA",
+                "partstate": "NC",
+                "partcity": "Youngsville ",
+                "phonea": "919-989-4836",
+                "phoneb": "919-989-4836"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.4767034,
+                    36.0247769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2011",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "B",
+                "partnum": "17258",
+                "partprice": "$98",
+                "partdealer": "R. Stroud's, Inc. - RTN, MIDW",
+                "partcountry": " USA",
+                "partstate": "NC",
+                "partcity": "Youngsville ",
+                "phonea": "919-989-4836",
+                "phoneb": "919-989-4836"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.4767034,
+                    36.0247769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2007",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "20097",
+                "partprice": "$98",
+                "partdealer": "R. Stroud's, Inc. - RTN, MIDW",
+                "partcountry": " USA",
+                "partstate": "NC",
+                "partcity": "Youngsville ",
+                "phonea": "919-989-4836",
+                "phoneb": "919-989-4836"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.4767034,
+                    36.0247769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2009",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "21032",
+                "partprice": "$98",
+                "partdealer": "R. Stroud's, Inc. - RTN, MIDW",
+                "partcountry": " USA",
+                "partstate": "NC",
+                "partcity": "Youngsville ",
+                "phonea": "919-989-4836",
+                "phoneb": "919-989-4836"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.4767034,
+                    36.0247769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2015",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "17030",
+                "partprice": "$98",
+                "partdealer": "R. Stroud's, Inc. - RTN, MIDW",
+                "partcountry": " USA",
+                "partstate": "NC",
+                "partcity": "Youngsville ",
+                "phonea": "919-989-4836",
+                "phoneb": "919-989-4836"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.4767034,
+                    36.0247769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2013",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "17100",
+                "partprice": "$98",
+                "partdealer": "R. Stroud's, Inc. - RTN, MIDW",
+                "partcountry": " USA",
+                "partstate": "NC",
+                "partcity": "Youngsville ",
+                "phonea": "919-989-4836",
+                "phoneb": "919-989-4836"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.4767034,
+                    36.0247769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2014",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "20066",
+                "partprice": "$98",
+                "partdealer": "R. Stroud's, Inc. - RTN, MIDW",
+                "partcountry": " USA",
+                "partstate": "NC",
+                "partcity": "Youngsville ",
+                "phonea": "919-989-4836",
+                "phoneb": "919-989-4836"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.4767034,
+                    36.0247769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2015",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "17045",
+                "partprice": "$98",
+                "partdealer": "R. Stroud's, Inc. - RTN, MIDW",
+                "partcountry": " USA",
+                "partstate": "NC",
+                "partcity": "Youngsville ",
+                "phonea": "919-989-4836",
+                "phoneb": "919-989-4836"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.4767034,
+                    36.0247769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2011",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "17043",
+                "partprice": "$98",
+                "partdealer": "R. Stroud's, Inc. - RTN, MIDW",
+                "partcountry": " USA",
+                "partstate": "NC",
+                "partcity": "Youngsville ",
+                "phonea": "919-989-4836",
+                "phoneb": "919-989-4836"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.4767034,
+                    36.0247769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1999",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "17160",
+                "partprice": "$98",
+                "partdealer": "R. Stroud's, Inc. - RTN, MIDW",
+                "partcountry": " USA",
+                "partstate": "NC",
+                "partcity": "Youngsville ",
+                "phonea": "919-989-4836",
+                "phoneb": "919-989-4836"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.4767034,
+                    36.0247769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1995",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "18217",
+                "partprice": "$98",
+                "partdealer": "R. Stroud's, Inc. - RTN, MIDW",
+                "partcountry": " USA",
+                "partstate": "NC",
+                "partcity": "Youngsville ",
+                "phonea": "919-989-4836",
+                "phoneb": "919-989-4836"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.4767034,
+                    36.0247769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1997",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "20154",
+                "partprice": "$98",
+                "partdealer": "R. Stroud's, Inc. - RTN, MIDW",
+                "partcountry": " USA",
+                "partstate": "NC",
+                "partcity": "Youngsville ",
+                "phonea": "919-989-4836",
+                "phoneb": "919-989-4836"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.4767034,
+                    36.0247769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2004",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "20086",
+                "partprice": "$98",
+                "partdealer": "R. Stroud's, Inc. - RTN, MIDW",
+                "partcountry": " USA",
+                "partstate": "NC",
+                "partcity": "Youngsville ",
+                "phonea": "919-989-4836",
+                "phoneb": "919-989-4836"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.4767034,
+                    36.0247769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2004",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "19216",
+                "partprice": "$98",
+                "partdealer": "R. Stroud's, Inc. - RTN, MIDW",
+                "partcountry": " USA",
+                "partstate": "NC",
+                "partcity": "Youngsville ",
+                "phonea": "919-989-4836",
+                "phoneb": "919-989-4836"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.4767034,
+                    36.0247769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2002",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "18086",
+                "partprice": "$98",
+                "partdealer": "R. Stroud's, Inc. - RTN, MIDW",
+                "partcountry": " USA",
+                "partstate": "NC",
+                "partcity": "Youngsville ",
+                "phonea": "919-989-4836",
+                "phoneb": "919-989-4836"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.4767034,
+                    36.0247769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2005",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "15197",
+                "partprice": "$98",
+                "partdealer": "R. Stroud's, Inc. - RTN, MIDW",
+                "partcountry": " USA",
+                "partstate": "NC",
+                "partcity": "Youngsville ",
+                "phonea": "919-989-4836",
+                "phoneb": "919-989-4836"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.4767034,
+                    36.0247769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2003",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "20104",
+                "partprice": "$98",
+                "partdealer": "R. Stroud's, Inc. - RTN, MIDW",
+                "partcountry": " USA",
+                "partstate": "NC",
+                "partcity": "Youngsville ",
+                "phonea": "919-989-4836",
+                "phoneb": "919-989-4836"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.4767034,
+                    36.0247769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2003",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "18183",
+                "partprice": "$98",
+                "partdealer": "R. Stroud's, Inc. - RTN, MIDW",
+                "partcountry": " USA",
+                "partstate": "NC",
+                "partcity": "Youngsville ",
+                "phonea": "919-989-4836",
+                "phoneb": "919-989-4836"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.4767034,
+                    36.0247769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2005",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "18122",
+                "partprice": "$98",
+                "partdealer": "R. Stroud's, Inc. - RTN, MIDW",
+                "partcountry": " USA",
+                "partstate": "NC",
+                "partcity": "Youngsville ",
+                "phonea": "919-989-4836",
+                "phoneb": "919-989-4836"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.4767034,
+                    36.0247769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2002",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "18135",
+                "partprice": "$98",
+                "partdealer": "R. Stroud's, Inc. - RTN, MIDW",
+                "partcountry": " USA",
+                "partstate": "NC",
+                "partcity": "Youngsville ",
+                "phonea": "919-989-4836",
+                "phoneb": "919-989-4836"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.4767034,
+                    36.0247769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2011",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "DD1061",
+                "partprice": "$97.5",
+                "partdealer": "M & M Auto Parts, Inc. VARA, MRP",
+                "partcountry": " USA",
+                "partstate": "VA",
+                "partcity": "Stafford ",
+                "phonea": "757-447-6051",
+                "phoneb": "800-586-5492"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4084067,
+                    38.4222681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1996",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "2848",
+                "partprice": "$92",
+                "partdealer": "Universal Auto Recycling",
+                "partcountry": " USA",
+                "partstate": "KY",
+                "partcity": "Benton  ",
+                "phonea": "1-800-443-8578",
+                "phoneb": "1-270-527-34311-800-443-8578"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.350315,
+                    36.8572781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1996",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "2848",
+                "partprice": "$92",
+                "partdealer": "Universal Auto Recycling",
+                "partcountry": " USA",
+                "partstate": "KY",
+                "partcity": "Benton  ",
+                "phonea": "1-800-443-8578",
+                "phoneb": "1-270-527-34311-800-443-8578"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.350315,
+                    36.8572781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2004",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "3152",
+                "partprice": "$91",
+                "partdealer": "Universal Auto Recycling",
+                "partcountry": " USA",
+                "partstate": "KY",
+                "partcity": "Benton  ",
+                "phonea": "1-800-443-8578",
+                "phoneb": "1-270-527-34311-800-443-8578"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.350315,
+                    36.8572781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2004",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "3152",
+                "partprice": "$91",
+                "partdealer": "Universal Auto Recycling",
+                "partcountry": " USA",
+                "partstate": "KY",
+                "partcity": "Benton  ",
+                "phonea": "1-800-443-8578",
+                "phoneb": "1-270-527-34311-800-443-8578"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.350315,
+                    36.8572781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2011",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "DD1061",
+                "partprice": "$85",
+                "partdealer": "Don's Automotive Mall/Fenix Parts Inc.",
+                "partcountry": " USA",
+                "partstate": "NY",
+                "partcity": "Binghamton  ",
+                "phonea": "1-607-775-1542",
+                "phoneb": "1-800-283-3667"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.9125262,
+                    42.0987125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2011",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "DD1061",
+                "partprice": "$85",
+                "partdealer": "Don's Automotive Mall/Fenix Parts Inc.",
+                "partcountry": " USA",
+                "partstate": "NY",
+                "partcity": "Binghamton  ",
+                "phonea": "1-607-775-1542",
+                "phoneb": "1-800-283-3667"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.9125262,
+                    42.0987125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2011",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "DD1061",
+                "partprice": "$85",
+                "partdealer": "Jerry Browns Auto parts Ltd/Fenix Parts Inc.",
+                "partcountry": " USA",
+                "partstate": "NY",
+                "partcity": "Queensbury  ",
+                "phonea": "1-518-798-8141",
+                "phoneb": "1-800-543-87331-518-798-8141"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.6652451,
+                    43.3618532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2011",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "DD1061",
+                "partprice": "$85",
+                "partdealer": "Don's Automotive Mall Pennsburg / Fenix Parts Inc.",
+                "partcountry": " USA",
+                "partstate": "PA",
+                "partcity": "Pennsburg ",
+                "phonea": "866-366-7227",
+                "phoneb": "215-679-8270"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4921249,
+                    40.3909328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2011",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "DD1061",
+                "partprice": "$85",
+                "partdealer": "Eiss Brothers Auto Parts, Inc./ Fenix Parts Inc.",
+                "partcountry": " USA",
+                "partstate": "NY",
+                "partcity": "Watertown  ",
+                "phonea": "800-698-3477",
+                "phoneb": "800-698-3477"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.9107565,
+                    43.9747838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2011",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "DD1061",
+                "partprice": "$85",
+                "partdealer": "Leesville Auto Wreckers, Inc./Fenix Parts Inc. ELITE.",
+                "partcountry": " USA",
+                "partstate": "NJ",
+                "partcity": "Rahway  ",
+                "phonea": "732-388-0783",
+                "phoneb": "888-879-5573732-388-0783"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.2776468,
+                    40.6081591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2011",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "DD1061",
+                "partprice": "$85",
+                "partdealer": "New England Auto & Truck Recyclers(NEATR)/ Fenix Parts, Inc. - MIDW",
+                "partcountry": " USA",
+                "partstate": "MA",
+                "partcity": "Winchendon  ",
+                "phonea": "978-297-0350",
+                "phoneb": "800-553-3080"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.0490326,
+                    42.6587935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2011",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "DD1061",
+                "partprice": "$85",
+                "partdealer": "Fenix Parts Batavia/Fenix Parts, Inc. - MIDW",
+                "partcountry": " USA",
+                "partstate": "NY",
+                "partcity": "Batavia  ",
+                "phonea": "800-821-2190",
+                "phoneb": "800-821-2190"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.1875515,
+                    42.9980144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2011",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "DD1061",
+                "partprice": "$85",
+                "partdealer": "Cosmos Ocean County Auto Parts/Fenix Parts Inc-URG8000",
+                "partcountry": " USA",
+                "partstate": "NJ",
+                "partcity": "Bayville  ",
+                "phonea": "732-349-0332",
+                "phoneb": "800-773-2925"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1548614,
+                    39.9092852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2011",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "B",
+                "partnum": "1E1239",
+                "partprice": "$82.5",
+                "partdealer": "Hanser's Automotive and Wrecking Company - PRP West",
+                "partcountry": " USA",
+                "partstate": "MT",
+                "partcity": "Billings ",
+                "phonea": "800-345-1754",
+                "phoneb": "800-345-1754"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -108.49607,
+                    45.7874957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2009",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "1B0405",
+                "partprice": "$82.5",
+                "partdealer": "Hanser's Automotive and Wrecking Company - PRP West",
+                "partcountry": " USA",
+                "partstate": "MT",
+                "partcity": "Billings ",
+                "phonea": "800-345-1754",
+                "phoneb": "800-345-1754"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -108.49607,
+                    45.7874957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2005",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "Z1B0875",
+                "partprice": "$82.5",
+                "partdealer": "Hanser's Automotive and Wrecking Company - PRP West",
+                "partcountry": " USA",
+                "partstate": "MT",
+                "partcity": "Billings ",
+                "phonea": "800-345-1754",
+                "phoneb": "800-345-1754"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -108.49607,
+                    45.7874957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2008",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "21034",
+                "partprice": "$80",
+                "partdealer": "Rarey's Auto Service & Sales",
+                "partcountry": " USA",
+                "partstate": "PA",
+                "partcity": "Warren  ",
+                "phonea": "814-723-6489",
+                "phoneb": "814-723-6489"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.145045,
+                    41.843949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2009",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "DB6850",
+                "partprice": "$76",
+                "partdealer": "TNT Auto Parts",
+                "partcountry": " USA",
+                "partstate": "VA",
+                "partcity": "Glade-Hill ",
+                "phonea": "540-483-2881",
+                "phoneb": "540-483-2881"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.252074,
+                    38.843452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2001",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "24215",
+                "partprice": "$75",
+                "partdealer": "Martin's Auto",
+                "partcountry": " USA",
+                "partstate": "GA",
+                "partcity": "Rome  ",
+                "phonea": "706-235-8366",
+                "phoneb": "706-235-8366"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.1646726,
+                    34.257038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2001",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "24215",
+                "partprice": "$75",
+                "partdealer": "Martin's Auto",
+                "partcountry": " USA",
+                "partstate": "GA",
+                "partcity": "Rome  ",
+                "phonea": "706-235-8366",
+                "phoneb": "706-235-8366"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.1646726,
+                    34.257038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1998",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "10244",
+                "partprice": "$75",
+                "partdealer": "JKL's Auto Parts & Service",
+                "partcountry": " USA",
+                "partstate": "PA",
+                "partcity": "Telford  ",
+                "phonea": "1-215-234-4386",
+                "phoneb": "1-800-646-43861-215-234-4386"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.3279538,
+                    40.3220483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1995",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "3F8031",
+                "partprice": "$75",
+                "partdealer": "English Motors, Ltd.",
+                "partcountry": " USA",
+                "partstate": "VA",
+                "partcity": "Yorktown  ",
+                "phonea": "1-800-332-4678",
+                "phoneb": "1-800-332-4678"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.51364950821196,
+                    37.235665499999996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1995",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "3F8031",
+                "partprice": "$75",
+                "partdealer": "English Motors, Ltd.",
+                "partcountry": " USA",
+                "partstate": "VA",
+                "partcity": "Yorktown  ",
+                "phonea": "1-800-332-4678",
+                "phoneb": "1-800-332-4678"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.51364950821196,
+                    37.235665499999996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1997",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "1230",
+                "partprice": "$75",
+                "partdealer": "Exit 30 Imports",
+                "partcountry": " USA",
+                "partstate": "TX",
+                "partcity": "Alvarado ",
+                "phonea": "817-402-2197",
+                "phoneb": "817-401-5583"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.21028810404624,
+                    32.4095565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1997",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "1230",
+                "partprice": "$75",
+                "partdealer": "Exit 30 Imports",
+                "partcountry": " USA",
+                "partstate": "TX",
+                "partcity": "Alvarado ",
+                "phonea": "817-402-2197",
+                "phoneb": "817-401-5583"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.21028810404624,
+                    32.4095565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2008",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "14056P",
+                "partprice": "$75",
+                "partdealer": "All Star Import & American Auto ",
+                "partcountry": " USA",
+                "partstate": "TX",
+                "partcity": "Kennedale  ",
+                "phonea": "817-572-5009",
+                "phoneb": "817-572-5009"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.2258465,
+                    32.646801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2006",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "AA0182",
+                "partprice": "$75",
+                "partdealer": "Adam's Auto Sales & Parts",
+                "partcountry": " USA",
+                "partstate": "TX",
+                "partcity": "Houston  ",
+                "phonea": "281-575-7846",
+                "phoneb": "281-575-7278"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3676974,
+                    29.7589382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2006",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "AA0182",
+                "partprice": "$75",
+                "partdealer": "Adam's Auto Sales & Parts",
+                "partcountry": " USA",
+                "partstate": "TX",
+                "partcity": "Houston  ",
+                "phonea": "281-575-7846",
+                "phoneb": "281-575-7278"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3676974,
+                    29.7589382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2011",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "B",
+                "partnum": "1E1239",
+                "partprice": "$70.1",
+                "partdealer": "Stadium Auto Parts - Denver-PRP",
+                "partcountry": " USA",
+                "partstate": "CO",
+                "partcity": "Denver ",
+                "phonea": "1-800-825-8733",
+                "phoneb": "1-800-825-8733"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.9848623,
+                    39.7392364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2009",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "1B0405",
+                "partprice": "$70.1",
+                "partdealer": "Stadium Auto Parts - Denver-PRP",
+                "partcountry": " USA",
+                "partstate": "CO",
+                "partcity": "Denver ",
+                "phonea": "1-800-825-8733",
+                "phoneb": "1-800-825-8733"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.9848623,
+                    39.7392364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2005",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "Z1B0875",
+                "partprice": "$70.1",
+                "partdealer": "Stadium Auto Parts - Denver-PRP",
+                "partcountry": " USA",
+                "partstate": "CO",
+                "partcity": "Denver ",
+                "phonea": "1-800-825-8733",
+                "phoneb": "1-800-825-8733"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.9848623,
+                    39.7392364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2015",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "B",
+                "partnum": "HH6742",
+                "partprice": "$70",
+                "partdealer": "Kosiski Auto Parts, Inc.-RTN, PRP West, PRP Midwest",
+                "partcountry": " USA",
+                "partstate": "NE",
+                "partcity": "Omaha ",
+                "phonea": "402-964-2207",
+                "phoneb": "833-793-1892"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.9383758,
+                    41.2587459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2007",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "HL7630",
+                "partprice": "$70",
+                "partdealer": "Kosiski Auto Parts, Inc.-RTN, PRP West, PRP Midwest",
+                "partcountry": " USA",
+                "partstate": "NE",
+                "partcity": "Omaha ",
+                "phonea": "402-964-2207",
+                "phoneb": "833-793-1892"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.9383758,
+                    41.2587459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2010",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "HF6218",
+                "partprice": "$70",
+                "partdealer": "Kosiski Auto Parts, Inc.-RTN, PRP West, PRP Midwest",
+                "partcountry": " USA",
+                "partstate": "NE",
+                "partcity": "Omaha ",
+                "phonea": "402-964-2207",
+                "phoneb": "833-793-1892"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.9383758,
+                    41.2587459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2007",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "HJ6924",
+                "partprice": "$70",
+                "partdealer": "Kosiski Auto Parts, Inc.-RTN, PRP West, PRP Midwest",
+                "partcountry": " USA",
+                "partstate": "NE",
+                "partcity": "Omaha ",
+                "phonea": "402-964-2207",
+                "phoneb": "833-793-1892"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.9383758,
+                    41.2587459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2007",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "GL3984",
+                "partprice": "$70",
+                "partdealer": "Kosiski Auto Parts, Inc.-RTN, PRP West, PRP Midwest",
+                "partcountry": " USA",
+                "partstate": "NE",
+                "partcity": "Omaha ",
+                "phonea": "402-964-2207",
+                "phoneb": "833-793-1892"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.9383758,
+                    41.2587459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2006",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "HE5844",
+                "partprice": "$70",
+                "partdealer": "Kosiski Auto Parts, Inc.-RTN, PRP West, PRP Midwest",
+                "partcountry": " USA",
+                "partstate": "NE",
+                "partcity": "Omaha ",
+                "phonea": "402-964-2207",
+                "phoneb": "833-793-1892"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.9383758,
+                    41.2587459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1996",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "12390",
+                "partprice": "$60",
+                "partdealer": "NBA Salvage LLC",
+                "partcountry": " USA",
+                "partstate": "FL",
+                "partcity": "Mims  ",
+                "phonea": "800-851-4703",
+                "phoneb": "321-267-1351"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.84574020791968,
+                    28.683293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1996",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "12390",
+                "partprice": "$60",
+                "partdealer": "NBA Salvage LLC",
+                "partcountry": " USA",
+                "partstate": "FL",
+                "partcity": "Mims  ",
+                "phonea": "800-851-4703",
+                "phoneb": "321-267-1351"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.84574020791968,
+                    28.683293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1998",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "10091",
+                "partprice": "$60",
+                "partdealer": "NBA Salvage LLC",
+                "partcountry": " USA",
+                "partstate": "FL",
+                "partcity": "Mims  ",
+                "phonea": "800-851-4703",
+                "phoneb": "321-267-1351"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.84574020791968,
+                    28.683293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2002",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "11863",
+                "partprice": "$60",
+                "partdealer": "NBA Salvage LLC",
+                "partcountry": " USA",
+                "partstate": "FL",
+                "partcity": "Mims  ",
+                "phonea": "800-851-4703",
+                "phoneb": "321-267-1351"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.84574020791968,
+                    28.683293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2002",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "11863",
+                "partprice": "$60",
+                "partdealer": "NBA Salvage LLC",
+                "partcountry": " USA",
+                "partstate": "FL",
+                "partcity": "Mims  ",
+                "phonea": "800-851-4703",
+                "phoneb": "321-267-1351"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.84574020791968,
+                    28.683293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2006",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "055349",
+                "partprice": "$59.99",
+                "partdealer": "Abco Fridley Auto Parts",
+                "partcountry": " USA",
+                "partstate": "MN",
+                "partcity": "Fridley ",
+                "phonea": "763-784-8890",
+                "phoneb": "763-784-8890"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.2590388,
+                    45.0838291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2006",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "055349",
+                "partprice": "$59.99",
+                "partdealer": "Abco Fridley Auto Parts",
+                "partcountry": " USA",
+                "partstate": "MN",
+                "partcity": "Fridley ",
+                "phonea": "763-784-8890",
+                "phoneb": "763-784-8890"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.2590388,
+                    45.0838291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2016",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "AFT",
+                "partnum": "LOBBY",
+                "partprice": "$59.99",
+                "partdealer": "Holbrook Auto Parts #4 DownRiver",
+                "partcountry": " USA",
+                "partstate": "MI",
+                "partcity": "Brownstown  ",
+                "phonea": "734-720-4000",
+                "phoneb": "734-720-4000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.2753247,
+                    42.1529228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2016",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "AFT",
+                "partnum": "LOBBY",
+                "partprice": "$59.99",
+                "partdealer": "Holbrook Auto Parts #4 DownRiver",
+                "partcountry": " USA",
+                "partstate": "MI",
+                "partcity": "Brownstown  ",
+                "phonea": "734-720-4000",
+                "phoneb": "734-720-4000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.2753247,
+                    42.1529228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1998",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "969",
+                "partprice": "$55",
+                "partdealer": "Exit 30 Imports",
+                "partcountry": " USA",
+                "partstate": "TX",
+                "partcity": "Alvarado ",
+                "phonea": "817-402-2197",
+                "phoneb": "817-401-5583"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.21028810404624,
+                    32.4095565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1998",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "969",
+                "partprice": "$55",
+                "partdealer": "Exit 30 Imports",
+                "partcountry": " USA",
+                "partstate": "TX",
+                "partcity": "Alvarado ",
+                "phonea": "817-402-2197",
+                "phoneb": "817-401-5583"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.21028810404624,
+                    32.4095565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1997",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKG078",
+                "partprice": "$50.8",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1997",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKG078",
+                "partprice": "$50.8",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1998",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NJI986",
+                "partprice": "$50.8",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1998",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NJI986",
+                "partprice": "$50.8",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2001",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKC651",
+                "partprice": "$50.8",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2001",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKC651",
+                "partprice": "$50.8",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2002",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKB440",
+                "partprice": "$50.8",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2002",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKB440",
+                "partprice": "$50.8",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2002",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKH219",
+                "partprice": "$50.8",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2002",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKH219",
+                "partprice": "$50.8",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2003",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKI390",
+                "partprice": "$50.8",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2003",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKI390",
+                "partprice": "$50.8",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2003",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKJ533",
+                "partprice": "$50.8",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2003",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKJ533",
+                "partprice": "$50.8",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2004",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NJI045",
+                "partprice": "$50.8",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2004",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NJI045",
+                "partprice": "$50.8",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2004",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKJ506",
+                "partprice": "$50.8",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2004",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKJ506",
+                "partprice": "$50.8",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2005",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NJL217",
+                "partprice": "$50.8",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2005",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NJL217",
+                "partprice": "$50.8",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2005",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKD788",
+                "partprice": "$50.8",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2005",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKD788",
+                "partprice": "$50.8",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2006",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "NHC890",
+                "partprice": "$50.8",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1995",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "6634",
+                "partprice": "$50.23",
+                "partdealer": "L & M Auto Salvage",
+                "partcountry": " USA",
+                "partstate": "KY",
+                "partcity": "Frankfort ",
+                "phonea": "(502)223-0229",
+                "phoneb": "(502)223-0229"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.8732836,
+                    38.2009055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2007",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKG170",
+                "partprice": "$50.03",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2007",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKG170",
+                "partprice": "$50.03",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2007",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKI452",
+                "partprice": "$50.03",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2007",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKI452",
+                "partprice": "$50.03",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2007",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKJ555",
+                "partprice": "$50.03",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2007",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKJ555",
+                "partprice": "$50.03",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2008",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKF059",
+                "partprice": "$50.03",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2008",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKF059",
+                "partprice": "$50.03",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2009",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NJK141",
+                "partprice": "$50.03",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2009",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKA415",
+                "partprice": "$50.03",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2009",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKA415",
+                "partprice": "$50.03",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2009",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "NKB456",
+                "partprice": "$50.03",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2009",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "NKB456",
+                "partprice": "$50.03",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2009",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKB486",
+                "partprice": "$50.03",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2009",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKB486",
+                "partprice": "$50.03",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2009",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKE897",
+                "partprice": "$50.03",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2009",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKE897",
+                "partprice": "$50.03",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2009",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKF937",
+                "partprice": "$50.03",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2009",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKF937",
+                "partprice": "$50.03",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2009",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKH271",
+                "partprice": "$50.03",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2009",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKH271",
+                "partprice": "$50.03",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2009",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKI412",
+                "partprice": "$50.03",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2009",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKI412",
+                "partprice": "$50.03",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2010",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NJA239",
+                "partprice": "$50.03",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2010",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NJA239",
+                "partprice": "$50.03",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2011",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKC599",
+                "partprice": "$50.03",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2011",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKC599",
+                "partprice": "$50.03",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2011",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKK651",
+                "partprice": "$50.03",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2011",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKK651",
+                "partprice": "$50.03",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2012",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "NKB517",
+                "partprice": "$50.03",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2012",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "NKB517",
+                "partprice": "$50.03",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2012",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "NKJ494",
+                "partprice": "$50.03",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2012",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "NKJ494",
+                "partprice": "$50.03",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2013",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKD727",
+                "partprice": "$50.03",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2013",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKD727",
+                "partprice": "$50.03",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2013",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKI348",
+                "partprice": "$50.03",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2013",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "NKI348",
+                "partprice": "$50.03",
+                "partdealer": "B & R Auto Wrecking - Chehalis",
+                "partcountry": " USA",
+                "partstate": "WA",
+                "partcity": "Chehalis ",
+                "phonea": "888-752-1118",
+                "phoneb": "888-752-1118"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9634322,
+                    46.6599653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1997",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "G198P",
+                "partprice": "$50",
+                "partdealer": "East Coast Auto Source VARA",
+                "partcountry": " USA",
+                "partstate": "VA",
+                "partcity": "Moneta  ",
+                "phonea": "1-800-869-0655",
+                "phoneb": "1-800-869-0655"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6172536,
+                    37.1812537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1997",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "G198P",
+                "partprice": "$50",
+                "partdealer": "East Coast Auto Source VARA",
+                "partcountry": " USA",
+                "partstate": "VA",
+                "partcity": "Moneta  ",
+                "phonea": "1-800-869-0655",
+                "phoneb": "1-800-869-0655"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6172536,
+                    37.1812537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1997",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "H007P",
+                "partprice": "$50",
+                "partdealer": "East Coast Auto Source VARA",
+                "partcountry": " USA",
+                "partstate": "VA",
+                "partcity": "Moneta  ",
+                "phonea": "1-800-869-0655",
+                "phoneb": "1-800-869-0655"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6172536,
+                    37.1812537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1997",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "H007P",
+                "partprice": "$50",
+                "partdealer": "East Coast Auto Source VARA",
+                "partcountry": " USA",
+                "partstate": "VA",
+                "partcity": "Moneta  ",
+                "phonea": "1-800-869-0655",
+                "phoneb": "1-800-869-0655"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6172536,
+                    37.1812537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2000",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "H202P",
+                "partprice": "$50",
+                "partdealer": "East Coast Auto Source VARA",
+                "partcountry": " USA",
+                "partstate": "VA",
+                "partcity": "Moneta  ",
+                "phonea": "1-800-869-0655",
+                "phoneb": "1-800-869-0655"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6172536,
+                    37.1812537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2000",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "H202P",
+                "partprice": "$50",
+                "partdealer": "East Coast Auto Source VARA",
+                "partcountry": " USA",
+                "partstate": "VA",
+                "partcity": "Moneta  ",
+                "phonea": "1-800-869-0655",
+                "phoneb": "1-800-869-0655"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6172536,
+                    37.1812537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2003",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "J083P",
+                "partprice": "$50",
+                "partdealer": "East Coast Auto Source VARA",
+                "partcountry": " USA",
+                "partstate": "VA",
+                "partcity": "Moneta  ",
+                "phonea": "1-800-869-0655",
+                "phoneb": "1-800-869-0655"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6172536,
+                    37.1812537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2003",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "J083P",
+                "partprice": "$50",
+                "partdealer": "East Coast Auto Source VARA",
+                "partcountry": " USA",
+                "partstate": "VA",
+                "partcity": "Moneta  ",
+                "phonea": "1-800-869-0655",
+                "phoneb": "1-800-869-0655"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6172536,
+                    37.1812537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2003",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "A6980",
+                "partprice": "$50",
+                "partdealer": "A-1 Auto Wreckers",
+                "partcountry": " USA",
+                "partstate": "CA",
+                "partcity": "San-Jose  ",
+                "phonea": "408-225-5313",
+                "phoneb": "800-825-0064"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.890583,
+                    37.3361905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1999",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "T02B16",
+                "partprice": "$50",
+                "partdealer": "Fox Auto Parts-PRP-Midwest MWRP",
+                "partcountry": " USA",
+                "partstate": "MI",
+                "partcity": "Belleville  ",
+                "phonea": "1-800-851-32772",
+                "phoneb": "1-800-851-32772"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.4852106,
+                    42.2048414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2004",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "NC8900",
+                "partprice": "$50",
+                "partdealer": "Fagan Auto Parts",
+                "partcountry": " USA",
+                "partstate": "AL",
+                "partcity": "Piedmont ",
+                "phonea": "1-800-331-5282",
+                "phoneb": "1-800-331-5282"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.231635,
+                    37.8243715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2004",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "RB9612",
+                "partprice": "$50",
+                "partdealer": "Fagan Auto Parts",
+                "partcountry": " USA",
+                "partstate": "AL",
+                "partcity": "Piedmont ",
+                "phonea": "1-800-331-5282",
+                "phoneb": "1-800-331-5282"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.231635,
+                    37.8243715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2005",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "FA1112",
+                "partprice": "$50",
+                "partdealer": "Fagan Auto Parts",
+                "partcountry": " USA",
+                "partstate": "AL",
+                "partcity": "Piedmont ",
+                "phonea": "1-800-331-5282",
+                "phoneb": "1-800-331-5282"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.231635,
+                    37.8243715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2005",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "FA1112",
+                "partprice": "$50",
+                "partdealer": "Fagan Auto Parts",
+                "partcountry": " USA",
+                "partstate": "AL",
+                "partcity": "Piedmont ",
+                "phonea": "1-800-331-5282",
+                "phoneb": "1-800-331-5282"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.231635,
+                    37.8243715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2006",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "C",
+                "partnum": "0613895",
+                "partprice": "$50",
+                "partdealer": "Chesney Auto Salvage",
+                "partcountry": " USA",
+                "partstate": "MN",
+                "partcity": "Duluth  ",
+                "phonea": "1-800-826-2941",
+                "phoneb": "1-800-826-2941"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.1251218,
+                    46.7729322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2006",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "C",
+                "partnum": "0613895",
+                "partprice": "$50",
+                "partdealer": "Chesney Auto Salvage",
+                "partcountry": " USA",
+                "partstate": "MN",
+                "partcity": "Duluth  ",
+                "phonea": "1-800-826-2941",
+                "phoneb": "1-800-826-2941"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.1251218,
+                    46.7729322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2006",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "0615882",
+                "partprice": "$50",
+                "partdealer": "Chesney Auto Salvage",
+                "partcountry": " USA",
+                "partstate": "MN",
+                "partcity": "Duluth  ",
+                "phonea": "1-800-826-2941",
+                "phoneb": "1-800-826-2941"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.1251218,
+                    46.7729322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2006",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "0615882",
+                "partprice": "$50",
+                "partdealer": "Chesney Auto Salvage",
+                "partcountry": " USA",
+                "partstate": "MN",
+                "partcity": "Duluth  ",
+                "phonea": "1-800-826-2941",
+                "phoneb": "1-800-826-2941"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.1251218,
+                    46.7729322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2007",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "0713826",
+                "partprice": "$50",
+                "partdealer": "Chesney Auto Salvage",
+                "partcountry": " USA",
+                "partstate": "MN",
+                "partcity": "Duluth  ",
+                "phonea": "1-800-826-2941",
+                "phoneb": "1-800-826-2941"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.1251218,
+                    46.7729322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2007",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "0713826",
+                "partprice": "$50",
+                "partdealer": "Chesney Auto Salvage",
+                "partcountry": " USA",
+                "partstate": "MN",
+                "partcity": "Duluth  ",
+                "phonea": "1-800-826-2941",
+                "phoneb": "1-800-826-2941"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.1251218,
+                    46.7729322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2007",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "0715767",
+                "partprice": "$50",
+                "partdealer": "Chesney Auto Salvage",
+                "partcountry": " USA",
+                "partstate": "MN",
+                "partcity": "Duluth  ",
+                "phonea": "1-800-826-2941",
+                "phoneb": "1-800-826-2941"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.1251218,
+                    46.7729322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2007",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "0715767",
+                "partprice": "$50",
+                "partdealer": "Chesney Auto Salvage",
+                "partcountry": " USA",
+                "partstate": "MN",
+                "partcity": "Duluth  ",
+                "phonea": "1-800-826-2941",
+                "phoneb": "1-800-826-2941"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.1251218,
+                    46.7729322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2009",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "0911950",
+                "partprice": "$50",
+                "partdealer": "Chesney Auto Salvage",
+                "partcountry": " USA",
+                "partstate": "MN",
+                "partcity": "Duluth  ",
+                "phonea": "1-800-826-2941",
+                "phoneb": "1-800-826-2941"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.1251218,
+                    46.7729322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2009",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "0911950",
+                "partprice": "$50",
+                "partdealer": "Chesney Auto Salvage",
+                "partcountry": " USA",
+                "partstate": "MN",
+                "partcity": "Duluth  ",
+                "phonea": "1-800-826-2941",
+                "phoneb": "1-800-826-2941"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.1251218,
+                    46.7729322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2010",
+                "partname": "Brake, Front(Rotor/Drum)",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "20D021",
+                "partprice": "$50",
+                "partdealer": "Farritor Auto Parts",
+                "partcountry": " USA",
+                "partstate": "NE",
+                "partcity": "Broken-Bow  ",
+                "phonea": "1-800-652-9398",
+                "phoneb": "1-800-652-9398"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.6393288,
+                    41.4018116
+                ]
+            }
+        }
+    ]
+}
