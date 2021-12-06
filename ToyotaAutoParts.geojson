@@ -1,0 +1,2505 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2010",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "AAP",
+                "partprice": "$472",
+                "partdealer": "ABC Auto Parts - RTN, PRP, ARA Gold Seal Certified",
+                "partcountry": " USA",
+                "partstate": "IL",
+                "partcity": "Riverdale  ",
+                "phonea": "800-458-7838",
+                "phoneb": "800-458-7838"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6331021,
+                    41.6333678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1996",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "9699",
+                "partprice": "$463",
+                "partdealer": "Universal Auto Recycling",
+                "partcountry": " USA",
+                "partstate": "KY",
+                "partcity": "Benton  ",
+                "phonea": "1-800-443-8578",
+                "phoneb": "1-270-527-34311-800-443-8578"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.350315,
+                    36.8572781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1996",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "2848",
+                "partprice": "$463",
+                "partdealer": "Universal Auto Recycling",
+                "partcountry": " USA",
+                "partstate": "KY",
+                "partcity": "Benton  ",
+                "phonea": "1-800-443-8578",
+                "phoneb": "1-270-527-34311-800-443-8578"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.350315,
+                    36.8572781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1995",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "\u00a0",
+                "partprice": "$463",
+                "partdealer": "European Auto Recycling",
+                "partcountry": " USA",
+                "partstate": "CA",
+                "partcity": "Rancho-Cordova  ",
+                "phonea": "855-638-3876",
+                "phoneb": "916-638-3876"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.302728,
+                    38.5890723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2006",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "AFT",
+                "partnum": "GEN-03",
+                "partprice": "$305.9",
+                "partdealer": "Schram Auto and Truck -Waterford",
+                "partcountry": " USA",
+                "partstate": "MI",
+                "partcity": "Waterford ",
+                "phonea": "800-462-9292",
+                "phoneb": "800-462-9292"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.402718,
+                    42.7022527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2009",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "00210458",
+                "partprice": "$295",
+                "partdealer": "Cocoa Auto Salvage",
+                "partcountry": " USA",
+                "partstate": "FL",
+                "partcity": "Cocoa ",
+                "phonea": "800-347-0928",
+                "phoneb": "321-636-7130"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.7318827,
+                    28.3553873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2009",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "00210601",
+                "partprice": "$295",
+                "partdealer": "Cocoa Auto Salvage",
+                "partcountry": " USA",
+                "partstate": "FL",
+                "partcity": "Cocoa ",
+                "phonea": "800-347-0928",
+                "phoneb": "321-636-7130"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.7318827,
+                    28.3553873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2008",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "00210174",
+                "partprice": "$295",
+                "partdealer": "Cocoa Auto Salvage",
+                "partcountry": " USA",
+                "partstate": "FL",
+                "partcity": "Cocoa ",
+                "phonea": "800-347-0928",
+                "phoneb": "321-636-7130"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.7318827,
+                    28.3553873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2007",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "00210617",
+                "partprice": "$295",
+                "partdealer": "Cocoa Auto Salvage",
+                "partcountry": " USA",
+                "partstate": "FL",
+                "partcity": "Cocoa ",
+                "phonea": "800-347-0928",
+                "phoneb": "321-636-7130"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.7318827,
+                    28.3553873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2005",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "00210005",
+                "partprice": "$295",
+                "partdealer": "Cocoa Auto Salvage",
+                "partcountry": " USA",
+                "partstate": "FL",
+                "partcity": "Cocoa ",
+                "phonea": "800-347-0928",
+                "phoneb": "321-636-7130"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.7318827,
+                    28.3553873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2006",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "AFT",
+                "partnum": "GEN-03",
+                "partprice": "$294",
+                "partdealer": "Lentini Auto Salvage-ELITE, PRP",
+                "partcountry": " USA",
+                "partstate": "NJ",
+                "partcity": "Ringoes ",
+                "phonea": "908-806-6529",
+                "phoneb": "908-806-6529"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.8675019,
+                    40.4289354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2006",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "AFT",
+                "partnum": "GEN-03",
+                "partprice": "$290.9",
+                "partdealer": "Alliance Auto Parts- PRP Northeast",
+                "partcountry": " USA",
+                "partstate": "NY",
+                "partcity": "Lindenhurst ",
+                "phonea": "800-323-4500",
+                "phoneb": "631-884-8444"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.3734547,
+                    40.6867667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2008",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "KX23485",
+                "partprice": "$285",
+                "partdealer": "Cocoa Auto Salvage",
+                "partcountry": " USA",
+                "partstate": "FL",
+                "partcity": "Cocoa ",
+                "phonea": "321-636-7130",
+                "phoneb": "800-347-0928"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.7318827,
+                    28.3553873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2007",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "KX22841",
+                "partprice": "$280",
+                "partdealer": "Cocoa Auto Salvage",
+                "partcountry": " USA",
+                "partstate": "FL",
+                "partcity": "Cocoa ",
+                "phonea": "321-636-7130",
+                "phoneb": "800-347-0928"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.7318827,
+                    28.3553873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2002",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "KX21958",
+                "partprice": "$280",
+                "partdealer": "Cocoa Auto Salvage",
+                "partcountry": " USA",
+                "partstate": "FL",
+                "partcity": "Cocoa ",
+                "phonea": "321-636-7130",
+                "phoneb": "800-347-0928"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.7318827,
+                    28.3553873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2003",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "KX21082",
+                "partprice": "$275",
+                "partdealer": "Cocoa Auto Salvage",
+                "partcountry": " USA",
+                "partstate": "FL",
+                "partcity": "Cocoa ",
+                "phonea": "321-636-7130",
+                "phoneb": "800-347-0928"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.7318827,
+                    28.3553873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2012",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "B",
+                "partnum": "PEL026",
+                "partprice": "$275",
+                "partdealer": "Cocoa Auto Salvage",
+                "partcountry": " USA",
+                "partstate": "FL",
+                "partcity": "Cocoa ",
+                "phonea": "800-347-0928",
+                "phoneb": "321-636-7130"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.7318827,
+                    28.3553873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2012",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "3MG026",
+                "partprice": "$267.88",
+                "partdealer": "Cocoa Auto Salvage",
+                "partcountry": " USA",
+                "partstate": "FL",
+                "partcity": "Cocoa ",
+                "phonea": "800-347-0928",
+                "phoneb": "321-636-7130"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.7318827,
+                    28.3553873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2003",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "AFT",
+                "partnum": "GEN",
+                "partprice": "$253",
+                "partdealer": "Wilberts Inc.",
+                "partcountry": " USA",
+                "partstate": "NY",
+                "partcity": "Webster  ",
+                "phonea": "800-462-6749",
+                "phoneb": "800-462-6749"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.45250461409051,
+                    43.2362833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2003",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "AFT",
+                "partnum": "GEN",
+                "partprice": "$253",
+                "partdealer": "Wilberts Inc.",
+                "partcountry": " USA",
+                "partstate": "NY",
+                "partcity": "Webster  ",
+                "phonea": "800-462-6749",
+                "phoneb": "800-462-6749"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.45250461409051,
+                    43.2362833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2004",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "749",
+                "partprice": "$250",
+                "partdealer": "Mike's Auto  Parts",
+                "partcountry": " USA",
+                "partstate": "TX",
+                "partcity": "Hempstead ",
+                "phonea": "979-826-8225",
+                "phoneb": "979-826-8225"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.0806548,
+                    30.0929491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2005",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "19L537",
+                "partprice": "$250",
+                "partdealer": "Cocoa Auto Salvage",
+                "partcountry": " USA",
+                "partstate": "FL",
+                "partcity": "Cocoa ",
+                "phonea": "1-800-347-0928",
+                "phoneb": "1-800-347-0928"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.7318827,
+                    28.3553873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2001",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "AFT",
+                "partnum": "GEN",
+                "partprice": "$246",
+                "partdealer": "Wilberts Inc.",
+                "partcountry": " USA",
+                "partstate": "NY",
+                "partcity": "Webster  ",
+                "phonea": "800-462-6749",
+                "phoneb": "800-462-6749"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.45250461409051,
+                    43.2362833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2007",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "CAJ20094",
+                "partprice": "$242.44",
+                "partdealer": "Knox Auto Parts of Birmingham",
+                "partcountry": " USA",
+                "partstate": "AL",
+                "partcity": "Birmingham ",
+                "phonea": "615-610-6771",
+                "phoneb": "615-610-6771"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.8024326,
+                    33.5206824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2008",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "CAJ21710",
+                "partprice": "$235.36",
+                "partdealer": "Knox Auto Parts of Birmingham",
+                "partcountry": " USA",
+                "partstate": "AL",
+                "partcity": "Birmingham ",
+                "phonea": "615-610-6771",
+                "phoneb": "615-610-6771"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.8024326,
+                    33.5206824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2012",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "F0068053",
+                "partprice": "$233",
+                "partdealer": "Knox Auto Parts of  Nashville",
+                "partcountry": " USA",
+                "partstate": "TN",
+                "partcity": "lavergne  ",
+                "phonea": "615-610-4771",
+                "phoneb": "615-610-4771"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.59496163412851,
+                    35.99784665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1996",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "A501",
+                "partprice": "$233",
+                "partdealer": "Knox  Auto Parts-PRP Midwest",
+                "partcountry": " USA",
+                "partstate": "TN",
+                "partcity": "Knoxville ",
+                "phonea": "615-610-4771",
+                "phoneb": "615-610-4771"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.9210261,
+                    35.9603948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2002",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "K0466",
+                "partprice": "$233",
+                "partdealer": "Knox  Auto Parts-PRP Midwest",
+                "partcountry": " USA",
+                "partstate": "TN",
+                "partcity": "Knoxville ",
+                "phonea": "615-610-4771",
+                "phoneb": "615-610-4771"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.9210261,
+                    35.9603948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2012",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "F0068053",
+                "partprice": "$233",
+                "partdealer": "Knox Auto Parts of Birmingham",
+                "partcountry": " USA",
+                "partstate": "AL",
+                "partcity": "Birmingham ",
+                "phonea": "615-610-6771",
+                "phoneb": "615-610-6771"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.8024326,
+                    33.5206824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2009",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "X1518",
+                "partprice": "$225",
+                "partdealer": "Bow Auto Parts- PRP NE",
+                "partcountry": " USA",
+                "partstate": "NH",
+                "partcity": "Bow ",
+                "phonea": "603-224-8400",
+                "phoneb": "800-464-3141"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.549149,
+                    43.133061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2009",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "X1867",
+                "partprice": "$225",
+                "partdealer": "Bow Auto Parts- PRP NE",
+                "partcountry": " USA",
+                "partstate": "NH",
+                "partcity": "Bow ",
+                "phonea": "603-224-8400",
+                "phoneb": "800-464-3141"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.549149,
+                    43.133061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2010",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "X2346",
+                "partprice": "$225",
+                "partdealer": "Bow Auto Parts- PRP NE",
+                "partcountry": " USA",
+                "partstate": "NH",
+                "partcity": "Bow ",
+                "phonea": "603-224-8400",
+                "phoneb": "800-464-3141"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.549149,
+                    43.133061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2011",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "X2074",
+                "partprice": "$225",
+                "partdealer": "Bow Auto Parts- PRP NE",
+                "partcountry": " USA",
+                "partstate": "NH",
+                "partcity": "Bow ",
+                "phonea": "603-224-8400",
+                "phoneb": "800-464-3141"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.549149,
+                    43.133061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2005",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "X2370",
+                "partprice": "$225",
+                "partdealer": "Bow Auto Parts- PRP NE",
+                "partcountry": " USA",
+                "partstate": "NH",
+                "partcity": "Bow ",
+                "phonea": "603-224-8400",
+                "phoneb": "800-464-3141"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.549149,
+                    43.133061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2006",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "X2471",
+                "partprice": "$225",
+                "partdealer": "Bow Auto Parts- PRP NE",
+                "partcountry": " USA",
+                "partstate": "NH",
+                "partcity": "Bow ",
+                "phonea": "603-224-8400",
+                "phoneb": "800-464-3141"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.549149,
+                    43.133061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2005",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "X1682",
+                "partprice": "$225",
+                "partdealer": "Bow Auto Parts- PRP NE",
+                "partcountry": " USA",
+                "partstate": "NH",
+                "partcity": "Bow ",
+                "phonea": "603-224-8400",
+                "phoneb": "800-464-3141"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.549149,
+                    43.133061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1999",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "00019461",
+                "partprice": "$224.75",
+                "partdealer": "Benzeen Auto Parts PRP",
+                "partcountry": " USA",
+                "partstate": "CA",
+                "partcity": "Rancho-Cordova ",
+                "phonea": "877-368-2998",
+                "phoneb": "916-378-4045"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.302728,
+                    38.5890723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2011",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "213130B",
+                "partprice": "$219.3",
+                "partdealer": "Benzeen Auto Parts PRP",
+                "partcountry": " USA",
+                "partstate": "CA",
+                "partcity": "Rancho-Cordova ",
+                "phonea": "916-302-7479",
+                "phoneb": "877-368-2054"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.302728,
+                    38.5890723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2006",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "AFT",
+                "partnum": "GEN-03",
+                "partprice": "$219",
+                "partdealer": "Wilberts Inc. - PRP-NE",
+                "partcountry": " USA",
+                "partstate": "NY",
+                "partcity": "Webster  ",
+                "phonea": "1-800-462-6749",
+                "phoneb": "1-800-462-6749"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.45250461409051,
+                    43.2362833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2007",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "CAJ20094",
+                "partprice": "$218.84",
+                "partdealer": "Knox Auto Parts of Nashville",
+                "partcountry": " USA",
+                "partstate": "TN",
+                "partcity": "Lavergne ",
+                "phonea": "615-610-4771",
+                "phoneb": "615-610-4771"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.59496163412851,
+                    35.99784665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2005",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "00017095",
+                "partprice": "$217.85",
+                "partdealer": "Benzeen Auto Parts PRP",
+                "partcountry": " USA",
+                "partstate": "CA",
+                "partcity": "Rancho-Cordova ",
+                "phonea": "877-368-2998",
+                "phoneb": "916-378-4045"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.302728,
+                    38.5890723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2011",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "F0068819",
+                "partprice": "$215.3",
+                "partdealer": "Knox Auto Parts of  Nashville",
+                "partcountry": " USA",
+                "partstate": "TN",
+                "partcity": "lavergne  ",
+                "phonea": "615-610-4771",
+                "phoneb": "615-610-4771"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.59496163412851,
+                    35.99784665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2007",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "MAC21874",
+                "partprice": "$215.3",
+                "partdealer": "Knox Auto Parts of Birmingham",
+                "partcountry": " USA",
+                "partstate": "AL",
+                "partcity": "Birmingham ",
+                "phonea": "615-610-6771",
+                "phoneb": "615-610-6771"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.8024326,
+                    33.5206824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2012",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "CAL20438",
+                "partprice": "$215.3",
+                "partdealer": "Knox Auto Parts of Birmingham",
+                "partcountry": " USA",
+                "partstate": "AL",
+                "partcity": "Birmingham ",
+                "phonea": "615-610-6771",
+                "phoneb": "615-610-6771"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.8024326,
+                    33.5206824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2003",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "CAH18106",
+                "partprice": "$215.3",
+                "partdealer": "Knox Auto Parts of Birmingham",
+                "partcountry": " USA",
+                "partstate": "AL",
+                "partcity": "Birmingham ",
+                "phonea": "615-610-6771",
+                "phoneb": "615-610-6771"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.8024326,
+                    33.5206824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2003",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "CAL16647",
+                "partprice": "$215.3",
+                "partdealer": "Knox Auto Parts of Birmingham",
+                "partcountry": " USA",
+                "partstate": "AL",
+                "partcity": "Birmingham ",
+                "phonea": "615-610-6771",
+                "phoneb": "615-610-6771"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.8024326,
+                    33.5206824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2003",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "CAE21281",
+                "partprice": "$215.3",
+                "partdealer": "Knox Auto Parts of Birmingham",
+                "partcountry": " USA",
+                "partstate": "AL",
+                "partcity": "Birmingham ",
+                "phonea": "615-610-6771",
+                "phoneb": "615-610-6771"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.8024326,
+                    33.5206824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2011",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "F0068819",
+                "partprice": "$215.3",
+                "partdealer": "Knox Auto Parts of Birmingham",
+                "partcountry": " USA",
+                "partstate": "AL",
+                "partcity": "Birmingham ",
+                "phonea": "615-610-6771",
+                "phoneb": "615-610-6771"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.8024326,
+                    33.5206824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2010",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "RC50333",
+                "partprice": "$215",
+                "partdealer": "Everett's Auto Parts",
+                "partcountry": " USA",
+                "partstate": "MA",
+                "partcity": "Brockton  ",
+                "phonea": "1-800-772-5200",
+                "phoneb": "1-800-772-5200"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0183787,
+                    42.0834335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2011",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "RC50333",
+                "partprice": "$215",
+                "partdealer": "Everett's Auto Parts",
+                "partcountry": " USA",
+                "partstate": "MA",
+                "partcity": "Brockton  ",
+                "phonea": "1-800-772-5200",
+                "phoneb": "1-800-772-5200"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0183787,
+                    42.0834335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2007",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "X1198",
+                "partprice": "$215",
+                "partdealer": "Bow Auto Parts- PRP NE",
+                "partcountry": " USA",
+                "partstate": "NH",
+                "partcity": "Bow ",
+                "phonea": "603-224-8400",
+                "phoneb": "800-464-3141"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.549149,
+                    43.133061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2002",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "X0563",
+                "partprice": "$215",
+                "partdealer": "Bow Auto Parts- PRP NE",
+                "partcountry": " USA",
+                "partstate": "NH",
+                "partcity": "Bow ",
+                "phonea": "603-224-8400",
+                "phoneb": "800-464-3141"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.549149,
+                    43.133061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2003",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "X0629",
+                "partprice": "$215",
+                "partdealer": "Bow Auto Parts- PRP NE",
+                "partcountry": " USA",
+                "partstate": "NH",
+                "partcity": "Bow ",
+                "phonea": "603-224-8400",
+                "phoneb": "800-464-3141"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.549149,
+                    43.133061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1998",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "CAA16214",
+                "partprice": "$214.12",
+                "partdealer": "Knox Auto Parts of Birmingham",
+                "partcountry": " USA",
+                "partstate": "AL",
+                "partcity": "Birmingham ",
+                "phonea": "615-610-6771",
+                "phoneb": "615-610-6771"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.8024326,
+                    33.5206824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2007",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "GJ0809",
+                "partprice": "$213.25",
+                "partdealer": "Benzeen Auto Parts PRP",
+                "partcountry": " USA",
+                "partstate": "CA",
+                "partcity": "Rancho-Cordova ",
+                "phonea": "916-398-4846",
+                "phoneb": "877-368-2090"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.302728,
+                    38.5890723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2012",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "FK0897",
+                "partprice": "$213.25",
+                "partdealer": "Benzeen Auto Parts PRP",
+                "partcountry": " USA",
+                "partstate": "CA",
+                "partcity": "Rancho-Cordova ",
+                "phonea": "916-398-4846",
+                "phoneb": "877-368-2090"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.302728,
+                    38.5890723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2008",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "CAJ21710",
+                "partprice": "$211.76",
+                "partdealer": "Knox Auto Parts of Nashville",
+                "partcountry": " USA",
+                "partstate": "TN",
+                "partcity": "Lavergne ",
+                "phonea": "615-610-4771",
+                "phoneb": "615-610-4771"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.59496163412851,
+                    35.99784665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2011",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "1G31",
+                "partprice": "$210",
+                "partdealer": "Fenix Parts Houston",
+                "partcountry": " USA",
+                "partstate": "TX",
+                "partcity": "Tomball ",
+                "phonea": "281-351-1314",
+                "phoneb": "281-351-1314"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.6160549,
+                    30.0971621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2012",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "1J46",
+                "partprice": "$210",
+                "partdealer": "Fenix Parts Houston",
+                "partcountry": " USA",
+                "partstate": "TX",
+                "partcity": "Tomball ",
+                "phonea": "281-351-1314",
+                "phoneb": "281-351-1314"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.6160549,
+                    30.0971621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2012",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "1H24",
+                "partprice": "$210",
+                "partdealer": "Fenix Parts Houston",
+                "partcountry": " USA",
+                "partstate": "TX",
+                "partcity": "Tomball ",
+                "phonea": "281-351-1314",
+                "phoneb": "281-351-1314"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.6160549,
+                    30.0971621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2009",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "F0069211",
+                "partprice": "$209.4",
+                "partdealer": "Knox Auto Parts of  Nashville",
+                "partcountry": " USA",
+                "partstate": "TN",
+                "partcity": "lavergne  ",
+                "phonea": "615-610-4771",
+                "phoneb": "615-610-4771"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.59496163412851,
+                    35.99784665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2010",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "F0068464",
+                "partprice": "$209.4",
+                "partdealer": "Knox Auto Parts of  Nashville",
+                "partcountry": " USA",
+                "partstate": "TN",
+                "partcity": "lavergne  ",
+                "phonea": "615-610-4771",
+                "phoneb": "615-610-4771"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.59496163412851,
+                    35.99784665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2009",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "F0069211",
+                "partprice": "$209.4",
+                "partdealer": "Knox Auto Parts of Birmingham",
+                "partcountry": " USA",
+                "partstate": "AL",
+                "partcity": "Birmingham ",
+                "phonea": "615-610-6771",
+                "phoneb": "615-610-6771"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.8024326,
+                    33.5206824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2010",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "F0068464",
+                "partprice": "$209.4",
+                "partdealer": "Knox Auto Parts of Birmingham",
+                "partcountry": " USA",
+                "partstate": "AL",
+                "partcity": "Birmingham ",
+                "phonea": "615-610-6771",
+                "phoneb": "615-610-6771"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.8024326,
+                    33.5206824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2012",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "213011A",
+                "partprice": "$207.75",
+                "partdealer": "Benzeen Auto Parts PRP",
+                "partcountry": " USA",
+                "partstate": "CA",
+                "partcity": "Rancho-Cordova ",
+                "phonea": "916-302-7479",
+                "phoneb": "877-368-2054"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.302728,
+                    38.5890723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2012",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "B",
+                "partnum": "00022522",
+                "partprice": "$206.5",
+                "partdealer": "Fenix Parts Houston",
+                "partcountry": " USA",
+                "partstate": "TX",
+                "partcity": "Tomball ",
+                "phonea": "281-351-1314",
+                "phoneb": "281-351-1314"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.6160549,
+                    30.0971621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2005",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "00022705",
+                "partprice": "$206.5",
+                "partdealer": "Fenix Parts Houston",
+                "partcountry": " USA",
+                "partstate": "TX",
+                "partcity": "Tomball ",
+                "phonea": "281-351-1314",
+                "phoneb": "281-351-1314"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.6160549,
+                    30.0971621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2011",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "AFT",
+                "partnum": "T11516",
+                "partprice": "$205.35",
+                "partdealer": "Allen's Used Auto Parts",
+                "partcountry": " USA",
+                "partstate": "FL",
+                "partcity": "Tampa  ",
+                "phonea": "813-620-4242",
+                "phoneb": "813-620-4242"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.458444,
+                    27.9477595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2011",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "AFT",
+                "partnum": "T11516",
+                "partprice": "$205.35",
+                "partdealer": "Allen's Used Auto Parts",
+                "partcountry": " USA",
+                "partstate": "FL",
+                "partcity": "Tampa  ",
+                "phonea": "813-620-4242",
+                "phoneb": "813-620-4242"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.458444,
+                    27.9477595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2011",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "AFT",
+                "partnum": "T11516",
+                "partprice": "$205.35",
+                "partdealer": "Allen's Used Auto Parts",
+                "partcountry": " USA",
+                "partstate": "FL",
+                "partcity": "Tampa  ",
+                "phonea": "813-620-4242",
+                "phoneb": "813-620-4242"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.458444,
+                    27.9477595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2011",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "AFT",
+                "partnum": "T11516",
+                "partprice": "$205.35",
+                "partdealer": "Allen's Used Auto Parts",
+                "partcountry": " USA",
+                "partstate": "FL",
+                "partcity": "Tampa  ",
+                "phonea": "813-620-4242",
+                "phoneb": "813-620-4242"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.458444,
+                    27.9477595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2006",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "V1435",
+                "partprice": "$205",
+                "partdealer": "Bow Auto Parts- PRP NE",
+                "partcountry": " USA",
+                "partstate": "NH",
+                "partcity": "Bow ",
+                "phonea": "603-224-8400",
+                "phoneb": "800-464-3141"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.549149,
+                    43.133061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2007",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "CAJ20094",
+                "partprice": "$204.6",
+                "partdealer": "Grand Valley Auto Parts - PRP Midwest MIDW",
+                "partcountry": " USA",
+                "partstate": "MI",
+                "partcity": "Jenison ",
+                "phonea": "616-888-3920",
+                "phoneb": "616-888-3920"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.82012777570003,
+                    42.906688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2006",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "213144B",
+                "partprice": "$201.97",
+                "partdealer": "Benzeen Auto Parts PRP",
+                "partcountry": " USA",
+                "partstate": "CA",
+                "partcity": "Rancho-Cordova ",
+                "phonea": "916-302-7479",
+                "phoneb": "877-368-2054"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.302728,
+                    38.5890723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2006",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "212941B",
+                "partprice": "$201.97",
+                "partdealer": "Benzeen Auto Parts PRP",
+                "partcountry": " USA",
+                "partstate": "CA",
+                "partcity": "Rancho-Cordova ",
+                "phonea": "916-302-7479",
+                "phoneb": "877-368-2054"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.302728,
+                    38.5890723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2003",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "00022766",
+                "partprice": "$201",
+                "partdealer": "Fenix Parts Houston",
+                "partcountry": " USA",
+                "partstate": "TX",
+                "partcity": "Tomball ",
+                "phonea": "281-351-1314",
+                "phoneb": "281-351-1314"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.6160549,
+                    30.0971621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2002",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "00022322",
+                "partprice": "$201",
+                "partdealer": "Fenix Parts Houston",
+                "partcountry": " USA",
+                "partstate": "TX",
+                "partcity": "Tomball ",
+                "phonea": "281-351-1314",
+                "phoneb": "281-351-1314"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.6160549,
+                    30.0971621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2006",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "211546",
+                "partprice": "$200",
+                "partdealer": "Lambert's Pick A Part LLC",
+                "partcountry": " USA",
+                "partstate": "TN",
+                "partcity": "Powell  ",
+                "phonea": "865-938-1277",
+                "phoneb": "865-938-1277"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.0279677,
+                    36.0317472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2009",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "Q09050",
+                "partprice": "$199.96",
+                "partdealer": "Toms Foreign Auto Parts-QRP Partner/MIDW",
+                "partcountry": " USA",
+                "partstate": "CT",
+                "partcity": "Waterbury ",
+                "phonea": "800-255-6656",
+                "phoneb": "203-753-6656800-255-6656"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.0438362,
+                    41.5538091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2007",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "AFT",
+                "partnum": "Q05041",
+                "partprice": "$199.96",
+                "partdealer": "Toms Foreign Auto Parts-QRP Partner/MIDW",
+                "partcountry": " USA",
+                "partstate": "CT",
+                "partcity": "Waterbury ",
+                "phonea": "800-255-6656",
+                "phoneb": "203-753-6656800-255-6656"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.0438362,
+                    41.5538091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2009",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "R09058",
+                "partprice": "$199.96",
+                "partdealer": "Toms Foreign Auto Parts-QRP Partner/MIDW",
+                "partcountry": " USA",
+                "partstate": "CT",
+                "partcity": "Waterbury ",
+                "phonea": "800-255-6656",
+                "phoneb": "203-753-6656800-255-6656"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.0438362,
+                    41.5538091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2004",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "R07071",
+                "partprice": "$199.96",
+                "partdealer": "Toms Foreign Auto Parts-QRP Partner/MIDW",
+                "partcountry": " USA",
+                "partstate": "CT",
+                "partcity": "Waterbury ",
+                "phonea": "800-255-6656",
+                "phoneb": "203-753-6656800-255-6656"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.0438362,
+                    41.5538091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2011",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "R06081",
+                "partprice": "$199.95",
+                "partdealer": "Toms Foreign Auto Parts-QRP Partner/MIDW",
+                "partcountry": " USA",
+                "partstate": "CT",
+                "partcity": "Waterbury ",
+                "phonea": "800-255-6656",
+                "phoneb": "203-753-6656800-255-6656"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.0438362,
+                    41.5538091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2006",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "2-11034",
+                "partprice": "$199",
+                "partdealer": "Mitch's Auto Parts, Inc.",
+                "partcountry": " USA",
+                "partstate": "MI",
+                "partcity": "Detroit  ",
+                "phonea": "313-365-4844",
+                "phoneb": "313-365-4844"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.0466403,
+                    42.3315509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2008",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "CAJ21710",
+                "partprice": "$197.4",
+                "partdealer": "Grand Valley Auto Parts - PRP Midwest MIDW",
+                "partcountry": " USA",
+                "partstate": "MI",
+                "partcity": "Jenison ",
+                "phonea": "616-888-3920",
+                "phoneb": "616-888-3920"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.82012777570003,
+                    42.906688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2002",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "00017202",
+                "partprice": "$197.15",
+                "partdealer": "Benzeen Auto Parts PRP",
+                "partcountry": " USA",
+                "partstate": "CA",
+                "partcity": "Rancho-Cordova ",
+                "phonea": "877-368-2998",
+                "phoneb": "916-378-4045"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.302728,
+                    38.5890723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2007",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "AFT",
+                "partnum": "T11137",
+                "partprice": "$194.25",
+                "partdealer": "Allen's Used Auto Parts",
+                "partcountry": " USA",
+                "partstate": "FL",
+                "partcity": "Tampa  ",
+                "phonea": "813-620-4242",
+                "phoneb": "813-620-4242"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.458444,
+                    27.9477595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2012",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "B21D4220",
+                "partprice": "$193",
+                "partdealer": "Late Model Auto Salvage / Fenix Parts Inc",
+                "partcountry": " USA",
+                "partstate": "TX",
+                "partcity": "Haltom-City ",
+                "phonea": "817-916-5325",
+                "phoneb": "817-916-5325"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.2691817,
+                    32.7995738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1997",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "7771",
+                "partprice": "$193",
+                "partdealer": "Universal Auto Recycling",
+                "partcountry": " USA",
+                "partstate": "KY",
+                "partcity": "Benton  ",
+                "phonea": "1-800-443-8578",
+                "phoneb": "1-270-527-34311-800-443-8578"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.350315,
+                    36.8572781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1999",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "6555",
+                "partprice": "$193",
+                "partdealer": "Universal Auto Recycling",
+                "partcountry": " USA",
+                "partstate": "KY",
+                "partcity": "Benton  ",
+                "phonea": "1-800-443-8578",
+                "phoneb": "1-270-527-34311-800-443-8578"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.350315,
+                    36.8572781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1999",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "6700",
+                "partprice": "$193",
+                "partdealer": "Universal Auto Recycling",
+                "partcountry": " USA",
+                "partstate": "KY",
+                "partcity": "Benton  ",
+                "phonea": "1-800-443-8578",
+                "phoneb": "1-270-527-34311-800-443-8578"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.350315,
+                    36.8572781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "1999",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "7621",
+                "partprice": "$193",
+                "partdealer": "Universal Auto Recycling",
+                "partcountry": " USA",
+                "partstate": "KY",
+                "partcity": "Benton  ",
+                "phonea": "1-800-443-8578",
+                "phoneb": "1-270-527-34311-800-443-8578"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.350315,
+                    36.8572781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2000",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "6520",
+                "partprice": "$193",
+                "partdealer": "Universal Auto Recycling",
+                "partcountry": " USA",
+                "partstate": "KY",
+                "partcity": "Benton  ",
+                "phonea": "1-800-443-8578",
+                "phoneb": "1-270-527-34311-800-443-8578"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.350315,
+                    36.8572781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2000",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "7117",
+                "partprice": "$193",
+                "partdealer": "Universal Auto Recycling",
+                "partcountry": " USA",
+                "partstate": "KY",
+                "partcity": "Benton  ",
+                "phonea": "1-800-443-8578",
+                "phoneb": "1-270-527-34311-800-443-8578"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.350315,
+                    36.8572781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2000",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "7605",
+                "partprice": "$193",
+                "partdealer": "Universal Auto Recycling",
+                "partcountry": " USA",
+                "partstate": "KY",
+                "partcity": "Benton  ",
+                "phonea": "1-800-443-8578",
+                "phoneb": "1-270-527-34311-800-443-8578"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.350315,
+                    36.8572781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2000",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "7687",
+                "partprice": "$193",
+                "partdealer": "Universal Auto Recycling",
+                "partcountry": " USA",
+                "partstate": "KY",
+                "partcity": "Benton  ",
+                "phonea": "1-800-443-8578",
+                "phoneb": "1-270-527-34311-800-443-8578"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.350315,
+                    36.8572781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2001",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "X",
+                "partnum": "7070",
+                "partprice": "$193",
+                "partdealer": "Universal Auto Recycling",
+                "partcountry": " USA",
+                "partstate": "KY",
+                "partcity": "Benton  ",
+                "phonea": "1-800-443-8578",
+                "phoneb": "1-270-527-34311-800-443-8578"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.350315,
+                    36.8572781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2007",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "MAC21874",
+                "partprice": "$191.7",
+                "partdealer": "Knox Auto Parts of Nashville",
+                "partcountry": " USA",
+                "partstate": "TN",
+                "partcity": "Lavergne ",
+                "phonea": "615-610-4771",
+                "phoneb": "615-610-4771"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.59496163412851,
+                    35.99784665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2012",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "CAL20438",
+                "partprice": "$191.7",
+                "partdealer": "Knox Auto Parts of Nashville",
+                "partcountry": " USA",
+                "partstate": "TN",
+                "partcity": "Lavergne ",
+                "phonea": "615-610-4771",
+                "phoneb": "615-610-4771"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.59496163412851,
+                    35.99784665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "partyear": "2003",
+                "partname": "Alternator",
+                "partmake": "Toyota",
+                "partmodel": "Camry",
+                "partgrade": "A",
+                "partnum": "CAH18106",
+                "partprice": "$191.7",
+                "partdealer": "Knox Auto Parts of Nashville",
+                "partcountry": " USA",
+                "partstate": "TN",
+                "partcity": "Lavergne ",
+                "phonea": "615-610-4771",
+                "phoneb": "615-610-4771"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.59496163412851,
+                    35.99784665
+                ]
+            }
+        }
+    ]
+}
