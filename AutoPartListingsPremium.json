@@ -1,6 +1,6 @@
 [
     {
-        "img": "http://localhost:3000/imgs/a-abco-auto-parts.png",
+        "img": "/public/imgs/a-abco-auto-parts.png",
         "partyear":"1998",
         "partname": "alternator",
         "partmake": "Acura",
