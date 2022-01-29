@@ -1,6 +1,6 @@
 [
     {
-        "img": "/public/imgs/a-abco-auto-parts.png",
+        "img": "http://localhost:3000/imgs/a-abco-auto-parts.png",
         "partyear":"1998",
         "partname": "alternator",
         "partmake": "Acura",
@@ -16,7 +16,7 @@
         "lat": 45.0838291
     },
     {
-        "img": "/public/imgs/a-abco-auto-parts.png",
+        "img": "http://localhost:3000/imgs/a-abco-auto-parts.png",
         "partyear":"1999",
         "partname": "alternator",
         "partmake": "Acura",
@@ -32,7 +32,7 @@
         "lat": 45.0838291
     },
     {
-        "img": "/public/imgs/a-abco-auto-parts.png",
+        "img": "http://localhost:3000/imgs/a-abco-auto-parts.png",
         "partyear":"1997",
         "partname": "alternator",
         "partmake": "Acura",
