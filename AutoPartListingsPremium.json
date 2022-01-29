@@ -1,0 +1,44 @@
+[
+    {
+        "img": "https://chadzilla2080.github.io/mapdata/a-abco-auto-parts.png",
+        "partname": "alternator",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partprice": "$69.99",
+        "partnum": "43052",
+        "partcity": "Fridley",
+        "partstate": "MN",
+        "dealerphone": "763-784-8890",
+        "dealername": "A-Abco Auto Parts",
+        "long": -93.2590388,
+        "lat": 45.0838291
+    },
+    {
+        "img": "https://chadzilla2080.github.io/mapdata/a-abco-auto-parts.png",
+        "partname": "alternator",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partprice": "$69.99",
+        "partnum": "43052",
+        "partcity": "Fridley",
+        "partstate": "MN",
+        "dealerphone": "763-784-8890",
+        "dealername": "A-Abco Auto Parts",
+        "long": -93.2590388,
+        "lat": 45.0838291
+    },
+    {
+        "img": "https://chadzilla2080.github.io/mapdata/a-abco-auto-parts.png",
+        "partname": "alternator",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partprice": "$69.99",
+        "partnum": "43052",
+        "partcity": "Fridley",
+        "partstate": "MN",
+        "dealerphone": "763-784-8890",
+        "dealername": "A-Abco Auto Parts",
+        "long": -93.2590388,
+        "lat": 45.0838291
+    }
+]
