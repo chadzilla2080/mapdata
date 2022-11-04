@@ -45,53 +45,6 @@
     "phoneb":"800-323-4500"
     }
   },
-  {
-    "type": "FeatureCollection",
-    "features": [
-   {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -93.2590388,45.0838291 ]
-    },
-    "properties": {
-    "partyear":"2003",
-    "partname":"Alternator",
-    "partmake":"Acura",
-    "partmodel":"TL",
-    "partgrade":"A",
-    "partnum":"43052",
-    "partprice":"69.99",
-    "partdealer":"AbcoFridleyAutoParts",
-    "partcountry":"USA",
-    "partstate":"MN",
-    "partcity":"Fridley",
-    "phonea":"763-784-8890",
-    "phoneb":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -73.9054145,40.7453798 ]
-    },
-    "properties": {
-    "partyear":"2003",
-    "partname":"Alternator",
-    "partmake":"Acura",
-    "partmodel":"TL",
-    "partgrade":"A",
-    "partnum":"M80551",
-    "partprice":96.5,
-    "partdealer":"AllianceAutoParts",
-    "partcountry":"USA",
-    "partstate":"NY",
-    "partcity":"Woodside",
-    "phonea":"718-672-3800",
-    "phoneb":"800-323-4500"
-    }
-  },
  {
     "type": "FeatureCollection",
     "features": [
