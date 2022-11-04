@@ -46,9 +46,6 @@
     }
   },
  {
-    "type": "FeatureCollection",
-    "features": [
-   {
     "type": "Feature",
     "geometry": {
        "type": "Point",
@@ -92,7 +89,7 @@
     "phoneb":"800-323-4500"
     }
   },
-      {
+    {
       "type": "Feature",
       "properties": {
         "partindex": "Air Box Cleaner",
