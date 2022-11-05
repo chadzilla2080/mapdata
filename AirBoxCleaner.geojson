@@ -1120,6 +1120,1086 @@
           32.753177
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1997",
+        "partname": "A/C Hose",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "X",
+        "partnum": "171003",
+        "partprice": "$150",
+        "partdealer": "Tri County Auto Dismantlers",
+        "partcountry": " USA",
+        "partstate": "CA",
+        "partcity": "Santa-Paula  ",
+        "partzip": "32256",
+        "phonea": "877-667-2787",
+        "phoneb": "805-647-8440"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0592705,
+          34.3541659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2002",
+        "partname": "A/C Hose",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "A",
+        "partnum": "22G050",
+        "partprice": "$150",
+        "partdealer": "Lentini Auto Salvage -PRP",
+        "partcountry": " USA",
+        "partstate": "NJ",
+        "partcity": "Port-Murray ",
+        "partzip": "32256",
+        "phonea": "800-452-9782",
+        "phoneb": "800-452-9782"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9160025,
+          40.7856549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1997",
+        "partname": "A/C Hose",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "A",
+        "partnum": "FF601",
+        "partprice": "$150",
+        "partdealer": "Aacon Auto Parts",
+        "partcountry": " USA",
+        "partstate": "CA",
+        "partcity": "Los-Angeles  ",
+        "partzip": "32256",
+        "phonea": "1-323-589-5048",
+        "phoneb": "1-323-589-5048"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1998",
+        "partname": "A/C Hose",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "A",
+        "partnum": "69-N",
+        "partprice": "$130",
+        "partdealer": "Geartronix Auto Parts",
+        "partcountry": " USA",
+        "partstate": "NJ",
+        "partcity": "Jackson-Township  ",
+        "partzip": "32256",
+        "phonea": "732-254-6501",
+        "phoneb": "732-254-6501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3647772,
+          40.1151766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2001",
+        "partname": "A/C Hose",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "X",
+        "partnum": "Z1774",
+        "partprice": "$125.66",
+        "partdealer": "M & M Imports - Will Call Only - No Shipping",
+        "partcountry": " USA",
+        "partstate": "CA",
+        "partcity": "Fontana  ",
+        "partzip": "32256",
+        "phonea": "909-428-1111",
+        "phoneb": "909-428-1111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.435048,
+          34.0922335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2001",
+        "partname": "A/C Hose",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "X",
+        "partnum": "BB045",
+        "partprice": "$125",
+        "partdealer": "California Auto Parts, Inc.",
+        "partcountry": " USA",
+        "partstate": "CA",
+        "partcity": "Modesto  ",
+        "partzip": "32256",
+        "phonea": "1-209-523-0751",
+        "phoneb": "1-209-523-0751"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.9968782,
+          37.6390972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1997",
+        "partname": "A/C Hose",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "X",
+        "partnum": "1U0397",
+        "partprice": "$125",
+        "partdealer": "G and R Foreign - PRP West",
+        "partcountry": " USA",
+        "partstate": "OR",
+        "partcity": "Salem  ",
+        "partzip": "32256",
+        "phonea": "1-800-422-0114",
+        "phoneb": "1-800-422-0114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.033121,
+          44.9391565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1998",
+        "partname": "A/C Hose",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "A",
+        "partnum": "1V0045",
+        "partprice": "$125",
+        "partdealer": "G and R Foreign - PRP West",
+        "partcountry": " USA",
+        "partstate": "OR",
+        "partcity": "Salem  ",
+        "partzip": "32256",
+        "phonea": "1-800-422-0114",
+        "phoneb": "1-800-422-0114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.033121,
+          44.9391565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2002",
+        "partname": "A/C Hose",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "X",
+        "partnum": "B15130",
+        "partprice": "$125",
+        "partdealer": "AAA Auto Recyclers",
+        "partcountry": " USA",
+        "partstate": "TX",
+        "partcity": "Dallas  ",
+        "partzip": "32256",
+        "phonea": "214-421-1060",
+        "phoneb": "972-286-1000214-565-7800214-421-1060"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7968559,
+          32.7762719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1998",
+        "partname": "A/C Hose",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "A",
+        "partnum": "260088",
+        "partprice": "$125",
+        "partdealer": "Cress Collision Service",
+        "partcountry": " USA",
+        "partstate": "DE",
+        "partcity": "New-Castle  ",
+        "partzip": "32256",
+        "phonea": "302-328-8864",
+        "phoneb": "302-328-8863"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.662956,
+          39.6159851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2001",
+        "partname": "A/C Hose",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "A",
+        "partnum": "019923",
+        "partprice": "$112.5",
+        "partdealer": "Smith Auto & Truck Parts, Inc.",
+        "partcountry": " USA",
+        "partstate": "KS",
+        "partcity": "Garden-City  ",
+        "partzip": "32256",
+        "phonea": "620-275-9145",
+        "phoneb": "800-766-1022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.8726618,
+          37.9716898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1999",
+        "partname": "A/C Hose",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "A",
+        "partnum": "P26310",
+        "partprice": "$103.75",
+        "partdealer": "Orthodox Auto Parts-ELITE",
+        "partcountry": " USA",
+        "partstate": "PA",
+        "partcity": "Philadelphia ",
+        "partzip": "32256",
+        "phonea": "215-344-8299",
+        "phoneb": "215-344-8299"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1635262,
+          39.9527237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2001",
+        "partname": "A/C Hose",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "A",
+        "partnum": "023269",
+        "partprice": "$100",
+        "partdealer": "Jackson Auto Salvage",
+        "partcountry": " USA",
+        "partstate": "NC",
+        "partcity": "Raleigh  ",
+        "partzip": "32256",
+        "phonea": "919-266-2704",
+        "phoneb": "919-266-2704"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6390989,
+          35.7803977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1998",
+        "partname": "A/C Hose",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "C",
+        "partnum": "21-028",
+        "partprice": "$100",
+        "partdealer": "AH Parts Dismantlers",
+        "partcountry": " USA",
+        "partstate": "CA",
+        "partcity": "Rancho-Cordova  ",
+        "partzip": "32256",
+        "phonea": "877-859-0023",
+        "phoneb": "916-859-0023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.302728,
+          38.5890723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2001",
+        "partname": "A/C Hose",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "A",
+        "partnum": "4573",
+        "partprice": "$100",
+        "partdealer": "Eagle Mountain Auto Salvage",
+        "partcountry": " USA",
+        "partstate": "TX",
+        "partcity": "Ft.-Worth  ",
+        "partzip": "32256",
+        "phonea": "817-237-3350",
+        "phoneb": "817-237-3350"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3327459,
+          32.753177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2002",
+        "partname": "A/C Hose",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "A",
+        "partnum": "I00641",
+        "partprice": "$100",
+        "partdealer": "Import Auto Wrecking  ",
+        "partcountry": " USA",
+        "partstate": "CA",
+        "partcity": "Chula-Vista  ",
+        "partzip": "32256",
+        "phonea": "619-216-7262",
+        "phoneb": "619-216-7261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0841955,
+          32.6400541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2001",
+        "partname": "A/C Hose",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "X",
+        "partnum": "Z1463",
+        "partprice": "$99.16",
+        "partdealer": "M & M Imports - Will Call Only - No Shipping",
+        "partcountry": " USA",
+        "partstate": "CA",
+        "partcity": "Fontana  ",
+        "partzip": "32256",
+        "phonea": "909-428-1111",
+        "phoneb": "909-428-1111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.435048,
+          34.0922335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1998",
+        "partname": "A/C Hose",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "C",
+        "partnum": "B210190",
+        "partprice": "$85.81",
+        "partdealer": "Gundies Auto Recycling",
+        "partcountry": " USA",
+        "partstate": "WA",
+        "partcity": "Seattle-Portland  ",
+        "partzip": "32256",
+        "phonea": "1-800-444-4344",
+        "phoneb": "1-800-444-4344"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4704116,
+          47.6654076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1997",
+        "partname": "A/C Hose",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "X",
+        "partnum": "001957",
+        "partprice": "$85",
+        "partdealer": "Allday Auto Parts",
+        "partcountry": " USA",
+        "partstate": "TX",
+        "partcity": "Houston  ",
+        "partzip": "32256",
+        "phonea": "713-789-0656",
+        "phoneb": "713-789-0656"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3676974,
+          29.7589382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2001",
+        "partname": "A/C Hose",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "A",
+        "partnum": "1IE073",
+        "partprice": "$82",
+        "partdealer": "AR1 Auto Parts",
+        "partcountry": " USA",
+        "partstate": "WA",
+        "partcity": "Yakima  ",
+        "partzip": "32256",
+        "phonea": "509-452-0818",
+        "phoneb": "866-270-3221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.510842,
+          46.601557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1998",
+        "partname": "A/C Hose",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "A",
+        "partnum": "008488",
+        "partprice": "$80",
+        "partdealer": "M & M Body LLC",
+        "partcountry": " USA",
+        "partstate": "NM",
+        "partcity": "Albuquerque  ",
+        "partzip": "32256",
+        "phonea": "505-345-7300",
+        "phoneb": "505-345-7300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.650985,
+          35.0841034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1999",
+        "partname": "A/C Hose",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "A",
+        "partnum": "110818",
+        "partprice": "$78",
+        "partdealer": "Foreign Auto Salvage  -  Gold Seal, KATRA, MIDW",
+        "partcountry": " USA",
+        "partstate": "KY",
+        "partcity": "Ft.-Wright  ",
+        "partzip": "32256",
+        "phonea": "859-341-1920",
+        "phoneb": "859-341-1920"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5341096,
+          39.0517272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2001",
+        "partname": "A/C Hose",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "X",
+        "partnum": "003175",
+        "partprice": "$75",
+        "partdealer": "Dans Used Auto Parts",
+        "partcountry": " USA",
+        "partstate": "TX",
+        "partcity": "Houston  ",
+        "partzip": "32256",
+        "phonea": "281-580-7600",
+        "phoneb": "281-580-7600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3676974,
+          29.7589382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2002",
+        "partname": "A/C Hose",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "A",
+        "partnum": "22G050",
+        "partprice": "$75",
+        "partdealer": "East Park Auto Recycling Inc.-PRP-NE, RTN",
+        "partcountry": " USA",
+        "partstate": "NY",
+        "partcity": "Hyde-Park  ",
+        "partzip": "32256",
+        "phonea": "1-800-289-8733",
+        "phoneb": "1-800-289-8733"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9332461,
+          41.7847232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1999",
+        "partname": "A/C Hose",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "X",
+        "partnum": "20P242",
+        "partprice": "$75",
+        "partdealer": "Roz Auto Salvage",
+        "partcountry": " USA",
+        "partstate": "WI",
+        "partcity": "Milwaukee  ",
+        "partzip": "32256",
+        "phonea": "1-800-281-2479",
+        "phoneb": "1-800-281-2479"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.922497,
+          43.0349931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1999",
+        "partname": "A/C Hose",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "X",
+        "partnum": "140022",
+        "partprice": "$75",
+        "partdealer": "Wallington Auto Wreckers",
+        "partcountry": " USA",
+        "partstate": "NJ",
+        "partcity": "Wallington  ",
+        "partzip": "32256",
+        "phonea": "973-777-9811",
+        "phoneb": "973-777-7438"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1137537,
+          40.8531553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1998",
+        "partname": "A/C Hose",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "X",
+        "partnum": "061R",
+        "partprice": "$65",
+        "partdealer": "A-1  Auto  Recyclers ",
+        "partcountry": " USA",
+        "partstate": "MO",
+        "partcity": "Columbia ",
+        "partzip": "32256",
+        "phonea": "1-800-237-7705",
+        "phoneb": "1-800-237-7705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3337366,
+          38.951883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1998",
+        "partname": "A/C Hose",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "X",
+        "partnum": "20687",
+        "partprice": "$65",
+        "partdealer": "Glenn and Jerry's",
+        "partcountry": " USA",
+        "partstate": "TX",
+        "partcity": "Fort-Worth  ",
+        "partzip": "32256",
+        "phonea": "1-888-251-6115",
+        "phoneb": "1-888-251-6115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3327459,
+          32.753177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1997",
+        "partname": "A/C Hose",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "C",
+        "partnum": "210058",
+        "partprice": "$65",
+        "partdealer": "Tubb's Used Auto Parts, Inc.",
+        "partcountry": " USA",
+        "partstate": "VA",
+        "partcity": "Norfolk  ",
+        "partzip": "32256",
+        "phonea": "1-757-545-8418",
+        "phoneb": "1-757-545-8418"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2602336,
+          36.8968052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2001",
+        "partname": "A/C Hose",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "X",
+        "partnum": "70927",
+        "partprice": "$65",
+        "partdealer": "JKL Auto Products & Service",
+        "partcountry": " USA",
+        "partstate": "PA",
+        "partcity": "Telford  ",
+        "partzip": "32256",
+        "phonea": "215-234-4386",
+        "phoneb": "215-234-4386"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3279538,
+          40.3220483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1998",
+        "partname": "A/C Hose",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "X",
+        "partnum": "GII522",
+        "partprice": "$65",
+        "partdealer": "AR1 Auto Parts",
+        "partcountry": " USA",
+        "partstate": "WA",
+        "partcity": "Yakima  ",
+        "partzip": "32256",
+        "phonea": "509-452-0818",
+        "phoneb": "866-270-3221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.510842,
+          46.601557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1999",
+        "partname": "A/C Hose",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "A",
+        "partnum": "H173",
+        "partprice": "$65",
+        "partdealer": "Tolbert Enterprises Inc",
+        "partcountry": " USA",
+        "partstate": "MS",
+        "partcity": "Union  ",
+        "partzip": "32256",
+        "phonea": "601-656-9156",
+        "phoneb": "601-656-9156"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9789198,
+          34.4834555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1997",
+        "partname": "A/C Hose",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "C",
+        "partnum": "B012269",
+        "partprice": "$65",
+        "partdealer": "Sierra's Trucks",
+        "partcountry": " USA",
+        "partstate": "CA",
+        "partcity": "San-Bernardino  ",
+        "partzip": "32256",
+        "phonea": "909-383-7155",
+        "phoneb": "909-383-7155"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0833144,
+          34.8253019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2001",
+        "partname": "A/C Hose",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "A",
+        "partnum": "02204212",
+        "partprice": "$60",
+        "partdealer": "Midway Auto Parts",
+        "partcountry": " USA",
+        "partstate": "OK",
+        "partcity": "Tulsa ",
+        "partzip": "32256",
+        "phonea": "918-234-4444",
+        "phoneb": "918-234-4444"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9927436,
+          36.1563122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2001",
+        "partname": "A/C Hose",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "A",
+        "partnum": "T496",
+        "partprice": "$60",
+        "partdealer": "Shamrock Auto Salvage",
+        "partcountry": " USA",
+        "partstate": "CA",
+        "partcity": "Ridgecrest  ",
+        "partzip": "32256",
+        "phonea": "760-446-5865",
+        "phoneb": "760-446-5865"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6699414,
+          35.6225064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2002",
+        "partname": "A/C Hose",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "X",
+        "partnum": " ",
+        "partprice": "$60",
+        "partdealer": "Happy Auto Parts, Inc.",
+        "partcountry": " USA",
+        "partstate": "CA",
+        "partcity": "Rancho-Cordova  ",
+        "partzip": "32256",
+        "phonea": "916-635-2514",
+        "phoneb": "916-635-2514"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.302728,
+          38.5890723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1998",
+        "partname": "A/C Hose",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "X",
+        "partnum": "AA0568",
+        "partprice": "$60",
+        "partdealer": "Avalanche Auto Parts",
+        "partcountry": " USA",
+        "partstate": "CO",
+        "partcity": "Denver ",
+        "partzip": "32256",
+        "phonea": "1-303-722-3151",
+        "phoneb": "1-303-722-3151"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.984862,
+          39.7392364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2001",
+        "partname": "A/C Hose",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "A",
+        "partnum": "CC8165",
+        "partprice": "$55",
+        "partdealer": "Elgin Super Auto Parts - ARA Pro, MIDW, RTN",
+        "partcountry": " USA",
+        "partstate": "IL",
+        "partcity": "Elgin  ",
+        "partzip": "32256",
+        "phonea": "1-800-232-5564847-695-4000",
+        "phoneb": "1-800-232-5564847-695-4000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2810994,
+          42.03726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1998",
+        "partname": "A/C Hose",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "A",
+        "partnum": "22A045",
+        "partprice": "$55",
+        "partdealer": "Brandy Brow Auto Parts",
+        "partcountry": " USA",
+        "partstate": "NH",
+        "partcity": "Plaistow  ",
+        "partzip": "32256",
+        "phonea": "1-800-292-1149",
+        "phoneb": "1-800-292-1149"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0947805,
+          42.8364781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2001",
+        "partname": "A/C Hose",
+        "partmake": "Acura",
+        "partmodel": "CL",
+        "partgrade": "X",
+        "partnum": "306017",
+        "partprice": "$55",
+        "partdealer": "A Plus Auto Salvage",
+        "partcountry": " USA",
+        "partstate": "TX",
+        "partcity": "Ft.-Worth  ",
+        "partzip": "32256",
+        "phonea": "800-877-3220817-561-2222",
+        "phoneb": "800-877-3220817-561-2222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3327459,
+          32.753177
+        ]
+      }
     }
   ]
 }
