@@ -2200,6 +2200,2706 @@
           32.753177
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1998",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "X",
+        "partnum": "130264",
+        "partprice": "$55",
+        "partdealer": "Flamingo Auto",
+        "partcountry": " USA",
+        "partstate": "FL",
+        "partcity": "Homestead  ",
+        "partzip": "32256",
+        "phonea": "305-245-6183",
+        "phoneb": "305-245-6183"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4759905,
+          25.4718946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2002",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "$SK457",
+        "partprice": "$52",
+        "partdealer": "LKQ-Keystone- Of Slippery Rock",
+        "partcountry": " USA",
+        "partstate": "PA",
+        "partcity": "Slippery-Rock ",
+        "partzip": "32256",
+        "phonea": "(724)794-6913",
+        "phoneb": "(724)794-6913"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0564468,
+          41.0639506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1997",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "X",
+        "partnum": "002715",
+        "partprice": "$51.5",
+        "partdealer": "A-1 Auto & Cycle Salvage",
+        "partcountry": " USA",
+        "partstate": "OH",
+        "partcity": "Crestline  ",
+        "partzip": "32256",
+        "phonea": "1-419-683-1485",
+        "phoneb": "1-419-683-1485"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7365677,
+          40.7875572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1998",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "223081",
+        "partprice": "$50",
+        "partdealer": "Ohio Auto Recycling LLC",
+        "partcountry": " USA",
+        "partstate": "OH",
+        "partcity": "Mogadore  ",
+        "partzip": "32256",
+        "phonea": "330-790-5700",
+        "phoneb": "330-790-5700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.393946,
+          41.050775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1997",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "S027P",
+        "partprice": "$50",
+        "partdealer": "East Coast Auto Source VARA",
+        "partcountry": " USA",
+        "partstate": "VA",
+        "partcity": "Moneta  ",
+        "partzip": "32256",
+        "phonea": "1-800-869-0655",
+        "phoneb": "1-800-869-0655"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6172536,
+          37.1812537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1999",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "T008P",
+        "partprice": "$50",
+        "partdealer": "East Coast Auto Source VARA",
+        "partcountry": " USA",
+        "partstate": "VA",
+        "partcity": "Moneta  ",
+        "partzip": "32256",
+        "phonea": "1-800-869-0655",
+        "phoneb": "1-800-869-0655"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6172536,
+          37.1812537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1999",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "T00211",
+        "partprice": "$50",
+        "partdealer": "A-1 Auto Parts - Dallas",
+        "partcountry": " USA",
+        "partstate": "TX",
+        "partcity": "Dallas  ",
+        "partzip": "32256",
+        "phonea": "1-800-242-2097",
+        "phoneb": "1-800-242-2097"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7968559,
+          32.7762719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2001",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "C",
+        "partnum": "180953",
+        "partprice": "$50",
+        "partdealer": "M and M Service and Salvage Yard Inc.",
+        "partcountry": " USA",
+        "partstate": "VA",
+        "partcity": "Ruckersville  ",
+        "partzip": "32256",
+        "phonea": "800-248-6161",
+        "phoneb": "800-533-4099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.369175,
+          38.2331873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1999",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "X",
+        "partnum": "22405",
+        "partprice": "$50",
+        "partdealer": "Glenn and Jerry's",
+        "partcountry": " USA",
+        "partstate": "TX",
+        "partcity": "Fort-Worth  ",
+        "partzip": "32256",
+        "phonea": "1-888-251-6115",
+        "phoneb": "1-888-251-6115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3327459,
+          32.753177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1999",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "7C7328",
+        "partprice": "$50",
+        "partdealer": "#1 Morgan Highway Auto Parts",
+        "partcountry": " USA",
+        "partstate": "PA",
+        "partcity": "Scranton  ",
+        "partzip": "32256",
+        "phonea": "1-800-648-1441",
+        "phoneb": "1-800-648-1441"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6621294,
+          41.4086874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1997",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "X",
+        "partnum": "10779",
+        "partprice": "$50",
+        "partdealer": "M-45 Auto Parts, Inc.",
+        "partcountry": " USA",
+        "partstate": "MI",
+        "partcity": "West-Olive  ",
+        "partzip": "32256",
+        "phonea": "(616)842-0213",
+        "phoneb": "(616)842-0213"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1471466,
+          42.921341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1997",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "C",
+        "partnum": "012113",
+        "partprice": "$50",
+        "partdealer": "LaPoint Discount - MIDW, RTN",
+        "partcountry": " USA",
+        "partstate": "OH",
+        "partcity": "Holland  ",
+        "partzip": "32256",
+        "phonea": "800-845-0270",
+        "phoneb": "419-865-2329"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.711604,
+          41.621718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2001",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "WF061",
+        "partprice": "$50",
+        "partdealer": "Fleetwood Motors Company VARA",
+        "partcountry": " USA",
+        "partstate": "VA",
+        "partcity": "King-William  ",
+        "partzip": "32256",
+        "phonea": "1-800-800-6826",
+        "phoneb": "1-800-800-6826"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0690284,
+          37.6940722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2001",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "PA0363",
+        "partprice": "$50",
+        "partdealer": "Premier Auto Recyclers",
+        "partcountry": " USA",
+        "partstate": "VA",
+        "partcity": "Warsaw  ",
+        "partzip": "32256",
+        "phonea": "804-394-2000",
+        "phoneb": "804-394-2000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7580211,
+          37.9587465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1999",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "X",
+        "partnum": "AX2125",
+        "partprice": "$50",
+        "partdealer": "Youngstown Auto Wrecking LLC-RTN, MIDW, ARA, CDC",
+        "partcountry": " USA",
+        "partstate": "OH",
+        "partcity": "Youngstown  ",
+        "partzip": "32256",
+        "phonea": "330-743-1492",
+        "phoneb": "330-743-1492"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6520161,
+          41.1035786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2001",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "X",
+        "partnum": "AW2489",
+        "partprice": "$50",
+        "partdealer": "Youngstown Auto Wrecking LLC-RTN, MIDW, ARA, CDC",
+        "partcountry": " USA",
+        "partstate": "OH",
+        "partcity": "Youngstown  ",
+        "partzip": "32256",
+        "phonea": "330-743-1492",
+        "phoneb": "330-743-1492"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6520161,
+          41.1035786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1997",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "X",
+        "partnum": "70815",
+        "partprice": "$50",
+        "partdealer": "JKL Auto Products & Service",
+        "partcountry": " USA",
+        "partstate": "PA",
+        "partcity": "Telford  ",
+        "partzip": "32256",
+        "phonea": "215-234-4386",
+        "phoneb": "215-234-4386"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3279538,
+          40.3220483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1997",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "X",
+        "partnum": "OU0519",
+        "partprice": "$50",
+        "partdealer": "JKL Auto Products & Service",
+        "partcountry": " USA",
+        "partstate": "PA",
+        "partcity": "Telford  ",
+        "partzip": "32256",
+        "phonea": "215-234-4386",
+        "phoneb": "215-234-4386"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3279538,
+          40.3220483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1998",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "FN0165",
+        "partprice": "$50",
+        "partdealer": "Route 65 Auto, Inc",
+        "partcountry": " USA",
+        "partstate": "PA",
+        "partcity": "New-Castle  ",
+        "partzip": "32256",
+        "phonea": "724-856-3422",
+        "phoneb": "724-856-3422"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3471856,
+          40.9999202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1999",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "150047",
+        "partprice": "$50",
+        "partdealer": "Northtown Auto Parts",
+        "partcountry": " USA",
+        "partstate": "OH",
+        "partcity": "Toledo  ",
+        "partzip": "32256",
+        "phonea": "800-430-6610",
+        "phoneb": "419-531-7777"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5378173,
+          41.6529143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1998",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "200195",
+        "partprice": "$50",
+        "partdealer": "A and B Auto Salvage",
+        "partcountry": " USA",
+        "partstate": "GA",
+        "partcity": "Griffin  ",
+        "partzip": "32256",
+        "phonea": "770-229-9122",
+        "phoneb": "770-229-9122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2640904,
+          33.2467807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1997",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "X",
+        "partnum": "210449",
+        "partprice": "$50",
+        "partdealer": "Checker Auto Salvage",
+        "partcountry": " USA",
+        "partstate": "OK",
+        "partcity": "Lawton  ",
+        "partzip": "32256",
+        "phonea": "1-800-838-8697",
+        "phoneb": "1-800-838-8697"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.3903305,
+          34.6086854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1998",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "X",
+        "partnum": "210352",
+        "partprice": "$50",
+        "partdealer": "Checker Auto Salvage",
+        "partcountry": " USA",
+        "partstate": "OK",
+        "partcity": "Lawton  ",
+        "partzip": "32256",
+        "phonea": "1-800-838-8697",
+        "phoneb": "1-800-838-8697"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.3903305,
+          34.6086854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1999",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "00012072",
+        "partprice": "$50",
+        "partdealer": "Bob's Auto Wrecking",
+        "partcountry": " USA",
+        "partstate": "OH",
+        "partcity": "Milan  ",
+        "partzip": "32256",
+        "phonea": "419-499-2005",
+        "phoneb": "419-499-2005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6054547,
+          41.2975519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1998",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "009464",
+        "partprice": "$50",
+        "partdealer": "Allen's Used Auto Parts",
+        "partcountry": " USA",
+        "partstate": "FL",
+        "partcity": "Tampa  ",
+        "partzip": "32256",
+        "phonea": "813-620-4242",
+        "phoneb": "813-620-4242"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.458444,
+          27.9477595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1999",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "X",
+        "partnum": "ELA054",
+        "partprice": "$50",
+        "partdealer": "B & R Auto Wrecking, Eugene",
+        "partcountry": " USA",
+        "partstate": "OR",
+        "partcity": "Eugene ",
+        "partzip": "32256",
+        "phonea": "888-752-1118",
+        "phoneb": "888-752-1118"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0950506,
+          44.0505054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1998",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "X",
+        "partnum": "130094",
+        "partprice": "$50",
+        "partdealer": "Specialty Automotive",
+        "partcountry": " USA",
+        "partstate": "FL",
+        "partcity": "St.-Augustine  ",
+        "partzip": "32256",
+        "phonea": "1-877-825-0257",
+        "phoneb": "1-877-825-0257"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3145395,
+          29.8946952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1999",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "X",
+        "partnum": "140029",
+        "partprice": "$50",
+        "partdealer": "Specialty Automotive",
+        "partcountry": " USA",
+        "partstate": "FL",
+        "partcity": "St.-Augustine  ",
+        "partzip": "32256",
+        "phonea": "1-877-825-0257",
+        "phoneb": "1-877-825-0257"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3145395,
+          29.8946952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1999",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "22B004",
+        "partprice": "$50",
+        "partdealer": "Shifflett Used Auto Parts",
+        "partcountry": " USA",
+        "partstate": "MD",
+        "partcity": "Westminster  ",
+        "partzip": "32256",
+        "phonea": "410-876-3277",
+        "phoneb": "410-876-3277"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9959277,
+          39.5752639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2001",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "2W0451",
+        "partprice": "$50",
+        "partdealer": "A & A Auto and Truck Parts, Inc",
+        "partcountry": " USA",
+        "partstate": "KS",
+        "partcity": "Topeka  ",
+        "partzip": "32256",
+        "phonea": "785-234-6662",
+        "phoneb": "785-234-6661785-234-6662"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.677556,
+          39.049011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2001",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "X",
+        "partnum": "218584",
+        "partprice": "$50",
+        "partdealer": "C & L Used Auto Parts",
+        "partcountry": " USA",
+        "partstate": "GA",
+        "partcity": "Atlanta ",
+        "partzip": "32256",
+        "phonea": "1-404-755-3595",
+        "phoneb": "1-404-755-3595"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3902644,
+          33.7489924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1997",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "00011918",
+        "partprice": "$50",
+        "partdealer": "Bone Yard",
+        "partcountry": " USA",
+        "partstate": "CO",
+        "partcity": "Denver  ",
+        "partzip": "32256",
+        "phonea": "1-303-295-3534",
+        "phoneb": "1-303-295-3534"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.984862,
+          39.7392364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1997",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "F18015",
+        "partprice": "$50",
+        "partdealer": "Catalina Auto Recyclers",
+        "partcountry": " USA",
+        "partstate": "AZ",
+        "partcity": "Tucson  ",
+        "partzip": "32256",
+        "phonea": "520-574-0555",
+        "phoneb": "800-842-7862"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9748477,
+          32.2228765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2001",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "F18014",
+        "partprice": "$50",
+        "partdealer": "Catalina Auto Recyclers",
+        "partcountry": " USA",
+        "partstate": "AZ",
+        "partcity": "Tucson  ",
+        "partzip": "32256",
+        "phonea": "520-574-0555",
+        "phoneb": "800-842-7862"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9748477,
+          32.2228765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1999",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "X",
+        "partnum": "AX2125",
+        "partprice": "$50",
+        "partdealer": "Brickyard Auto Parts, LLC-MIDW",
+        "partcountry": " USA",
+        "partstate": "PA",
+        "partcity": "Darlington  ",
+        "partzip": "32256",
+        "phonea": "1-724-775-5098",
+        "phoneb": "1-724-775-5098"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4225656,
+          40.8095078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2001",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "X",
+        "partnum": "AW2489",
+        "partprice": "$50",
+        "partdealer": "Brickyard Auto Parts, LLC-MIDW",
+        "partcountry": " USA",
+        "partstate": "PA",
+        "partcity": "Darlington  ",
+        "partzip": "32256",
+        "phonea": "1-724-775-5098",
+        "phoneb": "1-724-775-5098"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4225656,
+          40.8095078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2001",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "155733",
+        "partprice": "$50",
+        "partdealer": "Newington Auto Parts, Inc.",
+        "partcountry": " USA",
+        "partstate": "CT",
+        "partcity": "Newington  ",
+        "partzip": "32256",
+        "phonea": "1-860-666-6122",
+        "phoneb": "1-860-666-6122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7237063,
+          41.6978777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1998",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "C",
+        "partnum": "AC2668",
+        "partprice": "$50",
+        "partdealer": "Black Diamond Auto Wrecking",
+        "partcountry": " USA",
+        "partstate": "WA",
+        "partcity": "Black-Diamond  ",
+        "partzip": "32256",
+        "phonea": "1-877-809-8809",
+        "phoneb": "1-877-809-8809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0037583,
+          47.3083078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2001",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "AC2031",
+        "partprice": "$50",
+        "partdealer": "Black Diamond Auto Wrecking",
+        "partcountry": " USA",
+        "partstate": "WA",
+        "partcity": "Black-Diamond  ",
+        "partzip": "32256",
+        "phonea": "1-877-809-8809",
+        "phoneb": "1-877-809-8809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0037583,
+          47.3083078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1997",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "1W0233",
+        "partprice": "$50",
+        "partdealer": "A & A Auto and Truck Parts, Inc.",
+        "partcountry": " USA",
+        "partstate": "KS",
+        "partcity": "Topeka  ",
+        "partzip": "32256",
+        "phonea": "1-785-234-6662",
+        "phoneb": "1-785-234-6661"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.677556,
+          39.049011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1998",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "X",
+        "partnum": "9995",
+        "partprice": "$50",
+        "partdealer": "Redline Performance",
+        "partcountry": " USA",
+        "partstate": "CA",
+        "partcity": "Rancho-Cordova  ",
+        "partzip": "32256",
+        "phonea": "916-853-1122",
+        "phoneb": "916-853-1122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.302728,
+          38.5890723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1998",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "C",
+        "partnum": "D0710",
+        "partprice": "$50",
+        "partdealer": "Gilbert and Mitchell Auto Parts",
+        "partcountry": " USA",
+        "partstate": "KY",
+        "partcity": "Louisville ",
+        "partzip": "32256",
+        "phonea": "800-624-0915",
+        "phoneb": "502-366-0323"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.759407,
+          38.2542376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1997",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "038035",
+        "partprice": "$50",
+        "partdealer": "G & N Used Auto Parts",
+        "partcountry": " USA",
+        "partstate": "NC",
+        "partcity": "Rocky-Mount  ",
+        "partzip": "32256",
+        "phonea": "252-977-3710",
+        "phoneb": "252-977-3710"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7956949,
+          35.9423833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2001",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "C",
+        "partnum": "210240",
+        "partprice": "$50",
+        "partdealer": "AC Auto Salvage",
+        "partcountry": " USA",
+        "partstate": "GA",
+        "partcity": "Athens  ",
+        "partzip": "32256",
+        "phonea": "706-548-1644",
+        "phoneb": "706-548-1644"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.376398,
+          33.9597677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2002",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "CA9159",
+        "partprice": "$50",
+        "partdealer": "Central  Auto  Liquidators-ELITE",
+        "partcountry": " USA",
+        "partstate": "NJ",
+        "partcity": "Franklin  ",
+        "partzip": "32256",
+        "phonea": "973-827-3696",
+        "phoneb": "973-827-3696"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.5804378,
+          41.1220409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1999",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "C",
+        "partnum": "200510",
+        "partprice": "$50",
+        "partdealer": "Auto & Truck Recycling of Marengo",
+        "partcountry": " USA",
+        "partstate": "OH",
+        "partcity": "Marengo  ",
+        "partzip": "32256",
+        "phonea": "419-253-0403",
+        "phoneb": "419-253-0403"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8107329,
+          40.4008945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1998",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "X",
+        "partnum": "130",
+        "partprice": "$50",
+        "partdealer": "Smartparts Auto & Truck Dismantling",
+        "partcountry": " USA",
+        "partstate": "CA",
+        "partcity": "Fontana  ",
+        "partzip": "32256",
+        "phonea": "626-498-3932",
+        "phoneb": "909-429-4604626-456-4583626-498-3932"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.435048,
+          34.0922335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2001",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "X",
+        "partnum": "7H0239",
+        "partprice": "$50",
+        "partdealer": "Willie Mote Used Auto Parts, Inc.",
+        "partcountry": " USA",
+        "partstate": "IN",
+        "partcity": "Burnettsville  ",
+        "partzip": "32256",
+        "phonea": "574-826-4146",
+        "phoneb": "800-225-4963"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5936179,
+          40.7611507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1997",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "X",
+        "partnum": "3661",
+        "partprice": "$50",
+        "partdealer": "Eagle Mountain Auto Salvage",
+        "partcountry": " USA",
+        "partstate": "TX",
+        "partcity": "Ft.-Worth  ",
+        "partzip": "32256",
+        "phonea": "817-237-3350",
+        "phoneb": "817-237-3350"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3327459,
+          32.753177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2001",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "00002399",
+        "partprice": "$50",
+        "partdealer": "AAA Broadway Auto Parts",
+        "partcountry": " USA",
+        "partstate": "AZ",
+        "partcity": "Phoenix  ",
+        "partzip": "32256",
+        "phonea": "602-276-1200",
+        "phoneb": "602-276-1200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.074141,
+          33.4484367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1998",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "X",
+        "partnum": "RI0096",
+        "partprice": "$50",
+        "partdealer": "Trade Center Auto Recyclers ",
+        "partcountry": " USA",
+        "partstate": "CO",
+        "partcity": "Rifle  ",
+        "partzip": "32256",
+        "phonea": "970-625-1499",
+        "phoneb": "970-625-1499"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.7831199,
+          39.5347023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1998",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "X",
+        "partnum": "221278",
+        "partprice": "$50",
+        "partdealer": "R.H. Willson Used Auto Parts",
+        "partcountry": " USA",
+        "partstate": "MA",
+        "partcity": "Pepperell  ",
+        "partzip": "32256",
+        "phonea": "800-336-2503",
+        "phoneb": "978-433-2503"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6030963,
+          42.6697695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1997",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "X",
+        "partnum": "1C3599",
+        "partprice": "$50",
+        "partdealer": "Stokes Auto Parts",
+        "partcountry": " USA",
+        "partstate": "MD",
+        "partcity": "Jefferson  ",
+        "partzip": "32256",
+        "phonea": "301-663-0944",
+        "phoneb": "301-663-0944"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5321,
+          39.3620729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1997",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "1E5809",
+        "partprice": "$50",
+        "partdealer": "Stokes Auto Parts",
+        "partcountry": " USA",
+        "partstate": "MD",
+        "partcity": "Jefferson  ",
+        "partzip": "32256",
+        "phonea": "301-663-0944",
+        "phoneb": "301-663-0944"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5321,
+          39.3620729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2001",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "019923",
+        "partprice": "$50",
+        "partdealer": "A-1 Auto and Truck Recyclers - PRP",
+        "partcountry": " USA",
+        "partstate": "CO",
+        "partcity": "Penrose  ",
+        "partzip": "32256",
+        "phonea": "719-372-6588",
+        "phoneb": "719-372-6588"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0032347655312,
+          38.4116595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1999",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "P26310",
+        "partprice": "$48.75",
+        "partdealer": "All Foreign Auto Parts - MIDW, CDC",
+        "partcountry": " USA",
+        "partstate": "PA",
+        "partcity": "Pittsburgh  ",
+        "partzip": "32256",
+        "phonea": "412-782-5580",
+        "phoneb": "412-782-5580"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9900861,
+          40.4416941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2001",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "C",
+        "partnum": "10-131",
+        "partprice": "$48",
+        "partdealer": "G & R Auto Wreckers - Troutdale",
+        "partcountry": " USA",
+        "partstate": "OR",
+        "partcity": "Troutdale  ",
+        "partzip": "32256",
+        "phonea": "503-667-6818",
+        "phoneb": "503-667-6818"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.391155,
+          45.5317928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2002",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "003194",
+        "partprice": "$46.35",
+        "partdealer": "A-1 Auto & Cycle Salvage",
+        "partcountry": " USA",
+        "partstate": "OH",
+        "partcity": "Crestline  ",
+        "partzip": "32256",
+        "phonea": "1-419-683-1485",
+        "phoneb": "1-419-683-1485"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7365677,
+          40.7875572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1997",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "8F8336",
+        "partprice": "$45",
+        "partdealer": "Eastside Auto Salvage",
+        "partcountry": " USA",
+        "partstate": "NC",
+        "partcity": "Jacksonville  ",
+        "partzip": "32256",
+        "phonea": "1-800-435-2886",
+        "phoneb": "1-800-435-2886"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4208221,
+          34.7494749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1998",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "0K0054",
+        "partprice": "$45",
+        "partdealer": "Eastside Auto Salvage",
+        "partcountry": " USA",
+        "partstate": "NC",
+        "partcity": "Jacksonville  ",
+        "partzip": "32256",
+        "phonea": "1-800-435-2886",
+        "phoneb": "1-800-435-2886"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4208221,
+          34.7494749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1997",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "K022",
+        "partprice": "$45",
+        "partdealer": "Fleetwood Motors Company VARA",
+        "partcountry": " USA",
+        "partstate": "VA",
+        "partcity": "King-William  ",
+        "partzip": "32256",
+        "phonea": "1-800-800-6826",
+        "phoneb": "1-800-800-6826"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0690284,
+          37.6940722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1997",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "WB003",
+        "partprice": "$45",
+        "partdealer": "Fleetwood Motors Company VARA",
+        "partcountry": " USA",
+        "partstate": "VA",
+        "partcity": "King-William  ",
+        "partzip": "32256",
+        "phonea": "1-800-800-6826",
+        "phoneb": "1-800-800-6826"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0690284,
+          37.6940722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1997",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "C",
+        "partnum": "WI193",
+        "partprice": "$45",
+        "partdealer": "Fleetwood Motors Company VARA",
+        "partcountry": " USA",
+        "partstate": "VA",
+        "partcity": "King-William  ",
+        "partzip": "32256",
+        "phonea": "1-800-800-6826",
+        "phoneb": "1-800-800-6826"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0690284,
+          37.6940722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1998",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "NB115",
+        "partprice": "$45",
+        "partdealer": "Fleetwood Motors Company VARA",
+        "partcountry": " USA",
+        "partstate": "VA",
+        "partcity": "King-William  ",
+        "partzip": "32256",
+        "phonea": "1-800-800-6826",
+        "phoneb": "1-800-800-6826"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0690284,
+          37.6940722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1998",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "SB001",
+        "partprice": "$45",
+        "partdealer": "Fleetwood Motors Company VARA",
+        "partcountry": " USA",
+        "partstate": "VA",
+        "partcity": "King-William  ",
+        "partzip": "32256",
+        "phonea": "1-800-800-6826",
+        "phoneb": "1-800-800-6826"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0690284,
+          37.6940722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1998",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "XF221",
+        "partprice": "$45",
+        "partdealer": "Fleetwood Motors Company VARA",
+        "partcountry": " USA",
+        "partstate": "VA",
+        "partcity": "King-William  ",
+        "partzip": "32256",
+        "phonea": "1-800-800-6826",
+        "phoneb": "1-800-800-6826"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0690284,
+          37.6940722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1997",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "9783",
+        "partprice": "$45",
+        "partdealer": "Parts-X-Press",
+        "partcountry": " USA",
+        "partstate": "MO",
+        "partcity": "Hillsboro  ",
+        "partzip": "32256",
+        "phonea": "1-636-274-1600",
+        "phoneb": "1-636-274-1600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5629034,
+          38.2322766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2001",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "416443",
+        "partprice": "$45",
+        "partdealer": "Action Auto Parts of St. Paul, Inc.",
+        "partcountry": " USA",
+        "partstate": "MN",
+        "partcity": "St.-Paul  ",
+        "partzip": "32256",
+        "phonea": "1-800-243-2448",
+        "phoneb": "1-800-243-2448"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0931028,
+          44.9497487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1999",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "C",
+        "partnum": "210178",
+        "partprice": "$45",
+        "partdealer": "American Auto & Truck Salvage, Inc.",
+        "partcountry": " USA",
+        "partstate": "FL",
+        "partcity": "Fruitland-Park  ",
+        "partzip": "32256",
+        "phonea": "1-800-329-8284",
+        "phoneb": "1-800-329-8284"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9064705,
+          28.8613765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2001",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "C",
+        "partnum": "K15945",
+        "partprice": "$45",
+        "partdealer": "Norb's Auto Salvage ",
+        "partcountry": " USA",
+        "partstate": "WI",
+        "partcity": "Denmark  ",
+        "partzip": "32256",
+        "phonea": "1-800-236-2524",
+        "phoneb": "1-800-236-2524"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8269868,
+          44.3479362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1997",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "X",
+        "partnum": "7862",
+        "partprice": "$45",
+        "partdealer": "Murrell Metals & Parts",
+        "partcountry": " USA",
+        "partstate": "TN",
+        "partcity": "Maryville ",
+        "partzip": "32256",
+        "phonea": "865-982-2394",
+        "phoneb": "865-982-2394"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9704593,
+          35.7564719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1997",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "C",
+        "partnum": "3106",
+        "partprice": "$45",
+        "partdealer": "Madison Heights Auto Parts",
+        "partcountry": " USA",
+        "partstate": "VA",
+        "partcity": "Madison-Heights  ",
+        "partzip": "32256",
+        "phonea": "888-528-8826",
+        "phoneb": "888-528-8826"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1237392,
+          37.4317056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1997",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "AC3254",
+        "partprice": "$45",
+        "partdealer": "Black Diamond Auto Wrecking",
+        "partcountry": " USA",
+        "partstate": "WA",
+        "partcity": "Black-Diamond  ",
+        "partzip": "32256",
+        "phonea": "1-877-809-8809",
+        "phoneb": "1-877-809-8809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0037583,
+          47.3083078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1997",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "X",
+        "partnum": "AA0763",
+        "partprice": "$45",
+        "partdealer": "Avalanche Auto Parts",
+        "partcountry": " USA",
+        "partstate": "CO",
+        "partcity": "Denver ",
+        "partzip": "32256",
+        "phonea": "1-303-722-3151",
+        "phoneb": "1-303-722-3151"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.984862,
+          39.7392364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2001",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "Y13076",
+        "partprice": "$45",
+        "partdealer": "Mendoza's Automotive, Inc.",
+        "partcountry": " USA",
+        "partstate": "WA",
+        "partcity": "Prosser  ",
+        "partzip": "32256",
+        "phonea": "509-882-0500",
+        "phoneb": "509-882-0500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.76916,
+          46.2067583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1999",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "X",
+        "partnum": "190124",
+        "partprice": "$45",
+        "partdealer": "KW Cooks Auto Salvage",
+        "partcountry": " USA",
+        "partstate": "MS",
+        "partcity": "Biloxi  ",
+        "partzip": "32256",
+        "phonea": "1-800-726-0647",
+        "phoneb": "1-228-392-4995"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8893818,
+          30.4007626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1997",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "C",
+        "partnum": "T11897",
+        "partprice": "$45",
+        "partdealer": "Agee's Auto Parts",
+        "partcountry": " USA",
+        "partstate": "VA",
+        "partcity": "Christiansburg  ",
+        "partzip": "32256",
+        "phonea": "800-678-6901",
+        "phoneb": "540-382-2477"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4089389,
+          37.1298517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1998",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "190399",
+        "partprice": "$45",
+        "partdealer": "ABC Auto Salvage Inc.",
+        "partcountry": " USA",
+        "partstate": "MS",
+        "partcity": "Biloxi  ",
+        "partzip": "32256",
+        "phonea": "800-207-3750",
+        "phoneb": "228-392-2288"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8893818,
+          30.4007626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2001",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "X",
+        "partnum": "22302",
+        "partprice": "$45",
+        "partdealer": "ABC Auto Salvage Inc.",
+        "partcountry": " USA",
+        "partstate": "MS",
+        "partcity": "Biloxi  ",
+        "partzip": "32256",
+        "phonea": "800-207-3750",
+        "phoneb": "228-392-2288"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8893818,
+          30.4007626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1997",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "X",
+        "partnum": "RH0021",
+        "partprice": "$45",
+        "partdealer": "Trade Center Auto Recyclers ",
+        "partcountry": " USA",
+        "partstate": "CO",
+        "partcity": "Rifle  ",
+        "partzip": "32256",
+        "phonea": "970-625-1499",
+        "phoneb": "970-625-1499"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.7831199,
+          39.5347023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1998",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "X",
+        "partnum": "AM8415",
+        "partprice": "$45",
+        "partdealer": "Piland Auto Dismantling LLC",
+        "partcountry": " USA",
+        "partstate": "KS",
+        "partcity": "Garden-City  ",
+        "partzip": "32256",
+        "phonea": "800-886-5506",
+        "phoneb": "620-275-5506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.8726618,
+          37.9716898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1999",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "X",
+        "partnum": "20042",
+        "partprice": "$43.21",
+        "partdealer": "Rick's Used Auto Parts, Inc.",
+        "partcountry": " USA",
+        "partstate": "PA",
+        "partcity": "Kersey  ",
+        "partzip": "32256",
+        "phonea": "814-885-6103",
+        "phoneb": "814-885-6103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5961346,
+          41.3622832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2001",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "$K50461",
+        "partprice": "$40",
+        "partdealer": "LKQ-Keystone- South Texas",
+        "partcountry": " USA",
+        "partstate": "TX",
+        "partcity": "Westfield ",
+        "partzip": "32256",
+        "phonea": "1-800-460-8714",
+        "phoneb": "1-800-460-8714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.775019,
+          30.2873717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1998",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "1-122L",
+        "partprice": "$40",
+        "partdealer": "ET Cote Auto Exchange Inc.",
+        "partcountry": " USA",
+        "partstate": "MA",
+        "partcity": "Leominster  ",
+        "partzip": "32256",
+        "phonea": "1-978-537-2420",
+        "phoneb": "1-978-537-2420"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7614891,
+          42.5267443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2001",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "200300",
+        "partprice": "$40",
+        "partdealer": "Black Lane Auto",
+        "partcountry": " USA",
+        "partstate": "IL",
+        "partcity": "Caseyville  ",
+        "partzip": "32256",
+        "phonea": "618-398-5477",
+        "phoneb": "618-398-5477"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0256606,
+          38.6367162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1997",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "X",
+        "partnum": "KK1443",
+        "partprice": "$40",
+        "partdealer": "Marsh Auto Salvage, Inc.",
+        "partcountry": " USA",
+        "partstate": "PA",
+        "partcity": "Dawson  ",
+        "partzip": "32256",
+        "phonea": "855-544-4367",
+        "phoneb": "724-529-0922"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6555384,
+          40.0470291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1997",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "C",
+        "partnum": "009386",
+        "partprice": "$40",
+        "partdealer": "Hon's Automotive",
+        "partcountry": " USA",
+        "partstate": "GA",
+        "partcity": "Cochran  ",
+        "partzip": "32256",
+        "phonea": "1-800-852-1526",
+        "phoneb": "1-800-852-1526"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3546098,
+          32.3868278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1997",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "X",
+        "partnum": "18F266",
+        "partprice": "$40",
+        "partdealer": "Jim's Import Auto Salvage - CDC",
+        "partcountry": " USA",
+        "partstate": "FL",
+        "partcity": "Sebring  ",
+        "partzip": "32256",
+        "phonea": "1-800-447-4707",
+        "phoneb": "1-800-447-4707"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4410425,
+          27.4957453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2002",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "X",
+        "partnum": "18F325",
+        "partprice": "$40",
+        "partdealer": "Jim's Import Auto Salvage - CDC",
+        "partcountry": " USA",
+        "partstate": "FL",
+        "partcity": "Sebring  ",
+        "partzip": "32256",
+        "phonea": "1-800-447-4707",
+        "phoneb": "1-800-447-4707"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4410425,
+          27.4957453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2001",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "X",
+        "partnum": "NN4716",
+        "partprice": "$40",
+        "partdealer": "B and H Used Auto Parts",
+        "partcountry": " USA",
+        "partstate": "NC",
+        "partcity": "Marion  ",
+        "partzip": "32256",
+        "phonea": "800-832-4014",
+        "phoneb": "800-832-4014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0091028,
+          35.6841022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1998",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "X",
+        "partnum": "220022",
+        "partprice": "$40",
+        "partdealer": "Checker Auto Salvage",
+        "partcountry": " USA",
+        "partstate": "OK",
+        "partcity": "Lawton  ",
+        "partzip": "32256",
+        "phonea": "1-800-838-8697",
+        "phoneb": "1-800-838-8697"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.3903305,
+          34.6086854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1997",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "X",
+        "partnum": "F546",
+        "partprice": "$40",
+        "partdealer": "Bill's Auto Parts Tolland",
+        "partcountry": " USA",
+        "partstate": "CT",
+        "partcity": "Tolland  ",
+        "partzip": "32256",
+        "phonea": "1-800-552-4557",
+        "phoneb": "1-800-552-4557"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3562252,
+          41.818446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1999",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "AA0298",
+        "partprice": "$40",
+        "partdealer": "Atlas Auto",
+        "partcountry": " USA",
+        "partstate": "MN",
+        "partcity": "St.-Paul  ",
+        "partzip": "32256",
+        "phonea": "651-221-1957",
+        "phoneb": "651-221-1957"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0931028,
+          44.9497487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1999",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "229253",
+        "partprice": "$40",
+        "partdealer": "Balows Highway 7 Auto Salvage",
+        "partcountry": " USA",
+        "partstate": "MN",
+        "partcity": "Lester-Prairie  ",
+        "partzip": "32256",
+        "phonea": "1-888-395-7278",
+        "phoneb": "1-888-395-7278"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.0416389,
+          44.8838514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1999",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "3734",
+        "partprice": "$40",
+        "partdealer": "AutoWorld Used Auto Parts-ARA",
+        "partcountry": " USA",
+        "partstate": "FL",
+        "partcity": "Opa-Locka  ",
+        "partzip": "32256",
+        "phonea": "305-685-6033",
+        "phoneb": "305-685-6033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2503271,
+          25.9023168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2001",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "A",
+        "partnum": "09172",
+        "partprice": "$40",
+        "partdealer": "Joe's Auto Parts, LLC",
+        "partcountry": " USA",
+        "partstate": "MN",
+        "partcity": "St.-Joseph  ",
+        "partzip": "32256",
+        "phonea": "(320)363-7773",
+        "phoneb": "(320)363-7773"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3180516,
+          45.5645229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1998",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "X",
+        "partnum": "JC11605",
+        "partprice": "$40",
+        "partdealer": "Quarno's Auto Salvage",
+        "partcountry": " USA",
+        "partstate": "FL",
+        "partcity": "Cocoa  ",
+        "partzip": "32256",
+        "phonea": "1-800-952-1561",
+        "phoneb": "1-321-632-7541"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7318827,
+          28.3553873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1999",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "C",
+        "partnum": "Y13706",
+        "partprice": "$40",
+        "partdealer": "Mendoza's Automotive, Inc.",
+        "partcountry": " USA",
+        "partstate": "WA",
+        "partcity": "Prosser  ",
+        "partzip": "32256",
+        "phonea": "509-882-0500",
+        "phoneb": "509-882-0500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.76916,
+          46.2067583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1999",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "X",
+        "partnum": "060429",
+        "partprice": "$40",
+        "partdealer": "Albion Auto Parts-ELITE",
+        "partcountry": " USA",
+        "partstate": "NJ",
+        "partcity": "Berlin  ",
+        "partzip": "32256",
+        "phonea": "1-856-768-2250",
+        "phoneb": "1-856-768-2250"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9290536,
+          39.7912262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2001",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "TL",
+        "partgrade": "C",
+        "partnum": "A0D024",
+        "partprice": "$40",
+        "partdealer": "Andrew's Automotive and Salvage",
+        "partcountry": " USA",
+        "partstate": "NC",
+        "partcity": "Hillsborough",
+        "partzip": "32256",
+        "phonea": "919-241-4211",
+        "phoneb": "919-241-4211"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0992279,
+          36.0752297
+        ]
+      }
     }
   ]
 }
