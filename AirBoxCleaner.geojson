@@ -4900,6 +4900,438 @@
           36.0752297
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1994",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "Vigor",
+        "partgrade": "A",
+        "partnum": "CB4150",
+        "partprice": "$75",
+        "partdealer": "Fagan Auto Parts",
+        "partcountry": " USA",
+        "partstate": "AL",
+        "partcity": "Piedmont ",
+        "partzip": "32256",
+        "phonea": "1-800-331-5282",
+        "phoneb": "1-800-331-5282"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.231635,
+          37.8243715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1994",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "Vigor",
+        "partgrade": "X",
+        "partnum": "4G174",
+        "partprice": "$50",
+        "partdealer": "Best Foreign Auto Salvage",
+        "partcountry": " USA",
+        "partstate": "PA",
+        "partcity": "Aliquippa ",
+        "partzip": "32256",
+        "phonea": "1-800-370-6002",
+        "phoneb": "1-800-370-6002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.267726,
+          40.6102386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1994",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "Vigor",
+        "partgrade": "C",
+        "partnum": "000057",
+        "partprice": "$50",
+        "partdealer": "Hon's Automotive",
+        "partcountry": " USA",
+        "partstate": "GA",
+        "partcity": "Cochran  ",
+        "partzip": "32256",
+        "phonea": "1-800-852-1526",
+        "phoneb": "1-800-852-1526"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3546098,
+          32.3868278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1994",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "Vigor",
+        "partgrade": "X",
+        "partnum": "OU0507",
+        "partprice": "$50",
+        "partdealer": "JKL Auto Products & Service",
+        "partcountry": " USA",
+        "partstate": "PA",
+        "partcity": "Telford  ",
+        "partzip": "32256",
+        "phonea": "215-234-4386",
+        "phoneb": "215-234-4386"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3279538,
+          40.3220483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1994",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "Vigor",
+        "partgrade": "X",
+        "partnum": "180449",
+        "partprice": "$45",
+        "partdealer": "Beaver's Honda Salvage",
+        "partcountry": " USA",
+        "partstate": "NC",
+        "partcity": "Mooresville  ",
+        "partzip": "32256",
+        "phonea": "1-800-932-8690",
+        "phoneb": "1-704-932-8690"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8100724,
+          35.5848596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1994",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "Vigor",
+        "partgrade": "A",
+        "partnum": "GCP2214",
+        "partprice": "$45",
+        "partdealer": "Georgia-Carolina Parts and Recycling",
+        "partcountry": " USA",
+        "partstate": "GA",
+        "partcity": "Commerce  ",
+        "partzip": "32256",
+        "phonea": "404-524-4038",
+        "phoneb": "706-335-5166"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4571058,
+          34.203997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1994",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "Vigor",
+        "partgrade": "C",
+        "partnum": "9411600",
+        "partprice": "$40",
+        "partdealer": "Chesney Auto Salvage",
+        "partcountry": " USA",
+        "partstate": "MN",
+        "partcity": "Duluth  ",
+        "partzip": "32256",
+        "phonea": "1-800-826-2941",
+        "phoneb": "1-800-826-2941"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.1251218,
+          46.7729322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1994",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "Vigor",
+        "partgrade": "A",
+        "partnum": "230538",
+        "partprice": "$40",
+        "partdealer": "Black Diamond Auto Wrecking",
+        "partcountry": " USA",
+        "partstate": "WA",
+        "partcity": "Black-Diamond  ",
+        "partzip": "32256",
+        "phonea": "1-877-809-8809",
+        "phoneb": "1-877-809-8809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0037583,
+          47.3083078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1994",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "Vigor",
+        "partgrade": "A",
+        "partnum": "230874",
+        "partprice": "$40",
+        "partdealer": "Black Diamond Auto Wrecking",
+        "partcountry": " USA",
+        "partstate": "WA",
+        "partcity": "Black-Diamond  ",
+        "partzip": "32256",
+        "phonea": "1-877-809-8809",
+        "phoneb": "1-877-809-8809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0037583,
+          47.3083078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1994",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "Vigor",
+        "partgrade": "A",
+        "partnum": "H088P",
+        "partprice": "$35",
+        "partdealer": "East Coast Auto Source VARA",
+        "partcountry": " USA",
+        "partstate": "VA",
+        "partcity": "Moneta  ",
+        "partzip": "32256",
+        "phonea": "1-800-869-0655",
+        "phoneb": "1-800-869-0655"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6172536,
+          37.1812537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1994",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "Vigor",
+        "partgrade": "X",
+        "partnum": "P9857",
+        "partprice": "$25",
+        "partdealer": "ABC Auto Wrecking",
+        "partcountry": " USA",
+        "partstate": "AZ",
+        "partcity": "Tucson  ",
+        "partzip": "32256",
+        "phonea": "520-294-1234",
+        "phoneb": "520-294-1234"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9748477,
+          32.2228765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1994",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "Vigor",
+        "partgrade": "X",
+        "partnum": "M197",
+        "partprice": "$Call",
+        "partdealer": "M & M Imports - Will Call Only - No Shipping",
+        "partcountry": " USA",
+        "partstate": "CA",
+        "partcity": "Fontana  ",
+        "partzip": "32256",
+        "phonea": "909-428-1111",
+        "phoneb": "909-428-1111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.435048,
+          34.0922335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1994",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "Vigor",
+        "partgrade": "A",
+        "partnum": "NL0152",
+        "partprice": "$Call",
+        "partdealer": "Case Used Parts #1",
+        "partcountry": " USA",
+        "partstate": "SC",
+        "partcity": "Marion  ",
+        "partzip": "32256",
+        "phonea": "800-234-2928",
+        "phoneb": "843-423-4711"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3987578,
+          34.0572007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1994",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "Vigor",
+        "partgrade": "A",
+        "partnum": "W11679",
+        "partprice": "$Call",
+        "partdealer": "AR1 Auto Parts",
+        "partcountry": " USA",
+        "partstate": "WA",
+        "partcity": "Yakima  ",
+        "partzip": "32256",
+        "phonea": "509-452-0818",
+        "phoneb": "866-270-3221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.510842,
+          46.601557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1994",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "Vigor",
+        "partgrade": "A",
+        "partnum": "7134SF",
+        "partprice": "$Call",
+        "partdealer": "Wilson Auto Salvage",
+        "partcountry": " USA",
+        "partstate": "FL",
+        "partcity": "Dover  ",
+        "partzip": "32256",
+        "phonea": "813-659-3225",
+        "phoneb": "813-659-3225"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.22171105983051,
+          27.99439345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1994",
+        "partname": "Air Box Cleaner",
+        "partmake": "Acura",
+        "partmodel": "Vigor",
+        "partgrade": "A",
+        "partnum": "210307",
+        "partprice": "$Call",
+        "partdealer": "Cress Collision Service",
+        "partcountry": " USA",
+        "partstate": "DE",
+        "partcity": "New-Castle  ",
+        "partzip": "32256",
+        "phonea": "302-328-8864",
+        "phoneb": "302-328-8863"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.662956,
+          39.6159851
+        ]
+      }
     }
   ]
 }
