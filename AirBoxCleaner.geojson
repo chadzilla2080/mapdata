@@ -5332,6 +5332,1409 @@
           39.6159851
         ]
       }
+    },
+    {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1991",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "A",
+        "partnum": "AZ0162",
+        "partprice": "$435",
+        "partdealer": "Riverside Used Auto Parts",
+        "partcountry": " USA",
+        "partstate": "LA",
+        "partcity": "Marrero  ",
+        "partzip": "32256",
+        "phonea": "504-347-1440",
+        "phoneb": "800-828-4290",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.11844862641495,
+          29.8835055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1995",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "A",
+        "partnum": "AZ0231",
+        "partprice": "$345",
+        "partdealer": "Riverside Used Auto Parts",
+        "partcountry": " USA",
+        "partstate": "LA",
+        "partcity": "Marrero  ",
+        "partzip": "32256",
+        "phonea": "504-347-1440",
+        "phoneb": "800-828-4290",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.11844862641495,
+          29.8835055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1995",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "A",
+        "partnum": "VG8233",
+        "partprice": "$325",
+        "partdealer": "Late Model Auto Salvage / Fenix Parts Inc.",
+        "partcountry": " USA",
+        "partstate": "TX",
+        "partcity": "Haltom-City  ",
+        "partzip": "32256",
+        "phonea": "817-916-5325",
+        "phoneb": "817-916-5325",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2691817,
+          32.7995738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1991",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "A",
+        "partnum": "AZ0162",
+        "partprice": "$170",
+        "partdealer": "Clearwater Auto Recycling",
+        "partcountry": " USA",
+        "partstate": "FL",
+        "partcity": "Largo  ",
+        "partzip": "32256",
+        "phonea": "888-902-1212",
+        "phoneb": "888-902-1212",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7873244,
+          27.9094665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1995",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "A",
+        "partnum": "H9J007",
+        "partprice": "$170",
+        "partdealer": "Lentini Auto Salvage-Elite. PRP",
+        "partcountry": " USA",
+        "partstate": "NJ",
+        "partcity": "Ringoes  ",
+        "partzip": "32256",
+        "phonea": "908-806-6529",
+        "phoneb": "908-806-6529",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8675019,
+          40.4289354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1999",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "A",
+        "partnum": "103506",
+        "partprice": "$166.25",
+        "partdealer": "Kosiski Auto Parts, Inc. - RTN, PRP West, PRP Midwest",
+        "partcountry": " USA",
+        "partstate": "NE",
+        "partcity": "Omaha  ",
+        "partzip": "32256",
+        "phonea": "402-964-2976",
+        "phoneb": "888-927-8427",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9383758,
+          41.2587459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1995",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "A",
+        "partnum": "H9J007",
+        "partprice": "$165",
+        "partdealer": "Chucks Auto Salvage - PRP-NE, RTN",
+        "partcountry": " USA",
+        "partstate": "PA",
+        "partcity": "Douglasville  ",
+        "partzip": "32256",
+        "phonea": "267-281-9540",
+        "phoneb": "484-925-0904",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7983237,
+          33.5542714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1991",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "A",
+        "partnum": "AZ0162",
+        "partprice": "$155",
+        "partdealer": "Raceway Auto Parts (RCD) (CDC)",
+        "partcountry": " USA",
+        "partstate": "TN",
+        "partcity": "Savannah ",
+        "partzip": "32256",
+        "phonea": "833-311-3094",
+        "phoneb": "833-311-3094",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2492037,
+          35.2248034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1995",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "A",
+        "partnum": "DU3160",
+        "partprice": "$154.5",
+        "partdealer": "Kosiski Auto Parts, Inc. - RTN, PRP West, PRP Midwest",
+        "partcountry": " USA",
+        "partstate": "NE",
+        "partcity": "Omaha ",
+        "partzip": "32256",
+        "phonea": "402-964-2207",
+        "phoneb": "833-793-1892",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9383758,
+          41.2587459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1999",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "X",
+        "partnum": "180215",
+        "partprice": "$150",
+        "partdealer": "Tri County Auto Dismantlers",
+        "partcountry": " USA",
+        "partstate": "CA",
+        "partcity": "Santa-Paula  ",
+        "partzip": "32256",
+        "phonea": "877-667-2787",
+        "phoneb": "805-647-8440",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0592705,
+          34.3541659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2005",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "A",
+        "partnum": "A121",
+        "partprice": "$150",
+        "partdealer": "Shamrock Auto Salvage",
+        "partcountry": " USA",
+        "partstate": "CA",
+        "partcity": "Ridgecrest  ",
+        "partzip": "32256",
+        "phonea": "760-446-5865",
+        "phoneb": "760-446-5865",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6699414,
+          35.6225064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1999",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "A",
+        "partnum": "103506",
+        "partprice": "$147.5",
+        "partdealer": "A & C Auto Parts - RTN, MIDW, CDC, CAR, URG",
+        "partcountry": " USA",
+        "partstate": "OH",
+        "partcity": "Cleveland  ",
+        "partzip": "32256",
+        "phonea": "216-961-6840",
+        "phoneb": "800-545-6842",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6936772,
+          41.4996574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1995",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "A",
+        "partnum": "DU3160",
+        "partprice": "$142.93",
+        "partdealer": "Central Auto Parts-PRP West/URG 8000/ARA",
+        "partcountry": " USA",
+        "partstate": "CO",
+        "partcity": "Denver ",
+        "partzip": "32256",
+        "phonea": "1-800-869-9025",
+        "phoneb": "1-303-295-2277",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.984862,
+          39.7392364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1995",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "A",
+        "partnum": "AZ0231",
+        "partprice": "$140",
+        "partdealer": "Clearwater Auto Recycling",
+        "partcountry": " USA",
+        "partstate": "FL",
+        "partcity": "Largo  ",
+        "partzip": "32256",
+        "phonea": "888-902-1212",
+        "phoneb": "888-902-1212",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7873244,
+          27.9094665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1999",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "A",
+        "partnum": "103506",
+        "partprice": "$128.5",
+        "partdealer": "Veldman's Auto Parts - MWRP, RTN, CDC",
+        "partcountry": " USA",
+        "partstate": "IN",
+        "partcity": "South-Bend ",
+        "partzip": "32256",
+        "phonea": "574-288-4423",
+        "phoneb": "800-888-3821",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2500066,
+          41.6833813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1995",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "A",
+        "partnum": "AZ0231",
+        "partprice": "$126.25",
+        "partdealer": "Raceway Auto Parts (RCD) (CDC)",
+        "partcountry": " USA",
+        "partstate": "TN",
+        "partcity": "Savannah ",
+        "partzip": "32256",
+        "phonea": "833-311-3094",
+        "phoneb": "833-311-3094",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2492037,
+          35.2248034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1999",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "A",
+        "partnum": "103506",
+        "partprice": "$121.25",
+        "partdealer": "Rocki Top Auto Salvage - ARA, MIDW, RTN",
+        "partcountry": " USA",
+        "partstate": "WI",
+        "partcity": "Glen-Flora  ",
+        "partzip": "32256",
+        "phonea": "715-322-5774",
+        "phoneb": "715-322-5774",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8940314,
+          45.4958022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2003",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "X",
+        "partnum": "B04203",
+        "partprice": "$100.2",
+        "partdealer": "BK Auto Wrecking",
+        "partcountry": " USA",
+        "partstate": "CA",
+        "partcity": "Paramount  ",
+        "partzip": "32256",
+        "phonea": "562-630-5223",
+        "phoneb": "562-630-5223",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.171005,
+          33.898917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1998",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "X",
+        "partnum": "BO7350",
+        "partprice": "$100",
+        "partdealer": "Black's Auto Salvage",
+        "partcountry": " USA",
+        "partstate": "LA",
+        "partcity": "Brusly  ",
+        "partzip": "32256",
+        "phonea": "225-749-3161",
+        "phoneb": "225-749-3161",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.2537199,
+          30.3943588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1990",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "C",
+        "partnum": "150637",
+        "partprice": "$100",
+        "partdealer": "Tri County Auto Dismantlers",
+        "partcountry": " USA",
+        "partstate": "CA",
+        "partcity": "Santa-Paula  ",
+        "partzip": "32256",
+        "phonea": "877-667-2787",
+        "phoneb": "805-647-8440",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0592705,
+          34.3541659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1991",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "A",
+        "partnum": "AZ0162",
+        "partprice": "$100",
+        "partdealer": "OK Auto Parts #1",
+        "partcountry": " USA",
+        "partstate": "MS",
+        "partcity": "Richland  ",
+        "partzip": "32256",
+        "phonea": "1-800-748-7539",
+        "phoneb": "1-800-748-7539",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1584207,
+          32.2390366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1991",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "X",
+        "partnum": "PAG004",
+        "partprice": "$100",
+        "partdealer": "Knik Towing & Wrecking (Alaska)",
+        "partcountry": " USA",
+        "partstate": "AK",
+        "partcity": "Wasilla ",
+        "partzip": "32256",
+        "phonea": "1-907-376-2584",
+        "phoneb": "1-907-376-2584",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.442563,
+          61.5824216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1995",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "A",
+        "partnum": "MLG320",
+        "partprice": "$100",
+        "partdealer": "Knik Towing & Wrecking (Alaska)",
+        "partcountry": " USA",
+        "partstate": "AK",
+        "partcity": "Wasilla ",
+        "partzip": "32256",
+        "phonea": "1-907-376-2584",
+        "phoneb": "1-907-376-2584",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.442563,
+          61.5824216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1994",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "A",
+        "partnum": "ECG035",
+        "partprice": "$100",
+        "partdealer": "Knik Towing & Wrecking (Alaska)",
+        "partcountry": " USA",
+        "partstate": "AK",
+        "partcity": "Wasilla ",
+        "partzip": "32256",
+        "phonea": "1-907-376-2584",
+        "phoneb": "1-907-376-2584",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.442563,
+          61.5824216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1995",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "A",
+        "partnum": "R0719",
+        "partprice": "$100",
+        "partdealer": "Archies Auto Recyclers",
+        "partcountry": " USA",
+        "partstate": "IN",
+        "partcity": "Merrillville  ",
+        "partzip": "32256",
+        "phonea": "219-981-0122",
+        "phoneb": "219-981-0122",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3328139,
+          41.4828144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1989",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "A",
+        "partnum": "16158",
+        "partprice": "$98",
+        "partdealer": "R. Stroud's, Inc. - RTN, MIDW",
+        "partcountry": " USA",
+        "partstate": "NC",
+        "partcity": "Youngsville ",
+        "partzip": "32256",
+        "phonea": "919-989-4836",
+        "phoneb": "919-989-4836",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4767034,
+          36.0247769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1995",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "A",
+        "partnum": "H9J007",
+        "partprice": "$95",
+        "partdealer": "C & H Salvage Corp URG8000/Goldseal - PRP NE",
+        "partcountry": " USA",
+        "partstate": "NY",
+        "partcity": "Campbell-Hall  ",
+        "partzip": "32256",
+        "phonea": "1-800-859-5998",
+        "phoneb": "1-800-859-5998",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2659071,
+          41.4506548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1996",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "A",
+        "partnum": "UD0526",
+        "partprice": "$95",
+        "partdealer": "Patterson Auto Wrecking-RTN, MIDW, ARA, CDC",
+        "partcountry": " USA",
+        "partstate": "PA",
+        "partcity": "Cochranton  ",
+        "partzip": "32256",
+        "phonea": "814-425-7415",
+        "phoneb": "800-822-2028",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0483929,
+          41.5200534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2004",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "A",
+        "partnum": "$K10810",
+        "partprice": "$95",
+        "partdealer": "LKQ-Keystone- Stockton",
+        "partcountry": " USA",
+        "partstate": "CA",
+        "partcity": "Stockton  ",
+        "partzip": "32256",
+        "phonea": "1-800-424-2002",
+        "phoneb": "1-800-424-2002",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2907796,
+          37.9577016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2000",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "A",
+        "partnum": "X2W0815",
+        "partprice": "$95",
+        "partdealer": "Hanser's Automotive and Wrecking Company - PRP West",
+        "partcountry": " USA",
+        "partstate": "MT",
+        "partcity": "Billings  ",
+        "partzip": "32256",
+        "phonea": "800-345-1754",
+        "phoneb": "800-345-1754",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.49607,
+          45.7874957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2000",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "A",
+        "partnum": "G494",
+        "partprice": "$90.25",
+        "partdealer": "Gravely Auto Parts - VARA, PRP MWRP",
+        "partcountry": " USA",
+        "partstate": "VA",
+        "partcity": "Axton  ",
+        "partzip": "32256",
+        "phonea": "276-650-2547",
+        "phoneb": "800-491-4814",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.711978,
+          36.659582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1995",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "A",
+        "partnum": "GK5069",
+        "partprice": "$85",
+        "partdealer": "Northern Neck Auto Parts",
+        "partcountry": " USA",
+        "partstate": "VA",
+        "partcity": "King-George  ",
+        "partzip": "32256",
+        "phonea": "1-800-847-4547",
+        "phoneb": "1-800-847-4547",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.175356,
+          38.2786312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2002",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "X",
+        "partnum": "B16034",
+        "partprice": "$85",
+        "partdealer": "M and R Auto",
+        "partcountry": " USA",
+        "partstate": "AZ",
+        "partcity": "Hereford  ",
+        "partzip": "32256",
+        "phonea": "1-800-362-0810",
+        "phoneb": "1-800-362-0810",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.0978554,
+          31.4384325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2003",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "A",
+        "partnum": "$Y17942",
+        "partprice": "$82",
+        "partdealer": "LKQ-Keystone- Adelanto",
+        "partcountry": " USA",
+        "partstate": "CA",
+        "partcity": "Adelanto ",
+        "partzip": "32256",
+        "phonea": "800-525-3667",
+        "phoneb": "800-525-3667",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.409215,
+          34.5827699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1995",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "A",
+        "partnum": "DU3160",
+        "partprice": "$78.75",
+        "partdealer": "Denton Auto Salvage - PRP Midwest",
+        "partcountry": " USA",
+        "partstate": "KS",
+        "partcity": "St.-Marys  ",
+        "partzip": "32256",
+        "phonea": "1-800-641-2886",
+        "phoneb": "1-800-641-2886",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0711041,
+          39.194164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2004",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "A",
+        "partnum": "$W35724",
+        "partprice": "$77",
+        "partdealer": "LKQ-Keystone- FL Lake City",
+        "partcountry": " USA",
+        "partstate": "FL",
+        "partcity": "Lake-City ",
+        "partzip": "32256",
+        "phonea": "1-888-849-7887",
+        "phoneb": "1-888-849-7887",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6394803,
+          30.1894252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1990",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "X",
+        "partnum": "B05909",
+        "partprice": "$75.2",
+        "partdealer": "BK Auto Wrecking",
+        "partcountry": " USA",
+        "partstate": "CA",
+        "partcity": "Paramount  ",
+        "partzip": "32256",
+        "phonea": "562-630-5223",
+        "phoneb": "562-630-5223",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.171005,
+          33.898917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1985",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "X",
+        "partnum": "HH614",
+        "partprice": "$75.1",
+        "partdealer": "Aacon Auto Parts",
+        "partcountry": " USA",
+        "partstate": "CA",
+        "partcity": "Los-Angeles  ",
+        "partzip": "32256",
+        "phonea": "1-323-589-5048",
+        "phoneb": "1-323-589-5048",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1994",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "X",
+        "partnum": "916943",
+        "partprice": "$75",
+        "partdealer": "Hilltop Auto Salvage",
+        "partcountry": " USA",
+        "partstate": "NY",
+        "partcity": "Bronx  ",
+        "partzip": "32256",
+        "phonea": "718-324-0706",
+        "phoneb": "718-324-0706",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8785937,
+          40.8466508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1997",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "X",
+        "partnum": "10274",
+        "partprice": "$75",
+        "partdealer": "M-45 Auto Parts, Inc.",
+        "partcountry": " USA",
+        "partstate": "MI",
+        "partcity": "West-Olive  ",
+        "partzip": "32256",
+        "phonea": "(616)842-0213",
+        "phoneb": "(616)842-0213",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1471466,
+          42.921341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1996",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "X",
+        "partnum": "B2328C",
+        "partprice": "$75",
+        "partdealer": "B-J Used Auto Parts & Dism. Inc",
+        "partcountry": " USA",
+        "partstate": "CA",
+        "partcity": "Downey  ",
+        "partzip": "32256",
+        "phonea": "562-927-8621",
+        "phoneb": "562-927-8621",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1292846,
+          33.9404441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1999",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "A",
+        "partnum": "103506",
+        "partprice": "$75",
+        "partdealer": "Yancey Auto Parts - ARA, MATR, MIDW, RTN, CDC",
+        "partcountry": " USA",
+        "partstate": "MO",
+        "partcity": "Perry  ",
+        "partzip": "32256",
+        "phonea": "1-800-492-6239",
+        "phoneb": "1-800-492-6239",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8430248,
+          37.7107349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1995",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "A",
+        "partnum": "AZ0231",
+        "partprice": "$75",
+        "partdealer": "OK Auto Parts #1",
+        "partcountry": " USA",
+        "partstate": "MS",
+        "partcity": "Richland  ",
+        "partzip": "32256",
+        "phonea": "1-800-748-7539",
+        "phoneb": "1-800-748-7539",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1584207,
+          32.2390366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2000",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "A",
+        "partnum": "OLG271",
+        "partprice": "$75",
+        "partdealer": "Knik Towing & Wrecking (Alaska)",
+        "partcountry": " USA",
+        "partstate": "AK",
+        "partcity": "Wasilla ",
+        "partzip": "32256",
+        "phonea": "1-907-376-2584",
+        "phoneb": "1-907-376-2584",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.442563,
+          61.5824216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2001",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "A",
+        "partnum": "OGG139",
+        "partprice": "$75",
+        "partdealer": "Knik Towing & Wrecking (Alaska)",
+        "partcountry": " USA",
+        "partstate": "AK",
+        "partcity": "Wasilla ",
+        "partzip": "32256",
+        "phonea": "1-907-376-2584",
+        "phoneb": "1-907-376-2584",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.442563,
+          61.5824216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2001",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "A",
+        "partnum": "019102",
+        "partprice": "$75",
+        "partdealer": "Hilltop Recycling",
+        "partcountry": " USA",
+        "partstate": "AK",
+        "partcity": "Chugiak ",
+        "partzip": "32256",
+        "phonea": "1-877-696-2246",
+        "phoneb": "1-877-696-2246",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.4949094405849,
+          61.3736751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2001",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "A",
+        "partnum": "021025",
+        "partprice": "$75",
+        "partdealer": "Hilltop Recycling",
+        "partcountry": " USA",
+        "partstate": "AK",
+        "partcity": "Chugiak ",
+        "partzip": "32256",
+        "phonea": "1-877-696-2246",
+        "phoneb": "1-877-696-2246",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.4949094405849,
+          61.3736751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "2004",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "A",
+        "partnum": "020100",
+        "partprice": "$75",
+        "partdealer": "Hilltop Recycling",
+        "partcountry": " USA",
+        "partstate": "AK",
+        "partcity": "Chugiak ",
+        "partzip": "32256",
+        "phonea": "1-877-696-2246",
+        "phoneb": "1-877-696-2246",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.4949094405849,
+          61.3736751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1998",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "X",
+        "partnum": "22I003",
+        "partprice": "$75",
+        "partdealer": "Shifflett Used Auto Parts",
+        "partcountry": " USA",
+        "partstate": "MD",
+        "partcity": "Westminster  ",
+        "partzip": "32256",
+        "phonea": "410-876-3277",
+        "phoneb": "410-876-3277",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9959277,
+          39.5752639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partindex": "Air Box Cleaner",
+        "partyear": "1993",
+        "partname": "Air Box Cleaner",
+        "partmake": "GMC",
+        "partmodel": "Van",
+        "partgrade": "X",
+        "partnum": "AA0088",
+        "partprice": "$75",
+        "partdealer": "Clayton's Auto Parts, Inc.",
+        "partcountry": " USA",
+        "partstate": "VA",
+        "partcity": "Carrollton  ",
+        "partzip": "32256",
+        "phonea": "1-757-238-2885",
+        "phoneb": "1-757-238-2885",
+        "altitude": "0.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0870251,
+          39.0903762
+        ]
+      }
     }
   ]
 }
